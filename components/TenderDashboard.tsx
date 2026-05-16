@@ -7,6 +7,7 @@ interface Tender {
   name: string;
   org: string;
   amount: string;
+  publishedDate?: string;
   openDate: string;
   closeDate: string;
   addedOn: string;
@@ -168,13 +169,18 @@ function TenderCard({ tender, today, onRemove }: { tender: Tender; today: string
           </div>
         </div>
 
-        {/* Footer row: countdown + chevron */}
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', minHeight: 20 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 5, fontSize: 12, color: u.text }}>
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
-              <circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" />
-            </svg>
-            <span>{days <= 0 ? 'Closed' : `${days} day${days !== 1 ? 's' : ''} remaining`}</span>
+        {/* Footer row: published date + countdown + chevron */}
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', minHeight: 20, gap: 8 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 5, fontSize: 12, color: u.text }}>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
+                <circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" />
+              </svg>
+              <span>{days <= 0 ? 'Closed' : `${days} day${days !== 1 ? 's' : ''} remaining`}</span>
+            </div>
+            <span style={{ fontSize: 11, color: '#4a4a4a' }}>
+              Published {fmtDate(tender.publishedDate || tender.addedOn)}
+            </span>
           </div>
           <svg
             width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#555" strokeWidth="2.2"
@@ -193,7 +199,8 @@ function TenderCard({ tender, today, onRemove }: { tender: Tender; today: string
           <DetailRow label="Bid Opens" value={`${fmtDay(tender.openDate)}, ${fmtDate(tender.openDate)}`} />
           <DetailRow label="Bid Closes" value={`${fmtDay(tender.closeDate)}, ${fmtDate(tender.closeDate)}`} color={closeDateColor} />
           <DetailRow label="Days Left" value={days <= 0 ? 'Closed' : `${days} day${days !== 1 ? 's' : ''}`} color={u.text} />
-          <DetailRow label="Added On" value={fmtDate(tender.addedOn)} />
+          <DetailRow label="e-Published" value={fmtDate(tender.publishedDate || tender.addedOn)} />
+          <DetailRow label="First Scraped" value={fmtDate(tender.addedOn)} />
           <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: 4 }}>
             <button
               onClick={e => { e.stopPropagation(); onRemove(); }}
@@ -302,6 +309,7 @@ export default function TenderDashboard() {
   const [search, setSearch] = useState('');
   const [showAdd, setShowAdd] = useState(false);
   const [scraping, setScraping] = useState<'idle' | 'pending' | 'queued' | 'error'>('idle');
+  const [sortOrder, setSortOrder] = useState<'latest' | 'oldest'>('latest');
 
   const today = useMemo(() => new Date().toISOString().slice(0, 10), []);
 
@@ -348,10 +356,18 @@ export default function TenderDashboard() {
 
   const displayed = useMemo(() => {
     const base = tab === 'fresh' ? fresh : tab === 'closing' ? closing : tenders;
-    if (!search.trim()) return base;
-    const q = search.toLowerCase();
-    return base.filter(t => t.name.toLowerCase().includes(q) || t.org.toLowerCase().includes(q));
-  }, [tab, tenders, fresh, closing, search]);
+    const filtered = search.trim()
+      ? base.filter(t => t.name.toLowerCase().includes(search.toLowerCase()) || t.org.toLowerCase().includes(search.toLowerCase()))
+      : base;
+    if (tab === 'all') {
+      return [...filtered].sort((a, b) => {
+        const da = a.publishedDate || a.addedOn;
+        const db = b.publishedDate || b.addedOn;
+        return sortOrder === 'latest' ? db.localeCompare(da) : da.localeCompare(db);
+      });
+    }
+    return filtered;
+  }, [tab, tenders, fresh, closing, search, sortOrder]);
 
   const tabs: { key: Tab; label: string; count: number }[] = [
     { key: 'all',     label: 'All',     count: tenders.length },
@@ -468,6 +484,28 @@ export default function TenderDashboard() {
               </span>
             </button>
           ))}
+
+          {/* Sort toggle — only on All tab */}
+          {tab === 'all' && (
+            <div style={{ marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: 4, paddingRight: 4, flexShrink: 0 }}>
+              {(['latest', 'oldest'] as const).map(o => (
+                <button
+                  key={o}
+                  onClick={() => setSortOrder(o)}
+                  style={{
+                    padding: '4px 10px', border: 'none', borderRadius: 6,
+                    background: sortOrder === o ? '#3b82f620' : 'transparent',
+                    color: sortOrder === o ? '#3b82f6' : '#444',
+                    fontSize: 11, fontWeight: 600, cursor: 'pointer',
+                    fontFamily: 'inherit', whiteSpace: 'nowrap',
+                    transition: 'all 150ms',
+                  }}
+                >
+                  {o === 'latest' ? '↓ Latest' : '↑ Oldest'}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
 
         {/* ── States ── */}

@@ -12,6 +12,7 @@ logger = logging.getLogger(__name__)
 #   4: Title and Ref.No./Tender ID (contains <a> link to detail page)
 #   5: Organisation Chain
 _COL_SNO = 0
+_COL_PUBLISHED = 1
 _COL_CLOSE = 2
 _COL_OPEN = 3
 _COL_TITLE = 4
@@ -81,8 +82,10 @@ def extract_rows(html: str, location: str = "Noida") -> list[dict[str, Any]]:
         if not re.match(r"^\d+\.$", sno):
             continue
 
+        raw_published = tds[_COL_PUBLISHED].get_text(strip=True)
         raw_close = tds[_COL_CLOSE].get_text(strip=True)
         raw_open = tds[_COL_OPEN].get_text(strip=True)
+        published_date = _parse_date(raw_published)
         close_date = _parse_date(raw_close)
         open_date = _parse_date(raw_open)
 
@@ -102,6 +105,7 @@ def extract_rows(html: str, location: str = "Noida") -> list[dict[str, Any]]:
             "name": title,
             "org": org,
             "amount": "",           # filled later by visiting the detail page
+            "publishedDate": published_date or raw_published,
             "openDate": open_date or raw_open,
             "closeDate": close_date or raw_close,
             "addedOn": today,
