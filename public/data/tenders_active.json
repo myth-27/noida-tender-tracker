@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-15T19:37:03Z",
+  "lastFetched": "2026-05-16T06:27:54Z",
   "location": "Noida",
-  "totalActive": 225,
+  "totalActive": 221,
   "tenders": [
     {
       "name": "M/o Drain (Maintenance and Covering of Drain between Sector-58 and 59, 60) Noida] [54/GM/SM(WC-05)/2026-27][2026_NOIDA_1147392_1]",
@@ -1111,15 +1111,6 @@
       "location": "Noida"
     },
     {
-      "name": "Work] [ST.ET-01/ETD-I/W/2026-27][2026_UPTCL_1145466_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD-I NOIDA",
-      "amount": "86300",
-      "openDate": "2026-05-16",
-      "closeDate": "2026-05-15",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
       "name": "Cleaning and Desilting taking debris/Silt for covered drains Culvert/Ramp of Sector-63, 63A, 64, 65 and 69, and Ramps Encroachment in Blocks, Noida.] [16/GM(C)/SM(WC-4)/ET/2026-27][2026_NOIDA_1145447_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "19999595",
@@ -1651,15 +1642,6 @@
       "location": "Noida"
     },
     {
-      "name": "Special Repair/Maintenance work of Gate no. 01 and 02 And Toilet Block at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [351/Unit-3/Park Maintenance/RNN/26 Date 02/04/2026][2026_UPRNN_1132843_1]",
-      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
-      "amount": "128681000",
-      "openDate": "2026-05-16",
-      "closeDate": "2026-05-15",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
       "name": "Special Repair/ Maintenance work of Column Plaza and Pathway at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [350/Unit-3/Park Maintenance/RNN/26 Date 02-04-2026][2026_UPRNN_1132824_1]",
       "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
       "amount": "269860000",
@@ -1908,24 +1890,6 @@
       "amount": "",
       "openDate": "2026-06-03",
       "closeDate": "2026-06-02",
-      "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-02/ETCN/2026-27][2026_UPTCL_1134210_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "536662",
-      "openDate": "2026-05-16",
-      "closeDate": "2026-05-15",
-      "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-01/ETCN/2026-27][2026_UPTCL_1134195_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "738935",
-      "openDate": "2026-05-16",
-      "closeDate": "2026-05-15",
       "addedOn": "2026-05-13",
       "location": "Noida"
     },
