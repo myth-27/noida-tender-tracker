@@ -396,9 +396,16 @@ export default function TenderDashboard() {
               {scraping === 'pending' ? '⟳ Scraping…' : scraping === 'queued' ? '✓ Queued ~5 min' : scraping === 'error' ? '✗ Failed' : '⟳ Scrape Now'}
             </button>
           </div>
-          <p style={{ fontSize: 11, color: '#4a4a4a', paddingLeft: 16, marginTop: 4 }}>
-            UP NIC eProcurement · scraped daily at 11:00 AM IST
-          </p>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 16, paddingLeft: 16, marginTop: 4, flexWrap: 'wrap' as const }}>
+            <p style={{ fontSize: 11, color: '#4a4a4a' }}>
+              UP NIC eProcurement · scraped daily at 11:00 AM IST
+            </p>
+            {lastFetched && (
+              <p style={{ fontSize: 11, color: '#3b82f6', fontWeight: 600 }}>
+                ✓ Last scraped: {fmtLastFetched(lastFetched)}
+              </p>
+            )}
+          </div>
         </div>
 
         {/* ── Stats bar (2×2) ── */}
@@ -506,7 +513,6 @@ export default function TenderDashboard() {
         {!loading && !error && (
           <p style={{ textAlign: 'center', fontSize: 11, color: '#333', marginTop: 32 }}>
             {displayed.length} of {tenders.length} tenders
-            {lastFetched ? ` · Last fetched: ${fmtLastFetched(lastFetched)}` : ''}
           </p>
         )}
       </div>
