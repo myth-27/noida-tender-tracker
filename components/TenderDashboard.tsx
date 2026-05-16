@@ -301,6 +301,7 @@ export default function TenderDashboard() {
   const [tab, setTab] = useState<Tab>('all');
   const [search, setSearch] = useState('');
   const [showAdd, setShowAdd] = useState(false);
+  const [scraping, setScraping] = useState<'idle' | 'pending' | 'queued' | 'error'>('idle');
 
   const today = useMemo(() => new Date().toISOString().slice(0, 10), []);
 
@@ -322,6 +323,23 @@ export default function TenderDashboard() {
   }
 
   useEffect(() => { load(); }, []);
+
+  async function triggerScrape() {
+    setScraping('pending');
+    try {
+      const res = await fetch('/api/trigger', { method: 'POST' });
+      if (res.ok) {
+        setScraping('queued');
+        setTimeout(() => setScraping('idle'), 8000);
+      } else {
+        setScraping('error');
+        setTimeout(() => setScraping('idle'), 4000);
+      }
+    } catch {
+      setScraping('error');
+      setTimeout(() => setScraping('idle'), 4000);
+    }
+  }
 
   const fresh   = useMemo(() => tenders.filter(t => t.addedOn === today), [tenders, today]);
   const closing = useMemo(() =>
@@ -354,14 +372,31 @@ export default function TenderDashboard() {
 
         {/* ── Header ── */}
         <div style={{ padding: '20px 0 16px', borderBottom: '1px solid #1a1a1a', marginBottom: 14 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 9, marginBottom: 4 }}>
-            <span style={{ width: 7, height: 7, borderRadius: '50%', background: '#22c55e', boxShadow: '0 0 7px #22c55e', display: 'inline-block', flexShrink: 0 }} />
-            <span style={{ fontSize: 11, color: '#22c55e', fontWeight: 700, letterSpacing: '0.09em' }}>LIVE</span>
-            <h1 style={{ fontSize: 17, fontWeight: 800, color: '#fff', letterSpacing: '-0.01em' }}>
-              Noida Tender Tracker
-            </h1>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 8 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 9 }}>
+              <span style={{ width: 7, height: 7, borderRadius: '50%', background: '#22c55e', boxShadow: '0 0 7px #22c55e', display: 'inline-block', flexShrink: 0 }} />
+              <span style={{ fontSize: 11, color: '#22c55e', fontWeight: 700, letterSpacing: '0.09em' }}>LIVE</span>
+              <h1 style={{ fontSize: 17, fontWeight: 800, color: '#fff', letterSpacing: '-0.01em' }}>
+                Noida Tender Tracker
+              </h1>
+            </div>
+            <button
+              onClick={triggerScrape}
+              disabled={scraping === 'pending'}
+              style={{
+                padding: '6px 12px', borderRadius: 8, border: '1px solid #252525',
+                background: scraping === 'queued' ? '#14532d' : scraping === 'error' ? '#7f1d1d' : '#1a1a1a',
+                color: scraping === 'queued' ? '#4ade80' : scraping === 'error' ? '#f87171' : '#bbb',
+                fontSize: 11, fontWeight: 600, cursor: scraping === 'pending' ? 'not-allowed' : 'pointer',
+                fontFamily: 'inherit', whiteSpace: 'nowrap', minHeight: 32,
+                opacity: scraping === 'pending' ? 0.6 : 1,
+                transition: 'all 200ms',
+              }}
+            >
+              {scraping === 'pending' ? '⟳ Scraping…' : scraping === 'queued' ? '✓ Queued ~5 min' : scraping === 'error' ? '✗ Failed' : '⟳ Scrape Now'}
+            </button>
           </div>
-          <p style={{ fontSize: 11, color: '#4a4a4a', paddingLeft: 16 }}>
+          <p style={{ fontSize: 11, color: '#4a4a4a', paddingLeft: 16, marginTop: 4 }}>
             UP NIC eProcurement · scraped daily at 11:00 AM IST
           </p>
         </div>
