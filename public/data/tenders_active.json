@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-16T07:42:11Z",
+  "lastFetched": "2026-05-17T08:08:20Z",
   "location": "Noida",
-  "totalActive": 221,
+  "totalActive": 222,
   "tenders": [
     {
       "name": "M/o Drain (Maintenance and Covering of Drain between Sector-58 and 59, 60) Noida] [54/GM/SM(WC-05)/2026-27][2026_NOIDA_1147392_1]",
@@ -1990,6 +1990,16 @@
       "openDate": "2026-06-06",
       "closeDate": "2026-06-05",
       "addedOn": "2026-05-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Production_Supplying_Pouring of RMC at 5_5 Km 6 lane Elevated Road over Junction Nos 10_11 and 12 Near Barola and Bhangel and Sector 42_48_49_47_101 and 107 on DSC Road Noida] [447/E-Tender/Bhangel /2026-27][2026_UPSBC_1149602_1]",
+      "org": "UP STATE BRIDGE CORPORATION LIMITED||JMD UPSBC Ghaziabad||GM / CPM UP SBC Ghaziabad||DPM BCU - Greater Noida",
+      "amount": "3300000",
+      "publishedDate": "2026-05-16",
+      "openDate": "2026-05-26",
+      "closeDate": "2026-05-26",
+      "addedOn": "2026-05-17",
       "location": "Noida"
     }
   ]
