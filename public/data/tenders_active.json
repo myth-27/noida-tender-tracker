@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-20T08:54:23Z",
+  "lastFetched": "2026-05-21T07:36:43Z",
   "location": "Noida",
-  "totalActive": 264,
+  "totalActive": 278,
   "tenders": [
     {
       "name": "M/o Drain (Maintenance and Covering of Drain between Sector-58 and 59, 60) Noida] [54/GM/SM(WC-05)/2026-27][2026_NOIDA_1147392_1]",
@@ -652,74 +652,11 @@
       "location": "Noida"
     },
     {
-      "name": "M/o Park (Annual Maintenance of Shaheed Bhagat Singh Park in Sector-150), Noida. (Civil Work)] [03/D(H)/DD(H)-III/2026-27][2026_NOIDA_1146275_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "9497203",
-      "openDate": "2026-05-21",
-      "closeDate": "2026-05-20",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Park (C/o Approach road for Churning Plant in C-Block Park Sector-80) Noida.] [04/D(H)/DD(H)-III/2026-27][2026_NOIDA_1146288_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "5059318",
-      "openDate": "2026-05-21",
-      "closeDate": "2026-05-20",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park (C/o Footpath and other Civil Maintenance Work in Park, Opposite Sikka Kaamna Greens, Sector-141) NOIDA.] [02/D(H)/DD(H)-III/2026-27][2026_NOIDA_1146251_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "4120777",
-      "openDate": "2026-05-21",
-      "closeDate": "2026-05-20",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
-      "name": "Re Grassing of L Shape Park Sector-44 and RSP Around Japani Park Sector-94, Sector-127, 128 Central Verge Near Samshan Ghat Pusta Sector-94, Noida.] [02/D(H)/DD(H)-II /2026-27][2026_NOIDA_1146239_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "5384944",
-      "openDate": "2026-05-21",
-      "closeDate": "2026-05-20",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Green Belt (Repairing and Raising Boundry Wall and P/F Grill at Boundry wall of Green Belt along Road No-6 infront of Sector-64), Noida] [01/D(H)//DD(H)-I/2026-27][2026_NOIDA_1146222_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "5559266",
-      "openDate": "2026-05-21",
-      "closeDate": "2026-05-20",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Green Belt (C/o 10 Nos. Recharge Pit on Bengaluru Theme at different Location in green belt and parks of Horticulture Division-II), Noida.] [01/D(H)/DD(H)-II/2026-27][2026_NOIDA_1146189_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "508384",
-      "openDate": "2026-05-21",
-      "closeDate": "2026-05-20",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
       "name": "Supply of Printing and Stationary Items] [05/E-TENDER/SPO/2026-27][2026_NOIDA_1145009_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "7997200",
       "openDate": "2026-05-28",
       "closeDate": "2026-05-27",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
-      "name": "CONSTRUCTION OF 11 KV LINE FOR RELEASING CONNECTION SEAL SOLAR ON TURNKEY BASIS UNDER 11 KV YEIDA] [05/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1144358_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "6884000",
-      "openDate": "2026-05-20",
-      "closeDate": "2026-05-20",
       "addedOn": "2026-05-12",
       "location": "Noida"
     },
@@ -792,15 +729,6 @@
       "amount": "1700000000",
       "openDate": "2026-06-08",
       "closeDate": "2026-06-08",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
-      "name": "Supply, Installation, Testing, Commissioning, Operations and Maintenance (SITCOM) of Integrated Security and Traffic Management System (ISTMS) in Greater Noida City] [PROJECT/WC-EM-3/2026/03-04  DATED-20.03.2026][2026_GNIDA_1130147_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "",
-      "openDate": "2026-05-22",
-      "closeDate": "2026-05-20",
       "addedOn": "2026-05-12",
       "location": "Noida"
     },
@@ -946,15 +874,6 @@
       "openDate": "2026-06-03",
       "closeDate": "2026-06-02",
       "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
-      "name": "01/EUDC-COMM/NOIDA/2025-26] [01/EUDC-COMM/NOIDA/2025-26][2026_PVVNL_1114842_4]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "",
-      "openDate": "2026-05-20",
-      "closeDate": "2026-05-20",
-      "addedOn": "2026-05-14",
       "location": "Noida"
     },
     {
@@ -2530,6 +2449,236 @@
       "openDate": "2026-06-10",
       "closeDate": "2026-06-10",
       "addedOn": "2026-05-20",
+      "location": "Noida"
+    },
+    {
+      "name": "Annual Maintenance  of  HVAC System, DG Set , Transformer and Electrical Panel of Panchsheel Auditorium, Sector-91, Noida.] [15/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151197_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5960393",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Annual Maintenance of lighting in Biodiversity Park , Medicinal Park, Wetland park at Sector- 91 and Dog park Sector-137 Noida fully functional.] [14/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151191_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6304394",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing GI octagonal poles  in Service Road Commercial Area sector-143 and Main Road Sector-144, Noida.] [13/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151175_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7467770",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "External Electrification work and Providing Street light Work in Newly Developed 5 percent Abadi Plots Sector-144 Noida.] [12/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151160_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6999888",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance of Road (C/o RCC Footpath, R/o Service Road and making Tree Thawla between Sector-116 and 77), Noida] [20/GM/SM-WC-6/2026-27][2026_NOIDA_1151126_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "19797975",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-02",
+      "closeDate": "2026-06-01",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Lighting Arrangement in Village-Nalgarha, Noida.] [11/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151134_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9758451",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Decorative pole in sector-93B, Noida] [10/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151095_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4371516",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Lighting arrangement in 5 percent Abadi plot in Sector-141, Noida] [08/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151058_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "3314946",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing lighting arrangement in Different Location of blocks- D due to Dark place in sector -47, Noida] [35/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150979_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7719121",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Decorative Pole Lighting Arrangement in main Entrance roads of  sector -112, 116 and 117, Noida] [34/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150970_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "18125078",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Street Lighting arrangement on Internal road of sector-34 and Nar Vihar  Sector-34, Noida] [36/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150989_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7610467",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Low Height Street light pole in different park at Sector-31 B and C Block , Noida] [29/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150882_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5017327",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Electrical Beautification of B-block market in sector-33, Noida] [32/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150921_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2214740",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply and installation of 500 KVA DG Set with one year operation of Skywalk Project at sector-51 Metro station, Noida] [33/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150930_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "12815381",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Street light decorative pole in A and B block road along green belt at Sector-100  , Noida] [31/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150909_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "3320389",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of New Fountain In B Block  park Sector-39 with three year maintenance, Noida] [30/GM(E/M)/SM(E/M)-III/2026-27][2026_NOIDA_1150891_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4519572",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Lighting arrangement in Front of Shanti Niketan Road Sector-143 B, Noida.] [07/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151037_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4313983",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Annual Maintenance of street Light in different location and main road of sector- 80, 81, 83, 84, 85, 86, 87, 88, 89, 90 and there related roads of these Sectors Noida.] [06/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151030_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "14434423",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Shifting of 2 Nos Transformer with LT Line from in Sector-110 market and Strengthening of street light poles around Market.] [03/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1151017_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8139718",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-05-28",
+      "closeDate": "2026-05-26",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "S/I/T/C of 02 Nos CNG Furnance in CNG Cremination at Antim Niwas Sector-94, Noida.] [04/GM(E/M)/SM(E/M)-IV/2026-27][2026_NOIDA_1150892_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9984035",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "SITC of Transformer and Street Light pole Newly Developed Shopping Complex at Express view Apartment sector-93, Noida.] [01/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1150999_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "3682241",
+      "publishedDate": "2026-05-20",
+      "openDate": "2026-05-28",
+      "closeDate": "2026-05-26",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of 30m 24m and 45m wide road in Sector-162 Noida] [18/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1150168_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "82793637",
+      "publishedDate": "2026-05-18",
+      "openDate": "2026-06-02",
+      "closeDate": "2026-06-01",
+      "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply, Installation, Testing, Commissioning, Operations and Maintenance (SITCOM) of Integrated Security and Traffic Management System (ISTMS) in Greater Noida City] [PROJECT/WC-EM-3/2026/03-04  DATED-20.03.2026][2026_GNIDA_1130147_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-03-25",
+      "openDate": "2026-06-25",
+      "closeDate": "2026-06-23",
+      "addedOn": "2026-05-21",
       "location": "Noida"
     }
   ]
