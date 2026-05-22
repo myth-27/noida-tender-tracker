@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-21T09:01:35Z",
+  "lastFetched": "2026-05-22T08:51:27Z",
   "location": "Noida",
-  "totalActive": 279,
+  "totalActive": 292,
   "tenders": [
     {
       "name": "M/o Drain (Maintenance and Covering of Drain between Sector-58 and 59, 60) Noida] [54/GM/SM(WC-05)/2026-27][2026_NOIDA_1147392_1]",
@@ -715,15 +715,6 @@
       "location": "Noida"
     },
     {
-      "name": "Request for Proposal  for Comprehensive Operation and Maintenance Contract of 2 Nos. of Truck Mounted Mechanical Sweeping Machines including Mechanized Sweeping of roads in Greater Noida] [HD/2026/792-793  DATED-22.04.2026.][2026_GNIDA_1141330_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "14435049",
-      "openDate": "2026-05-25",
-      "closeDate": "2026-05-21",
-      "addedOn": "2026-05-12",
-      "location": "Noida"
-    },
-    {
       "name": "PPP Model Development of Bus Terminal Cum Commercial Complex at Noida Uttar Pradesh] [123/PPP CELL/2026-65 PPP/2023 VOL 2 ][2026_UPSRT_1136064_1]",
       "org": "U.P. State Road Transport Corporation||Chief General Manager(Technical)",
       "amount": "1700000000",
@@ -774,42 +765,6 @@
       "amount": "1216800",
       "openDate": "2026-05-28",
       "closeDate": "2026-05-26",
-      "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of Class Rooms, Varandah and Toilet work in Village-Ghanghola and Sirsa, Greater Noida.] [SM/(E-TENDER CELL)/(WC-8)/2026/926 DATED-08.05.2026][2026_GNIDA_1147667_3]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "8050561",
-      "openDate": "2026-05-25",
-      "closeDate": "2026-05-21",
-      "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of Classroom, Varendah, Interlocking tiles and Repairing work in Composite School of Village-Bironda, Greater Noida.] [SM/(E-TENDER CELL)/(WC-8)/2026/926 DATED-08.05.2026][2026_GNIDA_1147667_4]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "3084431",
-      "openDate": "2026-05-25",
-      "closeDate": "2026-05-21",
-      "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of Class Room, Verandah and Repair in Composit School in Village Khanpur, Balla Ki Madhaiya and Girdharpur, Greater Noida.] [SM/(E-TENDER CELL)/(WC-8)/2026/926 DATED-08.05.2026][2026_GNIDA_1147667_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "14329028",
-      "openDate": "2026-05-25",
-      "closeDate": "2026-05-21",
-      "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction and Repair of Boundary wall, Class Rooms and Toilet of Composite School in Village Salempur Gurjar, Greater Noida.] [SM/(E-TENDER CELL)/(WC-8)/2026/926 DATED-08.05.2026][2026_GNIDA_1147667_2]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "4975712",
-      "openDate": "2026-05-25",
-      "closeDate": "2026-05-21",
       "addedOn": "2026-05-13",
       "location": "Noida"
     },
@@ -2689,6 +2644,186 @@
       "openDate": "2026-06-25",
       "closeDate": "2026-06-23",
       "addedOn": "2026-05-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening of DSC road from Surajpur Police Chowki to Denso Company, Greater Noida] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_9]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "71269341",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening of 80.0mtr wide Peripheral Road of Sector Ecotech-1 Ext-1 from Sirsa rotary to EPE Entry point (Both side), Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_20]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "71206278",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of RCC Central Verge and road widening work in 80m wide Road (Asian Paint Company to Sirsa Rotary), Greater Noida.  ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_14]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "81703809",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of RCC Divider of Central Verge at 130m wide road from Tilapta rotary to Sirsa Rotary, Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_13]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "78564945",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of RCC drain along 60.0mtr wide road in sector-01, Greater Noida.] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_19]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "170648390",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of CC road and RCC drain from railway bridge to Goswami road and ABS Collage to Primary school at Village Chipyana Bujurg, Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_18]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "123290736",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening of Main Carriageway of 60 M wide road from  Nawada rotary to Delta Rotary via Omax Rotary to Sai  Mandir Rotary, Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_7]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "60846095",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Road widening of 60m wide road between Tusiyana Cut to Sector-2 and 3 rotary, Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_8]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "66881004",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Improvement of X-ing of Sector-93, 93B, Noida.] [42/GM/SM(NTC)/2025-26][2026_NOIDA_1151915_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6464611",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-02",
+      "closeDate": "2026-06-01",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening of Main Carriageway of 60 M wide road from  Rampur rotary to Delta-2 Rotary, Greater Noida.] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_17]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "71105293",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Reconstruction and new service road and drain kasna entry point to 24m wide road (Sector Extension cut) L.H.S., Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_5]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "45606926",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Resurfacing of 130m wide road from Tilpta rotary point to Makora rotary (Both side), Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_6]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "50749682",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and fixing grass pawer block work around Expomart in Sector KP-2, Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_2]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "22319840",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of foothpath on 60.0m wide main carriage way and Services and road in B/W of Sector Ecotech-1 (Ext.-1) and Techzone-2 from Xu cut to 60m and 80m Junction point at Rampur cut (Both side), Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_3]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "40522520",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Design construction, supply Erection, Testing and commissiong of 80 MLD STP including 120 month O and M in 1st phase at sector Recreational Green R-6 in Gr. Noida] [PROJECT/WC-SEWER/2026/5895  DATED-20.05.2026][2026_GNIDA_1151736_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "2696100830",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-07-10",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Canteen Noida Bus Station] [1455/NOIDA/RM/GEN-CAN/2026 DATED 21.05.2026][2026_UPSRT_1151430_1]",
+      "org": "U.P. State Road Transport Corporation||Chief General Manager(Technical)",
+      "amount": "261017",
+      "publishedDate": "2026-05-21",
+      "openDate": "2026-06-10",
+      "closeDate": "2026-06-09",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "(EOI) FOR  OPERATION, MAINTENANCE AND MANAGEMENT OF SANITARY LANDFILL FACILITY AT ASTAULI, GREATER NOIDA ] [HD/2026/1005  DATED-20.05.2026][2026_GNIDA_1151512_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-05-21",
+      "openDate": "2026-06-02",
+      "closeDate": "2026-06-01",
+      "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "DEVELOPMENT OF GREENFIELD MULTI MODAL LOGISTICS HUB (MMLH) ON DESIGN, BUILD, FINANCE, OPERATE AND TRANSFER (DBFOT) BASIS AT GREATER NOIDA, GAUTAM BUDDH NAGAR, UTTAR PRADESH] [DMIC - IITGNL/2025-26/563 , DATED- 07.11.2025][2025_DMICG_1088946_1]",
+      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
+      "amount": "58810000000",
+      "publishedDate": "2025-11-07",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-06",
+      "addedOn": "2026-05-22",
       "location": "Noida"
     }
   ]
