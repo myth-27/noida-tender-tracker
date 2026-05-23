@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-22T08:51:27Z",
+  "lastFetched": "2026-05-23T08:11:44Z",
   "location": "Noida",
-  "totalActive": 292,
+  "totalActive": 297,
   "tenders": [
     {
       "name": "M/o Drain (Maintenance and Covering of Drain between Sector-58 and 59, 60) Noida] [54/GM/SM(WC-05)/2026-27][2026_NOIDA_1147392_1]",
@@ -769,15 +769,6 @@
       "location": "Noida"
     },
     {
-      "name": "Production_Supplying_Pouring of RMC at 5_5 Km 6 lane Elevated Road over Junction Nos 10_11 and 12 Near Barola and Bhangel and Sector 42_48_49_47_101 and 107 on DSC Road Noida] [ 389/E-Tender/Bhangel/2026-27][2026_UPSBC_1147799_1]",
-      "org": "UP STATE BRIDGE CORPORATION LIMITED||JMD UPSBC Ghaziabad||GM / CPM UP SBC Ghaziabad||DPM BCU - Greater Noida",
-      "amount": "3300000",
-      "openDate": "2026-05-22",
-      "closeDate": "2026-05-22",
-      "addedOn": "2026-05-13",
-      "location": "Noida"
-    },
-    {
       "name": "D/o Village (Repair of C.C. Pavement, Drain and M.S. Jaal in Gali No. 1 in Village Garhi Chaukhandi) Noida] [29/GM/SM(WC-05)/2026-27][2026_NOIDA_1146848_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "15804360",
@@ -1353,26 +1344,6 @@
       "publishedDate": "2026-05-18",
       "openDate": "2026-05-26",
       "closeDate": "2026-05-25",
-      "addedOn": "2026-05-18",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK REPLACEMENT OF DAMAGED 25 KVA TO 1000 KVA DT IN RAPDRP OR IPDS TOWN UNDER EUDD 11 KV YEIDA NOIDA ] [13/EUDC-T/2025-26/NOIDA (WORKS)][2026_PVVNL_1126668_2]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "1000000",
-      "publishedDate": "2026-05-07",
-      "openDate": "2026-05-22",
-      "closeDate": "2026-05-22",
-      "addedOn": "2026-05-18",
-      "location": "Noida"
-    },
-    {
-      "name": "REPLACEMENT OF DAMAGED POLE ERECTED IN 33 KV LINE IN UNFORESEEN CIRCUMSTANCE UNDER EUDD 33 KV YEIDA NOIDA] [12/EUDC-T/2025-26/NOIDA (WORKS)][2026_PVVNL_1126682_2]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "500000",
-      "publishedDate": "2026-05-07",
-      "openDate": "2026-05-22",
-      "closeDate": "2026-05-22",
       "addedOn": "2026-05-18",
       "location": "Noida"
     },
@@ -2097,16 +2068,6 @@
       "location": "Noida"
     },
     {
-      "name": "WORK MAKING OF CHAIR IN PLACE OF DAMAGED DTs PLINTH UNDER EUDD 11 KV YEIDA NOIDA] [11/EUDC-T/2025-26/NOIDA (WORKS)][2026_PVVNL_1126732_2]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "500000",
-      "publishedDate": "2026-05-07",
-      "openDate": "2026-05-22",
-      "closeDate": "2026-05-22",
-      "addedOn": "2026-05-19",
-      "location": "Noida"
-    },
-    {
       "name": "Civil Work for Increasing Capacity from (3X63) MVA to (4X63) MVA at 220/132/33 KV Sub-Station Dadri.] [E-Tender Notice No-03/2026-27 Sl No-05/2026-27][2026_UPCTL_1134787_1]",
       "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Moradabad Circle",
       "amount": "",
@@ -2824,6 +2785,96 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-06",
       "addedOn": "2026-05-22",
+      "location": "Noida"
+    },
+    {
+      "name": "VARIOUS WORK UNDER CIRCLE TECJNICAL OFFICE] [07/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1152428_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "300000",
+      "publishedDate": "2026-05-23",
+      "openDate": "2026-05-29",
+      "closeDate": "2026-05-29",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "VARIOUS WORK UNDER CIRCLE TECHNICAL OFFICE] [06/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1152349_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "300000",
+      "publishedDate": "2026-05-23",
+      "openDate": "2026-05-29",
+      "closeDate": "2026-05-29",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of 45 Mtr. Wide Peripheral Road and RCC Drain Sector Kappa 2 (M.M.L.P) to M.M.T.H. (DMIC) and Approach Road R.O.B 146 (Village Pali and Palla Area), Greater Noida.] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_16]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "199482853",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening and Resurfacing of 80 Mtr. Wide Road From Nato ki Mandaiya Rotary to Kasna T-Point / S.K Road, Greater Noida.] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_12]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "77673357",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening and Resurfacing of 60 Mtr. Wide Road Between Sector Sigma I/II and Sector 36/37, Greater Noida.] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_10]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "76622277",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening of Main Carriageway of 60 M wide road from  Amritpuram Rotary to Rampur rotary, Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_11]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "76840012",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Widening of Main Carriageway of 60 Mtr. Wide Road from Eachachhar T-point to 130 Mtr. Wide Road Between Sector Sigma 36,37 and Sector Pi 1 and 2, Greater Noida.] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_4]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "43843930",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of 2000 KL Under Ground Reservoir in Sector-33 (Pi-1 and Pi-2) OHT Campus, Greater Noida] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "20974945",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and laying Grass Grid 80.0m wide road end to end Between Sector KP-5 and Sector-3 and Balance 80.0m road, Greater Noida. ] [\tSM/(E-TENDER CELL)/2026/752 DATED-19.05.2026][2026_GNIDA_1151722_15]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "150740934",
+      "publishedDate": "2026-05-22",
+      "openDate": "2026-06-08",
+      "closeDate": "2026-06-04",
+      "addedOn": "2026-05-23",
       "location": "Noida"
     }
   ]
