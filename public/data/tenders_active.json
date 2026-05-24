@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-23T08:11:44Z",
+  "lastFetched": "2026-05-24T08:22:17Z",
   "location": "Noida",
-  "totalActive": 297,
+  "totalActive": 296,
   "tenders": [
     {
       "name": "M/o Drain (Maintenance and Covering of Drain between Sector-58 and 59, 60) Noida] [54/GM/SM(WC-05)/2026-27][2026_NOIDA_1147392_1]",
@@ -1044,16 +1044,6 @@
       "publishedDate": "2026-05-18",
       "openDate": "2026-06-02",
       "closeDate": "2026-06-01",
-      "addedOn": "2026-05-18",
-      "location": "Noida"
-    },
-    {
-      "name": "Work] [ST.ET-01/ETD-I/W/2026-27][2026_UPTCL_1145466_2]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD-I NOIDA",
-      "amount": "86300",
-      "publishedDate": "2026-05-18",
-      "openDate": "2026-05-25",
-      "closeDate": "2026-05-23",
       "addedOn": "2026-05-18",
       "location": "Noida"
     },
