@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-24T08:22:17Z",
+  "lastFetched": "2026-05-25T09:30:01Z",
   "location": "Noida",
-  "totalActive": 296,
+  "totalActive": 311,
   "tenders": [
     {
       "name": "M/o Drain (Maintenance and Covering of Drain between Sector-58 and 59, 60) Noida] [54/GM/SM(WC-05)/2026-27][2026_NOIDA_1147392_1]",
@@ -2865,6 +2865,156 @@
       "openDate": "2026-06-08",
       "closeDate": "2026-06-04",
       "addedOn": "2026-05-23",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (P/L DBM and BC on MP-3 Road from Sector-71 Underpass to Shashi Chowk Gol Chakker) Noida] [08/NOIDA/GM/SM/WC-3/2026-27][2026_NOIDA_1153278_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "126159957",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (Resurfacing work on 45M wide road between Sector-140A and Sehadra village) Noida  ] [09/GM/SM/WC-7/ET/2026-27][2026_NOIDA_1153302_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "20314742",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning  and Desilting taking debris/silt for covered Drains Culvert from Village-Nithari, Sector-31 by Super Sucker Machine, Noida] [36/E-T/GM/SM(WC-2) /2026-27][2026_NOIDA_1152418_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "19017739",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning  and Desilting taking debris/silt for covered Drains Culvert from Botenical Garden Toilet to Sumshan Gali and Alak Nanda Market to U-38, Mother Dairy to Punjabi Dhabha by Super Sucker Machine, Noida] [37/E-T/GM/SM(WC-2) /2026-27][2026_NOIDA_1152430_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "19317841",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning  and Desilting taking debris/silt for covered Drains Culvert Sec-21, 21A, 12 and 10 Crossing to NTPC office Side Sec-23 by Super Sucker Machine, Noida] [38/E-T/GM/SM(WC-2) /2026-27][2026_NOIDA_1152441_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "18273979",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Roads (P/L D.B.M. and B.C. on internal Road of Rajat Vihar Block A, B and C Sector-62), Noida.] [01/GM(C)/SM(WC-4)/ET/2026-27][2026_NOIDA_1153211_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7755387",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-02",
+      "closeDate": "2026-06-01",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (P/L Interlocking Tile C and D-Block in Sector-7), Noida] [11/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1152545_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8200683",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road  (Repair of interlocking Tile, Repair of Drain, Re-construction of R.C.C. Drain and Culvert in Different Location in Sector- 12,) Noida] [08/ET/GM/SM/WC-1/2025-26][2026_NOIDA_1152559_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16062743",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-02",
+      "closeDate": "2026-06-01",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Admn. Building (Annual Maintenance and Repair work in Office Building Sector-6), Noida] [09/ET/ GM/SM/WC-1/2026-27][2026_NOIDA_1152533_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4035571",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Drain (Re-construction of RCC Drain in O and N-Block and Culvert in different location in Sector-12), Noida] [26/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1152511_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5992481",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (Repair of Plaster, Painting, Tile, Interlocking Tile etc in Primary and Junior High School in Village-Harola), Noida] [12/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1152504_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4782675",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Drain (Re-construction of RCC Drain and Culvert in Y-Block Sector-12), Noida] [27/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1152576_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "46637303",
+      "publishedDate": "2026-05-25",
+      "openDate": "2026-06-09",
+      "closeDate": "2026-06-08",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Work for Increasing Capacity from (2X100 plus 1x160) MVA to (1x100 plus 2x160) MVA at 220 KV Sub-Station Sikandrabad, Bulandshahr.] [E-Tender Notice No-03/2026-27 Sl No-04/2026-27][2026_UPCTL_1134779_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Moradabad Circle",
+      "amount": "",
+      "publishedDate": "2026-04-09",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Work for Increasing Capacity from (3X63) MVA to (4X63) MVA at 220/132/33 KV Sub-Station Dadri.] [E-Tender Notice No-03/2026-27 Sl No-05/2026-27][2026_UPCTL_1134787_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Moradabad Circle",
+      "amount": "",
+      "publishedDate": "2026-04-09",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-25",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Work for Increasing Capacity from (4X63) MVA to (2X100 plus 2x63) MVA at 132 KV Sub-Station Sector-20 Noida.] [E-Tender Notice No-03/2026-27 Sl No-03/2026-27][2026_UPCTL_1134771_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Moradabad Circle",
+      "amount": "",
+      "publishedDate": "2026-04-09",
+      "openDate": "2026-06-03",
+      "closeDate": "2026-06-02",
+      "addedOn": "2026-05-25",
       "location": "Noida"
     }
   ]
