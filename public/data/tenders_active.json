@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-05-30T08:24:15Z",
+  "lastFetched": "2026-05-31T08:47:17Z",
   "location": "Noida",
-  "totalActive": 332,
+  "totalActive": 334,
   "tenders": [
     {
       "name": "DESIGN AND CONSTRUCTION OF 33/11 KV, 50MVA ELECTRICAL SUB-STATION FOR INTEGRATED INDUSTRIAL TOWNSHIP AT GREATER NOIDA UTTAR PRADESH] [DMIC IITGNL/2026-27/CIVIL/81 DATED-08.05.2026][2026_DMICG_1147150_2]",
@@ -3311,6 +3311,26 @@
       "openDate": "2026-06-04",
       "closeDate": "2026-06-03",
       "addedOn": "2026-05-30",
+      "location": "Noida"
+    },
+    {
+      "name": "01/ECTC/GBN/2026-27] [Short Term E-Tender Notice 01/ECTD/GBN/26-27][2026_UPCTL_1155713_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
+      "amount": "168777",
+      "publishedDate": "2026-05-30",
+      "openDate": "2026-06-16",
+      "closeDate": "2026-06-15",
+      "addedOn": "2026-05-31",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-05/ETCN/2026-27][2026_UPTCL_1155765_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "547026",
+      "publishedDate": "2026-05-30",
+      "openDate": "2026-06-25",
+      "closeDate": "2026-06-24",
+      "addedOn": "2026-05-31",
       "location": "Noida"
     }
   ]
