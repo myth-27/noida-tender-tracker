@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-06-06T08:29:00Z",
+  "lastFetched": "2026-06-07T08:59:14Z",
   "location": "Noida",
-  "totalActive": 351,
+  "totalActive": 352,
   "tenders": [
     {
       "name": "PPP Model Development of Bus Terminal Cum Commercial Complex at Noida Uttar Pradesh] [123/PPP CELL/2026-65 PPP/2023 VOL 2 ][2026_UPSRT_1136064_1]",
@@ -3510,6 +3510,16 @@
       "openDate": "2026-06-12",
       "closeDate": "2026-06-11",
       "addedOn": "2026-06-06",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "227808",
+      "publishedDate": "2026-06-06",
+      "openDate": "2026-07-02",
+      "closeDate": "2026-07-01",
+      "addedOn": "2026-06-07",
       "location": "Noida"
     }
   ]
