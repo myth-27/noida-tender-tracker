@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-06-07T08:59:14Z",
+  "lastFetched": "2026-06-08T10:26:31Z",
   "location": "Noida",
-  "totalActive": 352,
+  "totalActive": 356,
   "tenders": [
     {
       "name": "PPP Model Development of Bus Terminal Cum Commercial Complex at Noida Uttar Pradesh] [123/PPP CELL/2026-65 PPP/2023 VOL 2 ][2026_UPSRT_1136064_1]",
@@ -3520,6 +3520,46 @@
       "openDate": "2026-07-02",
       "closeDate": "2026-07-01",
       "addedOn": "2026-06-07",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning of open drains Ashok Nagar to Botanical Garden DSC road, M.P-2. M.P-1 to M.P-2 Between Sector-19 and 27) Noida.] [41/GM/SM/(WC-02)/2026-27][2026_NOIDA_1158002_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5516761",
+      "publishedDate": "2026-06-08",
+      "openDate": "2026-06-16",
+      "closeDate": "2026-06-15",
+      "addedOn": "2026-06-08",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-3 Area Part-A Noida] [16/GM/SM/(WC-3)/ 2026-27][2026_NOIDA_1156992_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "188097651",
+      "publishedDate": "2026-06-08",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-08",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-3 Area Part-B Noida] [17/GM/SM/(WC-3)/ 2026-27][2026_NOIDA_1156998_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "169133859",
+      "publishedDate": "2026-06-08",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-08",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-3 Area Part-C Noida] [18/GM/SM/(WC-3)/ 2026-27][2026_NOIDA_1157005_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "128186146",
+      "publishedDate": "2026-06-08",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-08",
       "location": "Noida"
     }
   ]
