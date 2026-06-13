@@ -1,18 +1,8 @@
 {
-  "lastFetched": "2026-06-12T09:55:05Z",
+  "lastFetched": "2026-06-13T08:49:28Z",
   "location": "Noida",
-  "totalActive": 197,
+  "totalActive": 194,
   "tenders": [
-    {
-      "name": "Work] [ET-03/ETD-I/W/2026-27][2026_UPTCL_1150580_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD-I NOIDA",
-      "amount": "101250",
-      "publishedDate": "2026-05-19",
-      "openDate": "2026-06-15",
-      "closeDate": "2026-06-12",
-      "addedOn": "2026-05-19",
-      "location": "Noida"
-    },
     {
       "name": "Supply, Installation, Testing, Commissioning, Operations and Maintenance (SITCOM) of Integrated Security and Traffic Management System (ISTMS) in Greater Noida City] [PROJECT/WC-EM-3/2026/03-04  DATED-20.03.2026][2026_GNIDA_1130147_1]",
       "org": "Greater Noida Industrial Development Authority",
@@ -924,16 +914,6 @@
       "location": "Noida"
     },
     {
-      "name": "SUPPLY OF 36 KV COPPER XLPE POWER CABLE AND TERMINATION KITS AT 132kV SECTOR 62 NOIDA UNDER ETD II NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-05/2026-27CE(TW)MRT][2026_UPTCL_1140339_3]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
-      "amount": "7724600",
-      "publishedDate": "2026-05-26",
-      "openDate": "2026-06-12",
-      "closeDate": "2026-06-12",
-      "addedOn": "2026-06-05",
-      "location": "Noida"
-    },
-    {
       "name": "Special Repair/Maintenance work of Gate no. 01 and 02 And Toilet Block at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [351/Unit-3/Park Maintenance/RNN/26 Date 02/04/2026][2026_UPRNN_1132843_1]",
       "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
       "amount": "128681000",
@@ -1200,16 +1180,6 @@
       "publishedDate": "2026-06-08",
       "openDate": "2026-06-19",
       "closeDate": "2026-06-17",
-      "addedOn": "2026-06-09",
-      "location": "Noida"
-    },
-    {
-      "name": "01/EUDC-COMM/NOIDA/2025-26] [01/EUDC-COMM/NOIDA/2025-26][2026_PVVNL_1114842_5]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "",
-      "publishedDate": "2026-06-03",
-      "openDate": "2026-06-12",
-      "closeDate": "2026-06-12",
       "addedOn": "2026-06-09",
       "location": "Noida"
     },
@@ -1580,16 +1550,6 @@
       "publishedDate": "2026-06-09",
       "openDate": "2026-06-30",
       "closeDate": "2026-06-30",
-      "addedOn": "2026-06-10",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Building (Repair of  External/Internal Staff Quarter in Pocket  B-1, B-3, B-5, B-10, B-10A, B-12A, B-14, and Neel Giri-I in Sector-34) Noida] [58/GM/SM(WC-05)/2025-26][2026_NOIDA_1157189_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "12405234",
-      "publishedDate": "2026-06-05",
-      "openDate": "2026-06-15",
-      "closeDate": "2026-06-12",
       "addedOn": "2026-06-10",
       "location": "Noida"
     },
@@ -1971,6 +1931,16 @@
       "openDate": "2026-06-19",
       "closeDate": "2026-06-19",
       "addedOn": "2026-06-12",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (Premix in patch repair speed Breaker and Masctic work 24.00M wide Road infront of Vivek Vihar, Kendriya Vihar-II and Terminal Bus Stand in Sector-82) Noida] [09/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1160060_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7884907",
+      "publishedDate": "2026-06-12",
+      "openDate": "2026-06-19",
+      "closeDate": "2026-06-18",
+      "addedOn": "2026-06-13",
       "location": "Noida"
     }
   ]
