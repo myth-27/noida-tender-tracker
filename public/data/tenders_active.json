@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-06-13T08:49:28Z",
+  "lastFetched": "2026-06-15T11:41:35Z",
   "location": "Noida",
-  "totalActive": 194,
+  "totalActive": 212,
   "tenders": [
     {
       "name": "Supply, Installation, Testing, Commissioning, Operations and Maintenance (SITCOM) of Integrated Security and Traffic Management System (ISTMS) in Greater Noida City] [PROJECT/WC-EM-3/2026/03-04  DATED-20.03.2026][2026_GNIDA_1130147_1]",
@@ -1024,16 +1024,6 @@
       "location": "Noida"
     },
     {
-      "name": "Engagement of Manpower Service Agency] [MANPOWE/NOIDA-EV/2026/01 ][2026_UPSRT_1157400_1]",
-      "org": "U.P. State Road Transport Corporation||Chief General Manager(Technical)",
-      "amount": "75000000",
-      "publishedDate": "2026-06-05",
-      "openDate": "2026-06-13",
-      "closeDate": "2026-06-13",
-      "addedOn": "2026-06-06",
-      "location": "Noida"
-    },
-    {
       "name": "M/o Road (Repair and Maintenance of Footover Bridge Between Sector-50 and Sector-41 on Aghapur Road Sector-41) Noida.] [02/NOIDA/GM/SMWC03/2026-27][2026_NOIDA_1157418_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "1968017",
@@ -1941,6 +1931,196 @@
       "openDate": "2026-06-19",
       "closeDate": "2026-06-18",
       "addedOn": "2026-06-13",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (P/A Thermoplastic Paint and road safety device on 45 M wide road between Sec-158 and 159 45 M wide road front of Paytm and Kent RO 45 M wide road front of Havells Plot  in Sector-161 Parallel to expressway and 30 M Wide Road front of Republ] [42/GM/SMWC10/ET/26-27   ][2026_NOIDA_1160792_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "13669960",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-30",
+      "closeDate": "2026-06-29",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (P/L DBM and BC work of Main Carrage Way and Service Road on 45M Wide Road in between Sector-158 160 and 159) Noida] [22/GM/SMWC10/ET/26-27   ][2026_NOIDA_1160754_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "23049920",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors Villages of WC10 Area Zone II Noida] [31/GM/SM/(WC10)PH-II/2026-27][2026_NOIDA_1160758_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "89213573",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "MAINTENANCE AND REPAIR OF COMMUNITY CENTER POND PANCHAYAT GHAR AND PRIMARY SCHOOL IN VILLAGE GULAWALI NOIDA] [16/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1160739_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "11702530",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of  RCC Drain Near Barat Ghar to Dharam kata in Village Badauli Sector-154 Noida] [43/GM/SMWC10/ET/26-27][2026_NOIDA_1160803_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "37808944",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-30",
+      "closeDate": "2026-06-29",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of RCC Drain Along 45M Wide Road and Maintence of Brick Drain between  Sector-149 and 152 Noida] [44/GM/SMWC10/ET/26-27   ][2026_NOIDA_1160809_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16200106",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-30",
+      "closeDate": "2026-06-29",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors Villages of WC-10 Area Zone I Noida] [32/GM/SM/(WC10)PH-II/26-27][2026_NOIDA_1160766_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "115289722",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "(EOI) FOR Selection of Agency for Operation and Maintenance of  Animal Shelter in Greater Noida ] [HD/2026/1116-1117  DATED-13.06.2026][2026_GNIDA_1160692_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-06-29",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Engagement of Agency for Manual Based Night Sweeping and Housekeeping Services in Commercial/Markit/vending zone/public area WC-07, Noida] [17/GM/SM/WC-07/PH/ET/2026-27][2026_NOIDA_1160465_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7046252",
+      "publishedDate": "2026-06-15",
+      "openDate": "2026-06-30",
+      "closeDate": "2026-06-29",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o STP (Existing STP based on SBR Technology core Parts (Decanter  core part, diffuser, PLC SCADA and Related work) (Renovation and  Strengthening work of the existing 35 MLD STP Core Parts with  MPS at Sector-123) Noida (PART-D),] [10/SM(JAL-OA)/26-27][2026_NOIDA_1156681_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "173335735",
+      "publishedDate": "2026-06-03",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-06-30",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o STP (Existing STP based on SBR Technology core Parts (Decanter  core part, diffuser, PLC SCADA and Related work) (Renovation and  Strengthening work of the existing 50 MLD STP Core Parts with MPS at  Sector-168) Noida (PART-A) ] [09/SM(JAL-OA)/26-27][2026_NOIDA_1156673_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "208865400",
+      "publishedDate": "2026-06-03",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-06-30",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o STP (Existing STP based on SBR Technology core Parts (Decanter  core part, diffuser, PLC SCADA and Related work) (Renovation and  Strengthening work of the existing 33 MLD STP Core Parts with  MPS at Sector-54) Noida (PART-C) ] [07/SM(JAL-OA)/26-27][2026_NOIDA_1156550_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "177304760",
+      "publishedDate": "2026-06-03",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-06-30",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o STP (Existing STP based on SBR Technology core Parts (Decanter  core part, diffuser, PLC SCADA and Related work) (Renovation and  Strengthening work of the existing 25 MLD STP Core Parts with  MPS at Sector-50) Noida (PART-B)] [08/SM(JAL-OA)/26-27][2026_NOIDA_1156557_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "166895724",
+      "publishedDate": "2026-06-03",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-06-30",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of spare parts for Automatic Fare Collection System (AFC) ] [NMRC/AFC/2026/466   ][2026_NMRCL_1155216_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "45987870",
+      "publishedDate": "2026-05-29",
+      "openDate": "2026-06-26",
+      "closeDate": "2026-06-26",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "INCREASING CAPACITY OF DTs 25 TO 63 AND 63 TO 100 KVA UNDER EUDD-11 KV YEIDA] [28/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1154986_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "2442000",
+      "publishedDate": "2026-05-28",
+      "openDate": "2026-06-18",
+      "closeDate": "2026-06-18",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "33KV SWITCHYARD AND 11KV SWITCHGEAR WORK IN BP 2026-27 UNDER EUDD 33KV STADIUM AND YEIDA] [23/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1153830_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "4447000",
+      "publishedDate": "2026-05-26",
+      "openDate": "2026-06-18",
+      "closeDate": "2026-06-18",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "STRENGTHENING OF 33 KV LINE WORK IN BP 2026-27 UNDER EUDD 33 KV YEIDA] [15/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1153834_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "2959000",
+      "publishedDate": "2026-05-26",
+      "openDate": "2026-06-18",
+      "closeDate": "2026-06-18",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF LT DTs IN BP 2026-27 UNDER EUDD 11 KV YEIDA] [13/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1153754_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "2336000",
+      "publishedDate": "2026-05-26",
+      "openDate": "2026-06-18",
+      "closeDate": "2026-06-18",
+      "addedOn": "2026-06-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Work] [ET-03/ETD-I/W/2026-27][2026_UPTCL_1150580_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD-I NOIDA",
+      "amount": "101250",
+      "publishedDate": "2026-05-19",
+      "openDate": "2026-06-22",
+      "closeDate": "2026-06-20",
+      "addedOn": "2026-06-15",
       "location": "Noida"
     }
   ]
