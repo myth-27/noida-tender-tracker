@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-06-18T10:10:41Z",
+  "lastFetched": "2026-06-19T10:12:18Z",
   "location": "Noida",
-  "totalActive": 236,
+  "totalActive": 233,
   "tenders": [
     {
       "name": "Supply, Installation, Testing, Commissioning, Operations and Maintenance (SITCOM) of Integrated Security and Traffic Management System (ISTMS) in Greater Noida City] [PROJECT/WC-EM-3/2026/03-04  DATED-20.03.2026][2026_GNIDA_1130147_1]",
@@ -644,16 +644,6 @@
       "location": "Noida"
     },
     {
-      "name": "SHIFTING HEIGHT RAISING OF 220 KV GREATER NOIDA 400 SECTOR 129 AND 220 KV SEC148 400 KP5 LINE ON DC TOWER DUE TO CONSTRUCTION OF ELEVATED APPROACH ROAD UNDER ETD I NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-07/2026-27CE(TW)MRT][2026_UPTCL_1156581_2]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
-      "amount": "12022206",
-      "publishedDate": "2026-06-11",
-      "openDate": "2026-06-18",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-11",
-      "location": "Noida"
-    },
-    {
       "name": "RFP FOR SWEEPING AND CLEANING OF GARBAGE LYING IN THE VACANT AREAS AND EXTENDED POPULATED AREAS OF SECTORS AND VILLAGES OF GREATER NOIDA BY QUICK RESPONSE TEAM (QRT)] [HD/2026/1101-1102 DATED-10.06.2026][2026_GNIDA_1159514_1]",
       "org": "Greater Noida Industrial Development Authority",
       "amount": "95929734",
@@ -864,36 +854,6 @@
       "location": "Noida"
     },
     {
-      "name": "P/F of Signage Board for Community Toilets and Urinals Under Swachh Survekshan Guidelines ] [16/GM/PE(PH)-I/E-T/2025-26][2026_NOIDA_1157066_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "6589944",
-      "publishedDate": "2026-06-05",
-      "openDate": "2026-06-19",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-11",
-      "location": "Noida"
-    },
-    {
-      "name": "Theme Painting of walls in Noida for Swachh Survekshan 2025-26 WC-08 and 09 Area, Noida.] [03/GM(C)/SM/(WC-09)ET/2026-27][2026_NOIDA_1159773_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "5586432",
-      "publishedDate": "2026-06-12",
-      "openDate": "2026-06-19",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-12",
-      "location": "Noida"
-    },
-    {
-      "name": "Cleaning and Desilting of drain from Various Sector/Village of PH-II Area, Zone-V, Noida.] [22/GM/DGM/PE(PH)-II/ET/2025-26][2026_NOIDA_1159961_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "9592016",
-      "publishedDate": "2026-06-12",
-      "openDate": "2026-06-19",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-12",
-      "location": "Noida"
-    },
-    {
       "name": "SUPPLY OF 36 KV COPPER XLPE POWER CABLE AND TERMINATION KITS AT 132kV SECTOR 62 NOIDA UNDER ETD II NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-05/2026-27CE(TW)MRT][2026_UPTCL_1140339_3]",
       "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
       "amount": "7724600",
@@ -901,16 +861,6 @@
       "openDate": "2026-06-19",
       "closeDate": "2026-06-19",
       "addedOn": "2026-06-12",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Road (Premix in patch repair speed Breaker and Masctic work 24.00M wide Road infront of Vivek Vihar, Kendriya Vihar-II and Terminal Bus Stand in Sector-82) Noida] [09/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1160060_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "7884907",
-      "publishedDate": "2026-06-12",
-      "openDate": "2026-06-19",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-13",
       "location": "Noida"
     },
     {
@@ -1050,46 +1000,6 @@
       "publishedDate": "2026-05-29",
       "openDate": "2026-06-26",
       "closeDate": "2026-06-26",
-      "addedOn": "2026-06-15",
-      "location": "Noida"
-    },
-    {
-      "name": "INCREASING CAPACITY OF DTs 25 TO 63 AND 63 TO 100 KVA UNDER EUDD-11 KV YEIDA] [28/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1154986_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "2442000",
-      "publishedDate": "2026-05-28",
-      "openDate": "2026-06-18",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-15",
-      "location": "Noida"
-    },
-    {
-      "name": "33KV SWITCHYARD AND 11KV SWITCHGEAR WORK IN BP 2026-27 UNDER EUDD 33KV STADIUM AND YEIDA] [23/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1153830_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "4447000",
-      "publishedDate": "2026-05-26",
-      "openDate": "2026-06-18",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-15",
-      "location": "Noida"
-    },
-    {
-      "name": "STRENGTHENING OF 33 KV LINE WORK IN BP 2026-27 UNDER EUDD 33 KV YEIDA] [15/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1153834_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "2959000",
-      "publishedDate": "2026-05-26",
-      "openDate": "2026-06-18",
-      "closeDate": "2026-06-18",
-      "addedOn": "2026-06-15",
-      "location": "Noida"
-    },
-    {
-      "name": "CONSTRUCTION OF LT DTs IN BP 2026-27 UNDER EUDD 11 KV YEIDA] [13/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1153754_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "2336000",
-      "publishedDate": "2026-05-26",
-      "openDate": "2026-06-18",
-      "closeDate": "2026-06-18",
       "addedOn": "2026-06-15",
       "location": "Noida"
     },
@@ -2361,6 +2271,66 @@
       "openDate": "2026-06-24",
       "closeDate": "2026-06-24",
       "addedOn": "2026-06-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "1183705",
+      "publishedDate": "2026-06-19",
+      "openDate": "2026-07-20",
+      "closeDate": "2026-07-20",
+      "addedOn": "2026-06-19",
+      "location": "Noida"
+    },
+    {
+      "name": "01/EUDC-COMM/NOIDA/2025-26] [01/EUDC-COMM/NOIDA/2025-26][2026_PVVNL_1114842_6]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "",
+      "publishedDate": "2026-06-18",
+      "openDate": "2026-06-25",
+      "closeDate": "2026-06-25",
+      "addedOn": "2026-06-19",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Park (Annual Maintenance of Shaheed Bhagat Singh Park in Sector-150), Noida. (Civil Work)] [03/D(H)/DD(H)-III/2026-27][2026_NOIDA_1161466_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9497203",
+      "publishedDate": "2026-06-18",
+      "openDate": "2026-06-25",
+      "closeDate": "2026-06-24",
+      "addedOn": "2026-06-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Road widening of 30.0m wide road in Sector Ecotech-10 (Part-A), Greater Noida. ] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_13]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "38104120",
+      "publishedDate": "2026-06-17",
+      "openDate": "2026-07-03",
+      "closeDate": "2026-07-01",
+      "addedOn": "2026-06-19",
+      "location": "Noida"
+    },
+    {
+      "name": "STRENGTHENING OF 11 KV LINE WORK IN BP 2026-27 UNDER EUDD 33 KV STD EXP YEIDA AND 11 KV YEIDA] [17/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1153837_2]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "1222000",
+      "publishedDate": "2026-06-17",
+      "openDate": "2026-06-22",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Redevelopment of Bus Depot for E-Bus in Sector-90 Noida.] [04/GM(C)/SM(Pz.Parking)/26-27][2026_NOIDA_1159311_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "82610996",
+      "publishedDate": "2026-06-11",
+      "openDate": "2026-06-23",
+      "closeDate": "2026-06-22",
+      "addedOn": "2026-06-19",
       "location": "Noida"
     }
   ]
