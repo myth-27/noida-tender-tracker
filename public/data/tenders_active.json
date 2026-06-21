@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-06-20T08:45:54Z",
+  "lastFetched": "2026-06-21T09:22:44Z",
   "location": "Noida",
   "totalActive": 237,
   "tenders": [
@@ -960,16 +960,6 @@
       "publishedDate": "2026-05-29",
       "openDate": "2026-06-26",
       "closeDate": "2026-06-26",
-      "addedOn": "2026-06-15",
-      "location": "Noida"
-    },
-    {
-      "name": "Work] [ET-03/ETD-I/W/2026-27][2026_UPTCL_1150580_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD-I NOIDA",
-      "amount": "101250",
-      "publishedDate": "2026-05-19",
-      "openDate": "2026-06-22",
-      "closeDate": "2026-06-20",
       "addedOn": "2026-06-15",
       "location": "Noida"
     },
@@ -2371,6 +2361,16 @@
       "openDate": "2026-07-03",
       "closeDate": "2026-07-02",
       "addedOn": "2026-06-20",
+      "location": "Noida"
+    },
+    {
+      "name": "Replacement of Damaged Power Transformer on time to time Under EUDD-33 KV STD./EXP./YEIDA NOIDA] [34/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1162459_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "375000",
+      "publishedDate": "2026-06-20",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-08",
+      "addedOn": "2026-06-21",
       "location": "Noida"
     }
   ]
