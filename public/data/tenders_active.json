@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-06-21T09:22:44Z",
+  "lastFetched": "2026-06-22T11:27:49Z",
   "location": "Noida",
-  "totalActive": 237,
+  "totalActive": 238,
   "tenders": [
     {
       "name": "Supply, Installation, Testing, Commissioning, Operations and Maintenance (SITCOM) of Integrated Security and Traffic Management System (ISTMS) in Greater Noida City] [PROJECT/WC-EM-3/2026/03-04  DATED-20.03.2026][2026_GNIDA_1130147_1]",
@@ -2371,6 +2371,16 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-08",
       "addedOn": "2026-06-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Work] [ET-03/ETD-I/W/2026-27][2026_UPTCL_1150580_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD-I NOIDA",
+      "amount": "101250",
+      "publishedDate": "2026-05-19",
+      "openDate": "2026-06-29",
+      "closeDate": "2026-06-27",
+      "addedOn": "2026-06-22",
       "location": "Noida"
     }
   ]
