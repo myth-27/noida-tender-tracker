@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-06-26T08:57:58Z",
+  "lastFetched": "2026-06-28T08:50:40Z",
   "location": "Noida",
-  "totalActive": 289,
+  "totalActive": 292,
   "tenders": [
     {
       "name": "Design construction, supply Erection, Testing and commissiong of 80 MLD STP including 120 month O and M in 1st phase at sector Recreational Green R-6 in Gr. Noida] [PROJECT/WC-SEWER/2026/5895  DATED-20.05.2026][2026_GNIDA_1151736_1]",
@@ -21,16 +21,6 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-06",
       "addedOn": "2026-05-22",
-      "location": "Noida"
-    },
-    {
-      "name": "Civil works for construction of 01 No. 33 KV GIS Bay at 400 KV GIS Sub-station Sector 123, Noida] [E-Tender Notice No-07/2026-27 Sl No-11/2026-27][2026_UPCTL_1154226_1]",
-      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Moradabad Circle",
-      "amount": "",
-      "publishedDate": "2026-05-26",
-      "openDate": "2026-06-29",
-      "closeDate": "2026-06-27",
-      "addedOn": "2026-05-27",
       "location": "Noida"
     },
     {
@@ -160,16 +150,6 @@
       "publishedDate": "2026-06-03",
       "openDate": "2026-07-01",
       "closeDate": "2026-06-30",
-      "addedOn": "2026-06-15",
-      "location": "Noida"
-    },
-    {
-      "name": "Supply of spare parts for Automatic Fare Collection System (AFC) ] [NMRC/AFC/2026/466   ][2026_NMRCL_1155216_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "45987870",
-      "publishedDate": "2026-05-29",
-      "openDate": "2026-06-26",
-      "closeDate": "2026-06-26",
       "addedOn": "2026-06-15",
       "location": "Noida"
     },
@@ -954,16 +934,6 @@
       "location": "Noida"
     },
     {
-      "name": "Repairing of Damaged Approach R.C.C. Road from New Bridge to Metro Station Road of Noida Main Drain in Distt. G.B. Nagar] [04/EE/2026-27][2026_UPIDC_1161696_7]",
-      "org": "U P Irrigation Department (Civil)||Chief Engineer ( Yamuna) Okhla||S E Irrigation Works Circle III Agra||E E Head Works Division Agra Canal Okhla",
-      "amount": "1733000",
-      "publishedDate": "2026-06-20",
-      "openDate": "2026-06-27",
-      "closeDate": "2026-06-27",
-      "addedOn": "2026-06-20",
-      "location": "Noida"
-    },
-    {
       "name": "Civil work for increasing capacity from (3X63) MVA to (4x63) MVA Transformer at 220/132/33KV Substation Dadri.] [Short Term E-Tender Notice 11/2026-27 Sl No-18/2026-27][2026_UPCTL_1162180_1]",
       "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
       "amount": "",
@@ -1041,16 +1011,6 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-08",
       "addedOn": "2026-06-21",
-      "location": "Noida"
-    },
-    {
-      "name": "Work] [ET-03/ETD-I/W/2026-27][2026_UPTCL_1150580_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD-I NOIDA",
-      "amount": "101250",
-      "publishedDate": "2026-05-19",
-      "openDate": "2026-06-29",
-      "closeDate": "2026-06-27",
-      "addedOn": "2026-06-22",
       "location": "Noida"
     },
     {
@@ -2891,6 +2851,76 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-07",
       "addedOn": "2026-06-26",
+      "location": "Noida"
+    },
+    {
+      "name": "SURVEY FOR THE LILO ARRANGEMEBNT OF THE 220 KV METRO DEPOT JALPURA LINE UNDER ETD II NOIDA ] [ST-08/2026-27ETCN][2026_UPTCL_1164591_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "237000",
+      "publishedDate": "2026-06-27",
+      "openDate": "2026-07-03",
+      "closeDate": "2026-07-02",
+      "addedOn": "2026-06-28",
+      "location": "Noida"
+    },
+    {
+      "name": "MAINTENANCE WORK ON AERIAL BUNCHED CABLE (ABC) POWER LINES DAMAGED UNDER 11 KV YEIDA] [38/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1164443_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "504000",
+      "publishedDate": "2026-06-27",
+      "openDate": "2026-07-02",
+      "closeDate": "2026-07-02",
+      "addedOn": "2026-06-28",
+      "location": "Noida"
+    },
+    {
+      "name": "GUARDING OF POLYTHENE AND LINES ON POLES WORK IN VIEW OF KAVAD YATRA IN AREA OF AE9 UNDER 11KV YEIDA] [37/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1164330_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "835000",
+      "publishedDate": "2026-06-26",
+      "openDate": "2026-07-02",
+      "closeDate": "2026-07-02",
+      "addedOn": "2026-06-28",
+      "location": "Noida"
+    },
+    {
+      "name": "GUARDING OF POLYTHENE AND LINES ON POLES WORK IN VIEW OF KAVAD YATRA IN AREA OF AE7 UNDER 11KV YEIDA] [35/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1164327_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "919000",
+      "publishedDate": "2026-06-26",
+      "openDate": "2026-07-02",
+      "closeDate": "2026-07-02",
+      "addedOn": "2026-06-28",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (Work of creating, opening  and fixing of MS Jaal on the culvert in village Mamura),Noida] [30/DGM/SM(WC-05)/2025-26][2026_NOIDA_1163072_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "1345964",
+      "publishedDate": "2026-06-24",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-06-30",
+      "addedOn": "2026-06-28",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of  Road  (P/L Bituminous Concrete on Internal Road in Nar Vihar-I and II and P/F SFRC Cover and Raising of Drain in Nar Vihar-I  in  Sector-34) Noida] [35/DGM/SM(WC-05)/2025-26][2026_NOIDA_1163082_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9930017",
+      "publishedDate": "2026-06-24",
+      "openDate": "2026-07-01",
+      "closeDate": "2026-06-30",
+      "addedOn": "2026-06-28",
+      "location": "Noida"
+    },
+    {
+      "name": "Village Development (Construction of Sump Well in Village-Yakubpur), Noida.] [16/SM(JAL)-II/ET/2026-27][2026_NOIDA_1159716_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "23134810",
+      "publishedDate": "2026-06-24",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-06-28",
       "location": "Noida"
     }
   ]
