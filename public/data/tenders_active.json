@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-06-28T08:50:40Z",
+  "lastFetched": "2026-06-29T10:26:04Z",
   "location": "Noida",
-  "totalActive": 292,
+  "totalActive": 293,
   "tenders": [
     {
       "name": "Design construction, supply Erection, Testing and commissiong of 80 MLD STP including 120 month O and M in 1st phase at sector Recreational Green R-6 in Gr. Noida] [PROJECT/WC-SEWER/2026/5895  DATED-20.05.2026][2026_GNIDA_1151736_1]",
@@ -2921,6 +2921,16 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-07",
       "addedOn": "2026-06-28",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of 33/11 KV E-House Substation from OEM E-House Manufacturer for estimate purpose] [01/EOI/GM(E/M)/SM(E and M-04)/2026-27][2026_NOIDA_1164712_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "0.00",
+      "publishedDate": "2026-06-29",
+      "openDate": "2026-07-14",
+      "closeDate": "2026-07-13",
+      "addedOn": "2026-06-29",
       "location": "Noida"
     }
   ]
