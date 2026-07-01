@@ -15,7 +15,7 @@ from pathlib import Path
 from apscheduler.schedulers.blocking import BlockingScheduler
 from apscheduler.triggers.cron import CronTrigger
 from dotenv import load_dotenv
-from playwright.async_api import async_playwright, Page, Playwright
+from playwright.async_api import async_playwright, Page, Playwright, TimeoutError as PlaywrightTimeoutError
 
 import captcha as captcha_mod
 import exporter
@@ -157,18 +157,28 @@ async def run_scrape(headless: bool | None = None) -> list[dict]:
                     "button:has-text('Search')",
                     "input[value*='search']",
                 ]
-                for sel in submit_selectors:
-                    el = page.locator(sel).first
-                    if await el.count() > 0:
-                        await el.click()
-                        submitted = True
-                        logger.info("Clicked submit via: %s", sel)
-                        break
-                if not submitted:
-                    logger.error("Could not find submit button")
-                    return []
+                try:
+                    for sel in submit_selectors:
+                        el = page.locator(sel).first
+                        if await el.count() > 0:
+                            await el.click()
+                            submitted = True
+                            logger.info("Clicked submit via: %s", sel)
+                            break
+                    if not submitted:
+                        logger.error("Could not find submit button")
+                        return []
 
-                await page.wait_for_load_state("networkidle")
+                    await page.wait_for_load_state("networkidle")
+                except PlaywrightTimeoutError as exc:
+                    logger.warning(
+                        "Submit timed out (attempt %d/%d): %s — retrying with fresh CAPTCHA",
+                        captcha_attempt, MAX_CAPTCHA_ATTEMPTS, exc,
+                    )
+                    if captcha_attempt == MAX_CAPTCHA_ATTEMPTS:
+                        logger.error("CAPTCHA failed %d times — giving up", MAX_CAPTCHA_ATTEMPTS)
+                        return []
+                    continue
 
                 # Save debug screenshot on every CAPTCHA attempt
                 debug_dir = Path(OUTPUT_DIR)
