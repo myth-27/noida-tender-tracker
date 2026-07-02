@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-01T10:59:50Z",
+  "lastFetched": "2026-07-02T08:43:21Z",
   "location": "Noida",
-  "totalActive": 267,
+  "totalActive": 239,
   "tenders": [
     {
       "name": "Design construction, supply Erection, Testing and commissiong of 80 MLD STP including 120 month O and M in 1st phase at sector Recreational Green R-6 in Gr. Noida] [PROJECT/WC-SEWER/2026/5895  DATED-20.05.2026][2026_GNIDA_1151736_1]",
@@ -21,16 +21,6 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-06",
       "addedOn": "2026-05-22",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "227808",
-      "publishedDate": "2026-06-06",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-07",
       "location": "Noida"
     },
     {
@@ -74,102 +64,12 @@
       "location": "Noida"
     },
     {
-      "name": "Resurfacing of Roopwas Bypass Ch-950.00m to 3830.00m, Greater Noida. ] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_15]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "85558513",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "Widening and Resurfacing of 60 Mtr. Wide Road Between Sector Sigma I/II and Sector 36/37, Greater Noida.] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_14]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "76622277",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "Widening, Resurfacing, Construction of RCC Protection wall and Grass paver block of 60m wide road from Sharda rotary to Pusta Bridge in Sector KP-3, Greater Noida] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_12]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "37147680",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
       "name": "Construction of Boundary Wall Multi-Modal Logistics Hub Project, Greater Noida.] [DMIC IITGNL/2026-27/CIVIL/164   DATED-15.06.2026][2026_DMICG_1161131_4]",
       "org": "DMIC Integrated Industrial Township Greater Noida Limited",
       "amount": "183066232",
       "publishedDate": "2026-06-17",
       "openDate": "2026-07-17",
       "closeDate": "2026-07-15",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "C/o Shade and floor in open area Gaushala-Jalpura, Greater Noida] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_18]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "20333024",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing and fixing Grass paver Block along 105m wide road from S.K. road rotary to Delta rotary, Greater Noida] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_11]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "33651435",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "Re-Construction of RCC drain in Kasna (Dhanshree to Asian Paint Company), Greater Noida. ] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_10]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "31292538",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing and fixing Grass paver Block along service road of 132m wide road in Sector KP-3, Greater Noida] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_8]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "26288479",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of RCC drain from 60m wide road RHS side in Sector Ecotech-1 Extension, Greater Noida. ] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_9]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "26708618",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-17",
-      "location": "Noida"
-    },
-    {
-      "name": "C/o Shade and floor in Open area  Nandishala-Jalpura ,  Greater Noida.] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_19]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "81191011",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
       "addedOn": "2026-06-17",
       "location": "Noida"
     },
@@ -204,16 +104,6 @@
       "location": "Noida"
     },
     {
-      "name": "Re Grassing of Park Sector-52 B Block Park ( In Front of B-132) and C-Block park ( In Front of C-80) and Aravli Appartment shatabhi vihar L-Shape park Near State Bank Sector-53 and Near A-Block Community Center, Noida ] [04/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161483_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "9022676",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
       "name": "Supply of Buses and staff car at Mahamaya Balika Inter College Noida] [N and GNES/2026/EO/524  DATED-15.06.2026][2026_GNIDA_1161486_4]",
       "org": "Greater Noida Industrial Development Authority",
       "amount": "23316000",
@@ -230,96 +120,6 @@
       "publishedDate": "2026-06-18",
       "openDate": "2026-07-06",
       "closeDate": "2026-07-03",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park, Green Belt  Sector-34  for Two Year Maintenance   ] [21/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161586_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "11537687",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park, Green Belt and RSP Sector-61  for  Two Year Maintenance   ] [20/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161585_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "15534153",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park , Green Belt   anf RSP Sector-74, 75  for  Two Year Maintenance  ] [19/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161584_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "10669338",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Rsp Central Verge / U-Turns Dust free Sector-71 To DSC Road Sector-78, 79, 49, 101  for  Two Year Maintenance.  ] [18/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161583_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "13570172",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park, Green Belt and RSP Sector-52, 53 Central verge Near Gijhore Village for two year maintenance.  ] [17/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161582_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "15577056",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park, Green Belt and RSP Sector-52, 53 Central verge Near Gijhore Village for two year maintenance.] [07/D(H)/DD(H)-III/2026-27][2026_NOIDA_1161588_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "35015940",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o RSP and Dust Free Zone Sector -135 Near Pusta , Hazipur Underpass to Gezha Fly over 45 mtr wide road L.H.S with Two year maintenance.] [09/D(H)/DD(H)-III/2026-27][2026_NOIDA_1161590_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "12850876",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Park and Green Belt In Sector-106 with 02 year maintenance.] [08/D(H)/DD(H)-III/2026-27][2026_NOIDA_1161589_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "12826664",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Green Belt ( Barbed Wire Fencing in Green Belt sector-151) Noida.] [01/D(H)/DD(H)-III/2026-27][2026_NOIDA_1161576_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "5105976",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
       "addedOn": "2026-06-18",
       "location": "Noida"
     },
@@ -344,232 +144,12 @@
       "location": "Noida"
     },
     {
-      "name": "M/o Green Belt Sector-140,140A and  With Two Year Maintenance. (Subhead Shilling Earth and Plantation Work)] [05/D(H)/DD(H)-III/2026-27][2026_NOIDA_1161587_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "13490781",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park , Green Belt   and RSP Sector-46  for  Two Year Maintenance  ] [12/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161580_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "18158308",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park , RSP Sector-49  Two Year Maintenance.] [14/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161581_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "11253379",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park, Green Belt and RSP Sector-30, 31 and 36  for  Two Year Maintenance  ] [11/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161579_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "17934334",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Green Belt (Fencing chain link jaali for security purpose parallel to Yamuna pusta in YRF and other civil maintenance work) Noida.] [08/D(H)/DD(H)-I/2026-27][2026_NOIDA_1161578_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "12928472",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park , Green belt and RSP Sector -93,110,137,141 and Health Center , Primary School Village Garhi Shahdra , Elahaband Shamshan Ghat with 02 year maintenance.] [06/D(H)/DD(H)-III/2026-27][2026_NOIDA_1161577_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "6657104",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park , Green Belt  Sector-35 and Morna Shiv mandir and  School  for  Two Year Maintenance    ] [16/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161531_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "6965876",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park, Green Belt Sector-33  for  Two Year Maintenance   ] [15/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161528_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "7340183",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Park, Green Belt AND RSP Sector-77, 116 for Two Year Maintenance    ] [13/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161514_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "9820368",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Green Belt (Supply and fixing of MS railing at gol chakkar near Tajmahal replica, in front of police chauki and triangle park near sector-44 at Mahamaya Flyover) Noida.   ] [10/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161511_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "4638959",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Green Belt (S/F of M.S. Grill, R/o boundary wall, Gate and Painting of Gate AND Grill near Amity School green belt sector-44) Noida.  ] [06/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161500_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "4125375",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "RE-Grassing Development Parks at in sector-12.Noida.] [03/D(H)/DD(H)-I/2026-27][2026_NOIDA_1161427_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "9538600",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Green Belt (C/o Footpath in Green Belt Sector-116 AND 117) Noida.  ] [09/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161507_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "7792440",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Green belt (Re- Construction of Boundary wall in C- Block, Sector- 47) Noida.  ] [07/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161503_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "4914378",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "Re Grassing of Park Opp. Mother Dairy and Green Belt Sector-99, Noida   ] [05/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161496_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "4577881",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o RSP Central Verge with two year Maintenance Sector-62 and 63 noida] [02/D(H)/DD(H)-I/2026-27][2026_NOIDA_1161433_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "2924362",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Green Belt (S/F of MS Grill, R/o Boundary wall and Footpath and Fencing Concertina Coil of Outer Boundary Wall Parallel to Drain in H Block Green Belt Sector-22) Noida.] [04/D(H)/DD(H)-I/2026-27][2026_NOIDA_1161437_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "2517280",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o RSP (P/F SS Railing in tripods of Parthla Chowk near Sector--121) Noida] [06/D(H)/DD(H)-I/2026-27][2026_NOIDA_1161443_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "644005",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Green Belt (C/o Boundary wall around Sump well in Green Belt Fencing Concertina coil wire around Green Belt Boundary wall and C/o 1 No. Gazebo Hut infront of Pathway School Green Belt, Sector-100) Noida. ] [08/D(H)/DD(H)-II/2026-27][2026_NOIDA_1161450_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "2366541",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Green Belt (Concertina Coil Fencing in boundary wall for safety purpose near SRS hospital Sector-70) Noida] [07/D(H)/DD(H)-I/2026-27][2026_NOIDA_1161446_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "1184481",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o RSP (Plantation work) FNG Road Parthala Gol Chhkar to village chijarshi with One year Maintenance Noida] [22/D(H)/DD(H)-I/2025-26][2026_NOIDA_1161476_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "8570099",
-      "publishedDate": "2026-06-18",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-18",
-      "location": "Noida"
-    },
-    {
       "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
       "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
       "amount": "1183705",
       "publishedDate": "2026-06-19",
       "openDate": "2026-07-20",
       "closeDate": "2026-07-20",
-      "addedOn": "2026-06-19",
-      "location": "Noida"
-    },
-    {
-      "name": "Road widening of 30.0m wide road in Sector Ecotech-10 (Part-A), Greater Noida. ] [SM/(E-TENDER CELL)/2026/761 DATED-13.06.2026][2026_GNIDA_1161225_13]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "38104120",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-01",
       "addedOn": "2026-06-19",
       "location": "Noida"
     },
@@ -730,16 +310,6 @@
       "publishedDate": "2026-06-22",
       "openDate": "2026-07-08",
       "closeDate": "2026-07-06",
-      "addedOn": "2026-06-23",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_2]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "20190",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
       "addedOn": "2026-06-23",
       "location": "Noida"
     },
@@ -1291,116 +861,6 @@
       "openDate": "2026-07-06",
       "closeDate": "2026-07-03",
       "addedOn": "2026-06-24",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Road (Construction of  Table top Speed Breakers and Mastic for Junctions at 45 Mtr 30 mtr Wide Road Sector-150) Noida] [28/GM/SM(WC10)/ET/26-27][2026_NOIDA_1163864_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "71899698",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing and Fixing Signage Boards in Internal Streets of  Village Kondli and Sector-149 NOIDA] [02/GM/SMWC10/ET/26-27   ][2026_NOIDA_1163862_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "7765033",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Laying of Interlocking tile at Peripherial road Sector-154 Noida (As per Gram Chaupal Request).] [39/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1163874_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "15029013",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of Road (Resurfacing work on 45M wide road between Sector-140A and Sehadra village) Noida  ] [09/GM/SM/WC-7/ET/2026-27][2026_NOIDA_1163783_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "20314742",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "D/O and M/O NOIDA-GREATER NOIDA EXPRESSWAY (ANNUAL MAINTENANCE OF  NOIDA GREATER NOIDA EXPRESSWAY CH. 10 KM TO 20 KM) NOIDA] [40/GM/SM(WC10)/ET/26-27][2026_NOIDA_1163882_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "15932843",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Theme Painting of walls in Noida for Swachh Survekshan 2025-26 WC-07 Area, Noida] [06/GM/SM/WC-7/PH/ET/2026-27][2026_NOIDA_1163706_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "7014146",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of Road (Resurfacing of 30.00M wide road from Antim Niwas Golchakkar to Charkha Golchakkar in Sec-94, 124) Noida] [35/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1162771_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "28577857",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Village (M/o C.C. Pavement and drain in village Mohiyapur) Noida] [18/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1162751_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "13543532",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of road (P/L Bitumen Mastic wearing course on Mahamaya flyover on Delhi to Noida carriage way, Mahamaya flyover clover leaf Sec-44 and Sec-37 side and patch work on MP3 Road) Noida] [11/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1162746_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "25278096",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of road (P/L DBM and BC work on 30.00M wide road along Yamuna Pusta in Plot No. FH 01 to Rainywell in Sector-128) Noida] [29/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1162764_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "17536924",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of road (P/L DBM and BC work on 30.00M wide road along Yamuna Pusta in Ghari Shahpur cut to FH-9, 10 in Sector-131) Noida] [09/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1162736_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "17931798",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-25",
       "location": "Noida"
     },
     {
@@ -2054,16 +1514,6 @@
       "location": "Noida"
     },
     {
-      "name": "Strengthening of Road (Resurfacing of 24M, 45M and 30M wide road in Sector-94, 124) Noida] [60/GM(C)/SM-WC-09/ET/2025-26][2026_NOIDA_1163883_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "28834117",
-      "publishedDate": "2026-06-25",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-01",
-      "addedOn": "2026-06-26",
-      "location": "Noida"
-    },
-    {
       "name": "M/o Road (Repair of footpath infront Cleo County, Homes 121 and Tikona Park in Sector-121) Noida] [118/GM/SM(WC-05)/2026-27][2026_NOIDA_1163528_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "14960660",
@@ -2671,6 +2121,276 @@
       "openDate": "2026-07-15",
       "closeDate": "2026-07-14",
       "addedOn": "2026-07-01",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (P/L 350mm dia, 400mm dia D.I. Pipe line from Sumpwell in Sector-1, 6 to SPS-2/5 in Sector-5) Noida] [55/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165770_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "21788258",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Replacement of Old and Chocked Deep Sewer Line 300 mm, 400 mm dia Sewer Line in Network D-1 to D-10 Sector-03, A-10 to A-83 Sector-2, A-10 to E-1 Sector-01, E-3 to E-30 in Sector-01 and A-51 to Metro Station Sector-15) Noida.] [54/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165758_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "10929775",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Replacement of Damaged Sewer Line of J. J. Pocket in Sector-122) Noida.] [53/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165749_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4455510",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Two Years Annual Repairing and Cleaning of Man Holes and Changing the Damaged Sewer Lines at Different Locations in Sector-17, 18, 19, 27, 105, 108 and Village-Atta) Noida.] [49/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165742_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7235061",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of PAC Items of Interlocking (IXL) Subsystem   (Make-Frauscher) for Signalling Department] [ NMRC/DCOS/Sig./2026/445][2026_NMRCL_1165735_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "4476493",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-08-03",
+      "closeDate": "2026-08-03",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (P/L Sewer Line for FNG Vihar-I, Sector-121) Noida.] [48/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165685_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9341714",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Replacement of Old and Chocked Sewer Line in Sector-19) Noida.] [47/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165637_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "10305154",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Construction of Sumpwell in Village-Chhajjarsi, Sector-63) Noida.] [63/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165677_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "29644735",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Construction of Sumpwell in Village-Bahlolpur, Chotpur Sector-65) Noida] [62/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165674_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "21843855",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Replacement of Old and Chocked Sewer Line in A, B, E and F Block Sector-27) Noida.] [61/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165666_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "27348604",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Village Development and Maintenance (C/o R.C.C. UGR 2000 KL Capacity for Village-Garhi Chaukhandi) (Part-A - C/o UGR, Erection of New Boring, C/o Pump House, P/L Raising Main and Internal Water line and Internal Development of Compound) Noida] [56/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165662_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "34941949",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Water Supply (P/L Feeding Raising main Line From UGR-62 to UGR-60, 58 and UGR in Village- Bishanpura) Noida] [52/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165660_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "27722721",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Village Development and Maintenance (Construction of R.C.C. UGR Capacity of 1500 KL for Village-Mamura) Noida] [51/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165657_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "30739741",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Village Development and Maintenance (Replacement of Old Choked and Damaged Water and Sewer Lines in Village-Bahlolpur) Noida] [50/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165652_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "23761125",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Construction of Sumpwell in Green Belt, Sector-135) Noida] [45/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165630_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16552977",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Water Supply (Re-Boring of Tubewell No.-1/57 at Sector-57, 2/60 at Sector-60, 1/1 at Sector-1, 1/120 at Sector-120, UGR F-block Sector-63) Noida. ] [44/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165626_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16425733",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Replacement of Damaged 300mm, 400mm dia Sewer line and 90mm, 110mm dia Water line in Mahila Park to Rakesh Prajapati, Balbant Chowk to Ashok Awana, Dinesh Awana, Narendra Darbhanga house to Bikaner Sweets.....CONTINUE ON TENDER DOCUMENT] [43/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165621_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "10434078",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Water Supply (Shifting of Water line and Sewer line Network of  Village Salarpur and Bhangel due to construction of Elevated Road at DSC Road) Noida] [07/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165609_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "11676152",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning of Manholes (Desilting and Cleaning of Sewer Line by Super Sucker Machine in Sector-55, 56, 66, 67, 68, 74, 78, 112, 113, 115, 118, 121, 122) Noida.] [01/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165586_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "12441737",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of W/s (Reboring of Tube Well No.-6/66, 2/74, 1/112, 2/12 and 2/8) Noida. (Erection of New Boring, S/F Pumping Plant, Making Foundation, Chain Pulley Stand and Connection for Tube Well).] [04/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165599_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16274667",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (P/L of Sewer line for damaged part in Sector-136 and connection to deep sewer line near Sector-90 and 140A), Noida.] [24/SM(JAL)-II/ET/2026-27][2026_NOIDA_1165572_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8238535",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-15",
+      "closeDate": "2026-07-14",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of W/s (Replacement of old chocked and damage water line in A, B and C block sector-23) Noida.] [13/SM(JAL)-II/ET/2026-27][2026_NOIDA_1165560_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "3031775",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Village Development (Strengthening of water and sewer line and changing of old water/sewer line in various streets in Village-Nithari), Noida.] [06/SM(JAL)-II/ET/2026-27][2026_NOIDA_1165524_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "14689860",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Village Development (Strengthening of water and sewer line in various streets in village Basai) Noida.] [12/SM(JAL)-II/ET/2026-27][2026_NOIDA_1165546_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "10737648",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o W/s (Rep.of PVC and D.I. Water Line, Sluice Valve, Making Chamber and Allied Works at Net.Sec.-86, 87,88, 150,168 and water supply line from RW No.-11 to Sec.-137, Mohiyapur Underpass to Sec.-146, UGR Sec.-83 to UGR Sec.-88), Noida.(For 02 Years)] [29/SM(JAL)-II/ET/2025-26][2026_NOIDA_1165565_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6946240",
+      "publishedDate": "2026-07-01",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_2]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "20190",
+      "publishedDate": "2026-06-17",
+      "openDate": "2026-07-07",
+      "closeDate": "2026-07-06",
+      "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "227808",
+      "publishedDate": "2026-06-06",
+      "openDate": "2026-07-07",
+      "closeDate": "2026-07-06",
+      "addedOn": "2026-07-02",
       "location": "Noida"
     }
   ]
