@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-02T08:43:21Z",
+  "lastFetched": "2026-07-03T08:48:29Z",
   "location": "Noida",
-  "totalActive": 239,
+  "totalActive": 241,
   "tenders": [
     {
       "name": "Design construction, supply Erection, Testing and commissiong of 80 MLD STP including 120 month O and M in 1st phase at sector Recreational Green R-6 in Gr. Noida] [PROJECT/WC-SEWER/2026/5895  DATED-20.05.2026][2026_GNIDA_1151736_1]",
@@ -190,16 +190,6 @@
       "publishedDate": "2026-06-19",
       "openDate": "2026-07-07",
       "closeDate": "2026-07-06",
-      "addedOn": "2026-06-20",
-      "location": "Noida"
-    },
-    {
-      "name": "Request for Proposal (RFP) for Selection of NGO/AWO for Sterilization of Stray Dogs in Greater Noida ] [HD/2026/1167-1168   DATED-18.06.2026][2026_GNIDA_1162198_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "",
-      "publishedDate": "2026-06-19",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-02",
       "addedOn": "2026-06-20",
       "location": "Noida"
     },
@@ -1354,42 +1344,12 @@
       "location": "Noida"
     },
     {
-      "name": "WORK] [E-T-05/ETCN/2026-27][2026_UPTCL_1155765_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "547026",
-      "publishedDate": "2026-05-30",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-02",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
       "name": "Supply of spare parts for Automatic Fare Collection System (AFC) ] [NMRC/AFC/2026/466   ][2026_NMRCL_1155216_1]",
       "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
       "amount": "45987870",
       "publishedDate": "2026-05-29",
       "openDate": "2026-07-10",
       "closeDate": "2026-07-10",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-04/ETCN/2026-27][2026_UPTCL_1155023_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "196800",
-      "publishedDate": "2026-05-28",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-02",
-      "addedOn": "2026-06-25",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-03/ETCN/2026-27][2026_UPTCL_1154891_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "79734",
-      "publishedDate": "2026-05-27",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-02",
       "addedOn": "2026-06-25",
       "location": "Noida"
     },
@@ -1541,46 +1501,6 @@
       "openDate": "2026-07-08",
       "closeDate": "2026-07-07",
       "addedOn": "2026-06-26",
-      "location": "Noida"
-    },
-    {
-      "name": "SURVEY FOR THE LILO ARRANGEMEBNT OF THE 220 KV METRO DEPOT JALPURA LINE UNDER ETD II NOIDA ] [ST-08/2026-27ETCN][2026_UPTCL_1164591_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "237000",
-      "publishedDate": "2026-06-27",
-      "openDate": "2026-07-03",
-      "closeDate": "2026-07-02",
-      "addedOn": "2026-06-28",
-      "location": "Noida"
-    },
-    {
-      "name": "MAINTENANCE WORK ON AERIAL BUNCHED CABLE (ABC) POWER LINES DAMAGED UNDER 11 KV YEIDA] [38/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1164443_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "504000",
-      "publishedDate": "2026-06-27",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-02",
-      "addedOn": "2026-06-28",
-      "location": "Noida"
-    },
-    {
-      "name": "GUARDING OF POLYTHENE AND LINES ON POLES WORK IN VIEW OF KAVAD YATRA IN AREA OF AE9 UNDER 11KV YEIDA] [37/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1164330_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "835000",
-      "publishedDate": "2026-06-26",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-02",
-      "addedOn": "2026-06-28",
-      "location": "Noida"
-    },
-    {
-      "name": "GUARDING OF POLYTHENE AND LINES ON POLES WORK IN VIEW OF KAVAD YATRA IN AREA OF AE7 UNDER 11KV YEIDA] [35/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1164327_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "919000",
-      "publishedDate": "2026-06-26",
-      "openDate": "2026-07-02",
-      "closeDate": "2026-07-02",
-      "addedOn": "2026-06-28",
       "location": "Noida"
     },
     {
@@ -2391,6 +2311,106 @@
       "openDate": "2026-07-07",
       "closeDate": "2026-07-06",
       "addedOn": "2026-07-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Procurement/ Engagement of Mechanical Road Sweeping Machines (MRSMs) along with comprehensive operation and maintenance for a period of OS years for roads under jurisdiction of Greater Noida (East Zone on Opex model] [HD/2026/1230-1231  DATED-30.06.2026][2026_GNIDA_1165809_2]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "2476900000",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-24",
+      "closeDate": "2026-07-22",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Procurement/ Engagement of Mechanical Road Sweeping Machines (MRSMS) along with comprehensive operation and maintenance for a period of O5 years for roads under jurisdiction of Greater Noida (Central Zonel on Opex model] [HD/2026/1230-1231  DATED-30.06.2026][2026_GNIDA_1165809_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "1378200000",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-24",
+      "closeDate": "2026-07-22",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Relaying of Damaged Trunk Sewer Line of Village Salarpur and Bhangel at DSC Road) Noida] [64/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165820_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "13776528",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-15",
+      "closeDate": "2026-07-14",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Water Supply (Two Years Annual Repairing of Bowl Assly. and Tube Shaft Set of Network-14 to 16 and 14A to 16A) Noida.] [60/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165816_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4485840",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Two Years Annual Repairing and Cleaning of Man Holes and Changing the Damaged Sewer Lines at Different Locations in Sector-14 to 16, 14A to 16A and Village-Nayabans) Noida.] [59/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165807_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5091678",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Two Year Repairing, Cleaning of Sewer Manhole and P/F Manhole Cover Frame, Network Sector-57 to 60 and Village-Bishanpura, Mamura and 5 Percent Abadi Sector-66) Noida] [58/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165794_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8493334",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance of Sewerage (P/L Sewer and Water Line for Under Construction Shopping Complex and Group Housing Society Opposite HIG Pocket in Sector-105) Noida.] [57/SM(Jal)-I/ET/2026-27][2026_NOIDA_1165780_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6743780",
+      "publishedDate": "2026-07-02",
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-07",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-05/ETCN/2026-27][2026_UPTCL_1155765_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "547026",
+      "publishedDate": "2026-05-30",
+      "openDate": "2026-07-10",
+      "closeDate": "2026-07-09",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-04/ETCN/2026-27][2026_UPTCL_1155023_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "196800",
+      "publishedDate": "2026-05-28",
+      "openDate": "2026-07-10",
+      "closeDate": "2026-07-09",
+      "addedOn": "2026-07-03",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-03/ETCN/2026-27][2026_UPTCL_1154891_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "79734",
+      "publishedDate": "2026-05-27",
+      "openDate": "2026-07-10",
+      "closeDate": "2026-07-09",
+      "addedOn": "2026-07-03",
       "location": "Noida"
     }
   ]
