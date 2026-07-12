@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-11T07:29:46Z",
+  "lastFetched": "2026-07-12T07:46:11Z",
   "location": "Noida",
-  "totalActive": 93,
+  "totalActive": 92,
   "tenders": [
     {
       "name": "Construction of Boundary Wall Multi-Modal Logistics Hub Project, Greater Noida.] [DMIC IITGNL/2026-27/CIVIL/164   DATED-15.06.2026][2026_DMICG_1161131_4]",
@@ -250,16 +250,6 @@
       "publishedDate": "2026-07-06",
       "openDate": "2026-07-14",
       "closeDate": "2026-07-14",
-      "addedOn": "2026-07-07",
-      "location": "Noida"
-    },
-    {
-      "name": "REPLACEMENT OF DAMAGED POLE 11KV OR LT LINE IN UNFORESEEN CIRCUMSTANCE IN EUDD 11KV STADIUM NOIDA] [32/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1161639_3]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "1000000",
-      "publishedDate": "2026-07-06",
-      "openDate": "2026-07-11",
-      "closeDate": "2026-07-11",
       "addedOn": "2026-07-07",
       "location": "Noida"
     },
