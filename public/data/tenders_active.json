@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-16T07:48:51Z",
+  "lastFetched": "2026-07-17T07:47:03Z",
   "location": "Noida",
-  "totalActive": 214,
+  "totalActive": 222,
   "tenders": [
     {
       "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
@@ -394,16 +394,6 @@
       "location": "Noida"
     },
     {
-      "name": "Selection of Agency for Operations, Maintenance and Management of EV Charging Infrastructure installed at Sector-90, Noida, for Charging of UPSRTC/SERVICE PROVIDER Electric Buses operating Noida, Greater Noida and Noida International Airport, Jewar] [02/EOI/GM(E/M)/SM(E and M-I)/2026-27][2026_NOIDA_1167757_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "0.00",
-      "publishedDate": "2026-07-09",
-      "openDate": "2026-07-17",
-      "closeDate": "2026-07-16",
-      "addedOn": "2026-07-10",
-      "location": "Noida"
-    },
-    {
       "name": "RATE CONTRACT FOR CORRECTIVE MAINTENANCE/  ANNUAL MAINTENANCE CONTRACT (AMC) OF HVAC  SYSTEM INSTALLED IN NRS-1 TRAINS  AT GREATER NOIDA DEPOT OF NMRC] [NMRC/RS/HVAC/2026/471][2026_NMRCL_1167397_1]",
       "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
       "amount": "5049200",
@@ -540,26 +530,6 @@
       "publishedDate": "2026-07-08",
       "openDate": "2026-07-23",
       "closeDate": "2026-07-22",
-      "addedOn": "2026-07-11",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-04/ETCN/2026-27][2026_UPTCL_1155023_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "196800",
-      "publishedDate": "2026-05-28",
-      "openDate": "2026-07-17",
-      "closeDate": "2026-07-16",
-      "addedOn": "2026-07-11",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-03/ETCN/2026-27][2026_UPTCL_1154891_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "79734",
-      "publishedDate": "2026-05-27",
-      "openDate": "2026-07-17",
-      "closeDate": "2026-07-16",
       "addedOn": "2026-07-11",
       "location": "Noida"
     },
@@ -2141,6 +2111,116 @@
       "openDate": "2026-07-30",
       "closeDate": "2026-07-28",
       "addedOn": "2026-07-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (Resurfacing of Damaged Bitumen and C.C. Roads in A, B, C, Block Sector-22) Noida] [24/GM/SM(WC-05)/2026-27][2026_NOIDA_1169971_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "28220223",
+      "publishedDate": "2026-07-16",
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-22",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "Rate Contract for Hiring of Vehicles for NMRC ] [NMRC/GM/(GA)/GA/473/2026 ][2026_NMRCL_1169929_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "34118400",
+      "publishedDate": "2026-07-16",
+      "openDate": "2026-07-30",
+      "closeDate": "2026-07-30",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o RSP Sector-115 for Two Year Maintenance.] [25/D(H)/DD(H)-II/2026-27][2026_NOIDA_1169866_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5050908",
+      "publishedDate": "2026-07-16",
+      "openDate": "2026-07-31",
+      "closeDate": "2026-07-30",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Park, Green Belt and RSP Sector-28, 29, 37  for Two Year Maintenance] [23/D(H)/DD(H)-II/2026-27][2026_NOIDA_1169863_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9154799",
+      "publishedDate": "2026-07-16",
+      "openDate": "2026-07-31",
+      "closeDate": "2026-07-30",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Park, Green Belt in Sector-47 and 48 for Two Year Maintenance] [24/D(H)/DD(H)-II/2026-27][2026_NOIDA_1169832_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "20866830",
+      "publishedDate": "2026-07-16",
+      "openDate": "2026-07-31",
+      "closeDate": "2026-07-30",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o RSP (Central verge with 02 year Maintenance) Parthala Gol Chakkar to Hindon Pusta Bridge Noida] [32/D(H)/DD(H)-I/2026-27][2026_NOIDA_1169860_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7137313",
+      "publishedDate": "2026-07-16",
+      "openDate": "2026-07-31",
+      "closeDate": "2026-07-30",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (C/o Road and Drain from BS-72 to 78 in 5 Percent Abadi Plots, DBM/BC work and P/F SFRC Cover in Sector-70) Noida] [78/GM/SM(WC-05)/2026-27][2026_NOIDA_1169117_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2090624",
+      "publishedDate": "2026-07-15",
+      "openDate": "2026-07-22",
+      "closeDate": "2026-07-21",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "Selection of Agency for Operations, Maintenance and Management of EV Charging Infrastructure installed at Sector-90, Noida, for Charging of UPSRTC/SERVICE PROVIDER Electric Buses operating Noida, Greater Noida and Noida International Airport, Jewar] [02/EOI/GM(E/M)/SM(E and M-I)/2026-27][2026_NOIDA_1167757_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "0.00",
+      "publishedDate": "2026-07-09",
+      "openDate": "2026-07-24",
+      "closeDate": "2026-07-23",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of Boundary Wall Multi-Modal Logistics Hub Project, Greater Noida.] [DMIC IITGNL/2026-27/CIVIL/164   DATED-15.06.2026][2026_DMICG_1161131_4]",
+      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
+      "amount": "183066232",
+      "publishedDate": "2026-06-17",
+      "openDate": "2026-07-29",
+      "closeDate": "2026-07-27",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-04/ETCN/2026-27][2026_UPTCL_1155023_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "196800",
+      "publishedDate": "2026-05-28",
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-22",
+      "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-03/ETCN/2026-27][2026_UPTCL_1154891_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "79734",
+      "publishedDate": "2026-05-27",
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-22",
+      "addedOn": "2026-07-17",
       "location": "Noida"
     }
   ]
