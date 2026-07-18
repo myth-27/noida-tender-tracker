@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-17T07:47:03Z",
+  "lastFetched": "2026-07-18T07:29:32Z",
   "location": "Noida",
-  "totalActive": 222,
+  "totalActive": 229,
   "tenders": [
     {
       "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
@@ -580,16 +580,6 @@
       "publishedDate": "2026-06-24",
       "openDate": "2026-07-21",
       "closeDate": "2026-07-20",
-      "addedOn": "2026-07-14",
-      "location": "Noida"
-    },
-    {
-      "name": "Replacement of Damaged Power Transformer on time to time Under EUDD-33 KV STD./EXP./YEIDA NOIDA] [34/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1162459_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "375000",
-      "publishedDate": "2026-06-20",
-      "openDate": "2026-07-17",
-      "closeDate": "2026-07-17",
       "addedOn": "2026-07-14",
       "location": "Noida"
     },
@@ -2221,6 +2211,86 @@
       "openDate": "2026-07-23",
       "closeDate": "2026-07-22",
       "addedOn": "2026-07-17",
+      "location": "Noida"
+    },
+    {
+      "name": "D/O Village (M/o Street Light and Installation of New Lights in Some Streets and  Internal Electrification in Panchayat Ghar, Barat Ghar , Govt. Primary School, Junior High School in Village - Salarpur, Bhangel and Nagla Charandas), Noida.] [28/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1170461_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6653141",
+      "publishedDate": "2026-07-17",
+      "openDate": "2026-07-29",
+      "closeDate": "2026-07-28",
+      "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Procurement of winter uniform fabric for contract staff of Noida Authority] [10/E-TENDER/SPO/2026-27][2026_NOIDA_1170263_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16914388",
+      "publishedDate": "2026-07-17",
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-07",
+      "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Stitching of Summer Uniform (Safari Suit and Suit and Salwar) for Contract Staff of Noida Authority] [07/E-TENDER/SPO/2026-27][2026_NOIDA_1170221_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "11125100",
+      "publishedDate": "2026-07-17",
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-07",
+      "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Procurement of winter uniform fabric for regular employees of Noida Authority (Detail given in Tender Form).] [06/E-TENDER/SPO/2026-27][2026_NOIDA_1170212_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "1919522",
+      "publishedDate": "2026-07-17",
+      "openDate": "2026-07-24",
+      "closeDate": "2026-07-23",
+      "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Procurement of summer uniform fabric (Safari Suit) for contract employees of Noida Authority] [09/E-TENDER/SPO/2026-27][2026_NOIDA_1170250_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9778470",
+      "publishedDate": "2026-07-17",
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-07",
+      "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Stitching of Winter Uniform for Contract Staff of Noida Authority] [08/E-TENDER/SPO/2026-27][2026_NOIDA_1170234_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7645550",
+      "publishedDate": "2026-07-17",
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-07",
+      "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of Internal RCC drain in Sector MU-2 (40.0 Sqm Flat) Greater Noida.] [SM/(E-TENDER CELL)/2026/777 DATED-10.07.2026][2026_GNIDA_1169398_7]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "117066953",
+      "publishedDate": "2026-07-15",
+      "openDate": "2026-07-30",
+      "closeDate": "2026-07-28",
+      "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (P/L C.C Pavement, M.S. Jaal and Maintenance of Drain in Village-Bishanpura) Noida] [58/GM/SM(WC-05)/2026-27][2026_NOIDA_1169094_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5775924",
+      "publishedDate": "2026-07-15",
+      "openDate": "2026-07-22",
+      "closeDate": "2026-07-21",
+      "addedOn": "2026-07-18",
       "location": "Noida"
     }
   ]
