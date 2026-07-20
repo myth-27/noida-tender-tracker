@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-18T07:29:32Z",
+  "lastFetched": "2026-07-20T08:37:44Z",
   "location": "Noida",
-  "totalActive": 229,
+  "totalActive": 232,
   "tenders": [
     {
       "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
@@ -2291,6 +2291,36 @@
       "openDate": "2026-07-22",
       "closeDate": "2026-07-21",
       "addedOn": "2026-07-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of spares and various work of CTR make Nitrogen Injection Fire Protection System  (NIFPS) installed at RSS of NMRC for Protection of Power Transformers ] [ NMRC/Spares/NIFPS/469R1/474/26][2026_NMRCL_1170857_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "911293",
+      "publishedDate": "2026-07-18",
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-07-20",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Works for Construction of Foundation for 01 No. Line Bay at 132 KV S/S Sector-63 Noida.] [E-Tender Notice No-19/2026-27 Sl No-33/2026-27][2026_UPCTL_1170759_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
+      "amount": "",
+      "publishedDate": "2026-07-18",
+      "openDate": "2026-08-19",
+      "closeDate": "2026-08-18",
+      "addedOn": "2026-07-20",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "1183705",
+      "publishedDate": "2026-06-19",
+      "openDate": "2026-07-27",
+      "closeDate": "2026-07-27",
+      "addedOn": "2026-07-20",
       "location": "Noida"
     }
   ]
