@@ -1,18 +1,8 @@
 {
-  "lastFetched": "2026-07-20T08:37:44Z",
+  "lastFetched": "2026-07-21T08:09:43Z",
   "location": "Noida",
-  "totalActive": 232,
+  "totalActive": 233,
   "tenders": [
-    {
-      "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "1183705",
-      "publishedDate": "2026-06-19",
-      "openDate": "2026-07-20",
-      "closeDate": "2026-07-20",
-      "addedOn": "2026-06-19",
-      "location": "Noida"
-    },
     {
       "name": "Construction of 01 No. 33 KV Solar Bay at 132 KV Sub-Station Shikarpur, Bulandshahar] [E-Tender Notice No-13/2026-27 Sl No-24/2026-27][2026_UPCTL_1162847_1]",
       "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
@@ -504,26 +494,6 @@
       "location": "Noida"
     },
     {
-      "name": "SUPPLY OF 36 KV COPPER XLPE POWER CABLE AND TERMINATION KITS AT 132kV SECTOR 62 NOIDA UNDER ETD II NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-09/2026-27CE(TW)MRT][2026_UPTCL_1168318_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
-      "amount": "7724600",
-      "publishedDate": "2026-07-10",
-      "openDate": "2026-07-20",
-      "closeDate": "2026-07-20",
-      "addedOn": "2026-07-11",
-      "location": "Noida"
-    },
-    {
-      "name": "SHIFTING HEIGHT RAISING OF 220 KV GREATER NOIDA 400 SECTOR 129 AND 220 KV SEC148 400 KP5 LINE ON DC TOWER DUE TO CONSTRUCTION OF ELEVATED APPROACH ROAD UNDER ETD I NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-08/2026-27CE(TW)MRT][2026_UPTCL_1168299_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
-      "amount": "12022206",
-      "publishedDate": "2026-07-10",
-      "openDate": "2026-07-20",
-      "closeDate": "2026-07-20",
-      "addedOn": "2026-07-11",
-      "location": "Noida"
-    },
-    {
       "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-07 Area Zone- II Noida] [20/GM/SM/WC-7/PH/ET/2026-27][2026_NOIDA_1167752_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "147562881",
@@ -570,16 +540,6 @@
       "publishedDate": "2026-07-13",
       "openDate": "2026-08-03",
       "closeDate": "2026-08-03",
-      "addedOn": "2026-07-14",
-      "location": "Noida"
-    },
-    {
-      "name": "Civil construction work related to the 200 MVA transformer at 400 kV Substation,   Sector-123, Noida.] [Short Term E-Tender Notice 15/2026-27 Sl No 28/2026-27][2026_UPCTL_1163277_1]",
-      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
-      "amount": "",
-      "publishedDate": "2026-06-24",
-      "openDate": "2026-07-21",
-      "closeDate": "2026-07-20",
       "addedOn": "2026-07-14",
       "location": "Noida"
     },
@@ -690,26 +650,6 @@
       "publishedDate": "2026-07-15",
       "openDate": "2026-07-30",
       "closeDate": "2026-07-29",
-      "addedOn": "2026-07-15",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_2]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "227808",
-      "publishedDate": "2026-07-15",
-      "openDate": "2026-07-21",
-      "closeDate": "2026-07-20",
-      "addedOn": "2026-07-15",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_3]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "20190",
-      "publishedDate": "2026-07-15",
-      "openDate": "2026-07-21",
-      "closeDate": "2026-07-20",
       "addedOn": "2026-07-15",
       "location": "Noida"
     },
@@ -2321,6 +2261,76 @@
       "openDate": "2026-07-27",
       "closeDate": "2026-07-27",
       "addedOn": "2026-07-20",
+      "location": "Noida"
+    },
+    {
+      "name": "Special Repair/Maintenance work of Ambedkar Statue, Central Park Plaza Area and Toilet work located on Gate no. 01 and 02 at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [831/Unit-3/Park Maintenance/RNN/26 Date 20.07.2026][2026_UPRNN_1171140_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "266423133",
+      "publishedDate": "2026-07-20",
+      "openDate": "2026-08-03",
+      "closeDate": "2026-08-03",
+      "addedOn": "2026-07-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Special Repair/ Maintenance work of Column Plaza and Pathway at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [832/Unit-3/Park Maintenance/RNN/26 Date 20-07-2026][2026_UPRNN_1171144_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "261629404",
+      "publishedDate": "2026-07-20",
+      "openDate": "2026-08-03",
+      "closeDate": "2026-08-03",
+      "addedOn": "2026-07-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil works for Construction of 33 KV Bay at 132 KV Substation Sector-62, Noida.] [E-Tender Notice No-20/2026-27 Sl No-34/2026-27][2026_UPCTL_1171119_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
+      "amount": "",
+      "publishedDate": "2026-07-20",
+      "openDate": "2026-08-21",
+      "closeDate": "2026-08-20",
+      "addedOn": "2026-07-21",
+      "location": "Noida"
+    },
+    {
+      "name": "SUPPLY OF 36 KV COPPER XLPE POWER CABLE AND TERMINATION KITS AT 132kV SECTOR 62 NOIDA UNDER ETD II NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-09/2026-27CE(TW)MRT][2026_UPTCL_1168318_2]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
+      "amount": "7724600",
+      "publishedDate": "2026-07-20",
+      "openDate": "2026-07-29",
+      "closeDate": "2026-07-29",
+      "addedOn": "2026-07-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Repair of the S.G.R. building and construction of a washroom for Laboratory-5 at 33/11 kV Substation Sector-11 and roof treatment and repair of the S.G.R. building at 33/11 kV Substation Sector-9 Noida Substation ] [83/ECDC/GZB/2026-27][2026_PVVNL_1170967_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "1549995",
+      "publishedDate": "2026-07-20",
+      "openDate": "2026-08-05",
+      "closeDate": "2026-08-04",
+      "addedOn": "2026-07-21",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_3]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "20190",
+      "publishedDate": "2026-07-15",
+      "openDate": "2026-07-28",
+      "closeDate": "2026-07-27",
+      "addedOn": "2026-07-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil construction work related to the 200 MVA transformer at 400 kV Substation,   Sector-123, Noida.] [Short Term E-Tender Notice 15/2026-27 Sl No 28/2026-27][2026_UPCTL_1163277_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
+      "amount": "",
+      "publishedDate": "2026-06-24",
+      "openDate": "2026-07-28",
+      "closeDate": "2026-07-27",
+      "addedOn": "2026-07-21",
       "location": "Noida"
     }
   ]
