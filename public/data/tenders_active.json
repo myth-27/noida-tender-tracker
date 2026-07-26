@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-25T07:45:28Z",
+  "lastFetched": "2026-07-26T08:07:01Z",
   "location": "Noida",
-  "totalActive": 180,
+  "totalActive": 181,
   "tenders": [
     {
       "name": "Supply of PAC Items of Interlocking (IXL) Subsystem   (Make-Frauscher) for Signalling Department] [ NMRC/DCOS/Sig./2026/445][2026_NMRCL_1165735_1]",
@@ -31,16 +31,6 @@
       "openDate": "2026-08-07",
       "closeDate": "2026-08-05",
       "addedOn": "2026-07-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Civil works at various SubStations in Bulandshahr under jurisdiction of ETC Greater Noida] [02/ECTD/GBN/2026-27][2026_UPCTL_1168008_1]",
-      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
-      "amount": "168965",
-      "publishedDate": "2026-07-09",
-      "openDate": "2026-07-27",
-      "closeDate": "2026-07-25",
-      "addedOn": "2026-07-10",
       "location": "Noida"
     },
     {
@@ -1774,16 +1764,6 @@
       "location": "Noida"
     },
     {
-      "name": "Construction of 01 No. 33 KV Solar Bay at 132 KV Sub-Station Shikarpur, Bulandshahar] [E-Tender Notice No-13/2026-27 Sl No-24/2026-27][2026_UPCTL_1162847_1]",
-      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
-      "amount": "",
-      "publishedDate": "2026-06-22",
-      "openDate": "2026-07-27",
-      "closeDate": "2026-07-25",
-      "addedOn": "2026-07-24",
-      "location": "Noida"
-    },
-    {
       "name": "WORK] [E-T-03/ETCN/2026-27][2026_UPTCL_1154891_2]",
       "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
       "amount": "79734",
@@ -1801,6 +1781,36 @@
       "openDate": "2026-07-30",
       "closeDate": "2026-07-29",
       "addedOn": "2026-07-25",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-11/ETCN/2026-27][2026_UPTCL_1172344_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "7558407",
+      "publishedDate": "2026-07-25",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-07-26",
+      "location": "Noida"
+    },
+    {
+      "name": "To-Let EoI for Available Office Space at 2nd and 6th Floor 4459 Sqft Carpet area (Each Floor) U.P. Rajkiya Nirman Nigam Ltd, Building at Sector 62, Noida, U.P.] [855/Unit-3/To Let Tender/RNN/2026 dt 24-07-2026][2026_UPRNN_1172316_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "0.00",
+      "publishedDate": "2026-07-25",
+      "openDate": "2026-08-19",
+      "closeDate": "2026-08-19",
+      "addedOn": "2026-07-26",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil works at various SubStations in Bulandshahr under jurisdiction of ETC Greater Noida] [02/ECTD/GBN/2026-27][2026_UPCTL_1168008_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
+      "amount": "168965",
+      "publishedDate": "2026-07-09",
+      "openDate": "2026-07-30",
+      "closeDate": "2026-07-30",
+      "addedOn": "2026-07-26",
       "location": "Noida"
     }
   ]
