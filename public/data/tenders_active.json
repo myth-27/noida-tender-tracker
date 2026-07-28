@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-27T09:04:54Z",
+  "lastFetched": "2026-07-28T08:11:44Z",
   "location": "Noida",
-  "totalActive": 181,
+  "totalActive": 177,
   "tenders": [
     {
       "name": "Supply of PAC Items of Interlocking (IXL) Subsystem   (Make-Frauscher) for Signalling Department] [ NMRC/DCOS/Sig./2026/445][2026_NMRCL_1165735_1]",
@@ -794,16 +794,6 @@
       "location": "Noida"
     },
     {
-      "name": "Construction of Boundary Wall Multi-Modal Logistics Hub Project, Greater Noida.] [DMIC IITGNL/2026-27/CIVIL/164   DATED-15.06.2026][2026_DMICG_1161131_4]",
-      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
-      "amount": "183066232",
-      "publishedDate": "2026-06-17",
-      "openDate": "2026-07-29",
-      "closeDate": "2026-07-27",
-      "addedOn": "2026-07-17",
-      "location": "Noida"
-    },
-    {
       "name": "D/O Village (M/o Street Light and Installation of New Lights in Some Streets and  Internal Electrification in Panchayat Ghar, Barat Ghar , Govt. Primary School, Junior High School in Village - Salarpur, Bhangel and Nagla Charandas), Noida.] [28/GM(E/M)/SM(E/M)-I/ET/26-27][2026_NOIDA_1170461_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "6653141",
@@ -884,16 +874,6 @@
       "location": "Noida"
     },
     {
-      "name": "Supply of VCC Detector (Make-Vossloh) for Signalling  Department ] [NMRC/DCOS/Sig./2026/446 ][2026_NMRCL_1161690_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "1183705",
-      "publishedDate": "2026-06-19",
-      "openDate": "2026-07-27",
-      "closeDate": "2026-07-27",
-      "addedOn": "2026-07-20",
-      "location": "Noida"
-    },
-    {
       "name": "Special Repair/Maintenance work of Ambedkar Statue, Central Park Plaza Area and Toilet work located on Gate no. 01 and 02 at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [831/Unit-3/Park Maintenance/RNN/26 Date 20.07.2026][2026_UPRNN_1171140_1]",
       "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
       "amount": "266423133",
@@ -944,26 +924,6 @@
       "location": "Noida"
     },
     {
-      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_3]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "20190",
-      "publishedDate": "2026-07-15",
-      "openDate": "2026-07-28",
-      "closeDate": "2026-07-27",
-      "addedOn": "2026-07-21",
-      "location": "Noida"
-    },
-    {
-      "name": "Civil construction work related to the 200 MVA transformer at 400 kV Substation,   Sector-123, Noida.] [Short Term E-Tender Notice 15/2026-27 Sl No 28/2026-27][2026_UPCTL_1163277_1]",
-      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
-      "amount": "",
-      "publishedDate": "2026-06-24",
-      "openDate": "2026-07-28",
-      "closeDate": "2026-07-27",
-      "addedOn": "2026-07-21",
-      "location": "Noida"
-    },
-    {
       "name": "Annual M and R of Transmission Camp office and Maintenance works in campus of Transmission office at 220 K.V S/S Sec-20 Noida.] [E-Tender Notice No-21/2026-27 Sl No-35/2026-27][2026_UPCTL_1171355_1]",
       "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
       "amount": "",
@@ -980,16 +940,6 @@
       "publishedDate": "2026-07-21",
       "openDate": "2026-08-03",
       "closeDate": "2026-07-30",
-      "addedOn": "2026-07-22",
-      "location": "Noida"
-    },
-    {
-      "name": "Operation and Maintenance  of Multi-level Car Parking at Sector 38A Noida] [40/GM/SM(WC-02)/2025-26][2026_NOIDA_1171339_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "0.00",
-      "publishedDate": "2026-07-21",
-      "openDate": "2026-07-28",
-      "closeDate": "2026-07-27",
       "addedOn": "2026-07-22",
       "location": "Noida"
     },
@@ -1094,42 +1044,12 @@
       "location": "Noida"
     },
     {
-      "name": "Operation and Maintenance of Underground Car Parking at Sector 16A Noida] [41/GM/SM(WC-02)/2025-26][2026_NOIDA_1171332_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "0.00",
-      "publishedDate": "2026-07-21",
-      "openDate": "2026-07-28",
-      "closeDate": "2026-07-27",
-      "addedOn": "2026-07-22",
-      "location": "Noida"
-    },
-    {
       "name": "Supply of 33/11 KV E-House Substation from OEM E-House Manufacturer for estimate purpose] [01/EoI/GM(E/M)/SM(E and M-04)/2026-27][2026_NOIDA_1171289_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "0.00",
       "publishedDate": "2026-07-21",
       "openDate": "2026-07-30",
       "closeDate": "2026-07-29",
-      "addedOn": "2026-07-22",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_2]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "227808",
-      "publishedDate": "2026-07-15",
-      "openDate": "2026-07-28",
-      "closeDate": "2026-07-27",
-      "addedOn": "2026-07-22",
-      "location": "Noida"
-    },
-    {
-      "name": "RFP for Engaging Of Agency in Shaheed Vijay Singh Pathik (SVSP) Sports Complex for Running and Maintaining Tennis, Develop, Run and Maintain Paddle, Pickle Ball Courts and Operation and Maintenance of International Standard Tennis Academy.] [SC/2026/RFP/2532  DATED-19.06.2026][2026_GNIDA_1162727_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "",
-      "publishedDate": "2026-06-22",
-      "openDate": "2026-07-29",
-      "closeDate": "2026-07-27",
       "addedOn": "2026-07-22",
       "location": "Noida"
     },
@@ -1811,6 +1731,46 @@
       "openDate": "2026-07-30",
       "closeDate": "2026-07-30",
       "addedOn": "2026-07-26",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_2]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "227808",
+      "publishedDate": "2026-07-15",
+      "openDate": "2026-08-05",
+      "closeDate": "2026-08-04",
+      "addedOn": "2026-07-28",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_3]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "20190",
+      "publishedDate": "2026-07-15",
+      "openDate": "2026-08-05",
+      "closeDate": "2026-08-04",
+      "addedOn": "2026-07-28",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil construction work related to the 200 MVA transformer at 400 kV Substation,   Sector-123, Noida.] [Short Term E-Tender Notice 15/2026-27 Sl No 28/2026-27][2026_UPCTL_1163277_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
+      "amount": "",
+      "publishedDate": "2026-06-24",
+      "openDate": "2026-08-05",
+      "closeDate": "2026-08-04",
+      "addedOn": "2026-07-28",
+      "location": "Noida"
+    },
+    {
+      "name": "RFP for Engaging Of Agency in Shaheed Vijay Singh Pathik (SVSP) Sports Complex for Running and Maintaining Tennis, Develop, Run and Maintain Paddle, Pickle Ball Courts and Operation and Maintenance of International Standard Tennis Academy.] [SC/2026/RFP/2532  DATED-19.06.2026][2026_GNIDA_1162727_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-06-22",
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-07-28",
       "location": "Noida"
     }
   ]
