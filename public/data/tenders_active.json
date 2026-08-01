@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-07-31T08:26:56Z",
+  "lastFetched": "2026-08-01T07:52:55Z",
   "location": "Noida",
-  "totalActive": 179,
+  "totalActive": 177,
   "tenders": [
     {
       "name": "Supply of PAC Items of Interlocking (IXL) Subsystem   (Make-Frauscher) for Signalling Department] [ NMRC/DCOS/Sig./2026/445][2026_NMRCL_1165735_1]",
@@ -30,16 +30,6 @@
       "publishedDate": "2026-07-09",
       "openDate": "2026-08-10",
       "closeDate": "2026-08-07",
-      "addedOn": "2026-07-10",
-      "location": "Noida"
-    },
-    {
-      "name": "Special Repair/Maintenance work of Gate no. 01 and 02 And Toilet Block at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [351/Unit-3/Park Maintenance/RNN/26 Date 02/04/2026][2026_UPRNN_1132843_1]",
-      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
-      "amount": "128681000",
-      "publishedDate": "2026-04-02",
-      "openDate": "2026-07-31",
-      "closeDate": "2026-07-31",
       "addedOn": "2026-07-10",
       "location": "Noida"
     },
@@ -440,16 +430,6 @@
       "publishedDate": "2026-07-22",
       "openDate": "2026-08-06",
       "closeDate": "2026-08-05",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "Request for Proposal  for Supply of 01 CNG based Truck Mounted Mechanical Road  Sweeping Machine and comprehensive operation and  maintenance for a period of 01 year  ] [SM/(E-TENDER CELL)/WC-7/2026/1280-785 DATED-20.07.2026][2026_GNIDA_1171516_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "",
-      "publishedDate": "2026-07-22",
-      "openDate": "2026-08-03",
-      "closeDate": "2026-07-31",
       "addedOn": "2026-07-23",
       "location": "Noida"
     },
@@ -1664,16 +1644,6 @@
       "location": "Noida"
     },
     {
-      "name": "Replacement of Damaged Power Transformer on time to time Under EUDD-33 KV STD./EXP./YEIDA NOIDA] [34/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1162459_2]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "375000",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-07-31",
-      "closeDate": "2026-07-31",
-      "addedOn": "2026-07-30",
-      "location": "Noida"
-    },
-    {
       "name": "C/o Office Building (Maintenance of NOIDA New Administrative Office Building for overall Supply and Operation of Housekeeping services for a period of 03 years) Sector-96, Noida ] [44/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1171769_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "82151320",
@@ -1791,6 +1761,16 @@
       "openDate": "2026-08-04",
       "closeDate": "2026-08-04",
       "addedOn": "2026-07-31",
+      "location": "Noida"
+    },
+    {
+      "name": "Replacement of Damaged Power Transformer on time to time Under EUDD-33 KV STD./EXP./YEIDA NOIDA] [34/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1162459_2]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "375000",
+      "publishedDate": "2026-07-23",
+      "openDate": "2026-08-05",
+      "closeDate": "2026-08-05",
+      "addedOn": "2026-08-01",
       "location": "Noida"
     }
   ]
