@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-08-01T07:52:55Z",
+  "lastFetched": "2026-08-02T07:56:28Z",
   "location": "Noida",
-  "totalActive": 177,
+  "totalActive": 178,
   "tenders": [
     {
       "name": "Supply of PAC Items of Interlocking (IXL) Subsystem   (Make-Frauscher) for Signalling Department] [ NMRC/DCOS/Sig./2026/445][2026_NMRCL_1165735_1]",
@@ -1771,6 +1771,16 @@
       "openDate": "2026-08-05",
       "closeDate": "2026-08-05",
       "addedOn": "2026-08-01",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Works of 01 No. 33 KV AIS Bay for M/s GYGY Infradesign Pvt. Ltd. at 132 KV Substation Bhangel, Noida.] [E-Tender Notice-23/2026-27 Sl No-38/2026-27][2026_UPCTL_1174204_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle",
+      "amount": "",
+      "publishedDate": "2026-08-01",
+      "openDate": "2026-09-03",
+      "closeDate": "2026-09-02",
+      "addedOn": "2026-08-02",
       "location": "Noida"
     }
   ]
