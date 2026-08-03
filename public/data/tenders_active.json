@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-08-02T07:56:28Z",
+  "lastFetched": "2026-08-03T09:00:30Z",
   "location": "Noida",
-  "totalActive": 178,
+  "totalActive": 199,
   "tenders": [
     {
       "name": "Supply of PAC Items of Interlocking (IXL) Subsystem   (Make-Frauscher) for Signalling Department] [ NMRC/DCOS/Sig./2026/445][2026_NMRCL_1165735_1]",
@@ -1781,6 +1781,216 @@
       "openDate": "2026-09-03",
       "closeDate": "2026-09-02",
       "addedOn": "2026-08-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Roads (Repair of Pot Holes in Various Sectors of Work Circle-7 area) Noida   ] [23/GM/SM/WC-7/ET/2026-27][2026_NOIDA_1174305_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7642306",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-7 area Zone- I, Noida] [28/GM/SM/WC-7(PH)/ET/2026-27][2026_NOIDA_1174309_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "108894034",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Buidling (Annual Maintenance of Building Repair and Maintenance work of Hosiery Complex, Phase-II market complex, village Yakubpur, Bhooda, Nagla Charandas, Kakrala, Nayagaon, Illabans Community Center under Work Circle-7 area) Noida   ] [24/GM/SM/WC-7/ET/2026-27][2026_NOIDA_1174089_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4875164",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "ReConstruction of Site office at Sector-150 Work Circle-10 Area ) Noida] [47/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173905_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7857426",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "COVERING OF MAIN DRAIN AT 45 MTR WIDE ROAD SECTOR-157 NOIDA] [64/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173949_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "41291483",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "DISMANTLING AND RECONSTRUTION OF RCC DRAIN AT 30MTR WIDE ROAD ALONG PLOT NO-SC-02 SECTOR-150 NOIDA] [62/GM/SM(WC10)/ET/26-27][2026_NOIDA_1173945_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "25391918",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "COVERING OF MAIN DRAIN AT 45 MTR WIDE ROAD SECTOR-156 NOIDACOVERING OF MAIN DRAIN AT 45 MTR WIDE ROAD SECTOR-156 NOIDA] [63/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173948_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "27333796",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Covering of Main Drain at 45 mtr wide road Around Sector-154 NOIDA] [60/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173941_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "26517945",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road ( Road Marking Paint and Road Safety work at 45 mtr Wide road Sec-151 JP Aman To Sector-156 157 Crossing) Noida] [59/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173939_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "32947676",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of 12 mtr and 30 mtr wide Road near Tata Eureka Sector-150 Noida] [56/GM/SM(WC10)/ET/26-27][2026_NOIDA_1173931_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "50027170",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and Fixing W Beam barrier on Valunerable Point at Sector-150 Noida] [58/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173934_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "24426847",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of  30 mtr wide Road Parallel to Pusta Road at Sector-150 Noida] [61/GM/SM-WC-10/ET/2026-27   ][2026_NOIDA_1173944_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "52006451",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o and M/o Village (Repair of Old main road in village Gulawali as per Gram Chaupal) NoidaD/o and M/o Village (Repair of Old main road in village Gulawali as per Gram Chaupal) Noida] [54/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173926_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "20217435",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "C/O REMAINING ROADS AND DRAINS FOR 5PERCENT ABADI PLOTS IN SEC-159 NOIDA] [53/GM/SM(WC10)/ET/26-27][2026_NOIDA_1173923_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "13202696",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF TEMPORARY ROAD AT DUMPSITE SECTOR-145 NOIDA] [57/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173933_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "30090300",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Laying Interlocking Tile with Repair and  Raising of Drain in Block B Sector-153 ) Noida] [46/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173897_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "15953424",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Resurfacing of Service Road of Noida-Greater Noida Expressway both sides CH 10km to 20km NOIDA] [50/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1173913_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "234630182",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Covering of Main Drain at 45 mtr wide road Around Sector-153 NOIDA] [65/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1174299_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "34866002",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road ( Road Marking Paint and Road Safety work at 45 mtr Wide road NPX Sec-153 Crossing to 157 TCS Crossing Parallel to Expressway) Noida] [66/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1174301_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "33418658",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (Resurfacing Work  on 45.00M, 24,00M,18.00M, 12.00M, and 9.00M wide Internal and External Road in Sector - 83) Noida] [08/GM/SM/WC-7/ET/2026-27][2026_NOIDA_1173887_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "48855111",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "Special Repair/Maintenance work of Ambedkar Statue, Central Park Plaza Area and Toilet work located on Gate no. 01 and 02 at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [831/Unit-3/Park Maintenance/RNN/26 Date 20.07.2026][2026_UPRNN_1171140_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "266423133",
+      "publishedDate": "2026-07-20",
+      "openDate": "2026-08-07",
+      "closeDate": "2026-08-07",
+      "addedOn": "2026-08-03",
       "location": "Noida"
     }
   ]
