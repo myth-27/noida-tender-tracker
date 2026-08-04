@@ -1,18 +1,8 @@
 {
-  "lastFetched": "2026-08-03T09:00:30Z",
+  "lastFetched": "2026-08-04T08:13:47Z",
   "location": "Noida",
-  "totalActive": 199,
+  "totalActive": 206,
   "tenders": [
-    {
-      "name": "Supply of PAC Items of Interlocking (IXL) Subsystem   (Make-Frauscher) for Signalling Department] [ NMRC/DCOS/Sig./2026/445][2026_NMRCL_1165735_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "4476493",
-      "publishedDate": "2026-07-02",
-      "openDate": "2026-08-03",
-      "closeDate": "2026-08-03",
-      "addedOn": "2026-07-02",
-      "location": "Noida"
-    },
     {
       "name": "DEVELOPMENT OF GREENFIELD MULTI MODAL LOGISTICS HUB (MMLH) ON DESIGN, BUILD, FINANCE, OPERATE AND TRANSFER (DBFOT) BASIS AT GREATER NOIDA, GAUTAM BUDDH NAGAR, UTTAR PRADESH] [DMIC - IITGNL/2025-26/563 , DATED- 07.11.2025][2025_DMICG_1088946_1]",
       "org": "DMIC Integrated Industrial Township Greater Noida Limited",
@@ -70,16 +60,6 @@
       "publishedDate": "2026-07-13",
       "openDate": "2026-08-31",
       "closeDate": "2026-08-27",
-      "addedOn": "2026-07-14",
-      "location": "Noida"
-    },
-    {
-      "name": "Tender for Licensing of Commercial space at Lower Ground Floor at Sec-83 Metro Station in NMRC  Network ] [NMRC/Commercial Space Lower Gr Floor/Sec-83/472/2026][2026_NMRCL_1168841_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "0.00",
-      "publishedDate": "2026-07-13",
-      "openDate": "2026-08-03",
-      "closeDate": "2026-08-03",
       "addedOn": "2026-07-14",
       "location": "Noida"
     },
@@ -144,26 +124,6 @@
       "location": "Noida"
     },
     {
-      "name": "Special Repair/Maintenance work of Ambedkar Statue, Central Park Plaza Area and Toilet work located on Gate no. 01 and 02 at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [831/Unit-3/Park Maintenance/RNN/26 Date 20.07.2026][2026_UPRNN_1171140_1]",
-      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
-      "amount": "266423133",
-      "publishedDate": "2026-07-20",
-      "openDate": "2026-08-03",
-      "closeDate": "2026-08-03",
-      "addedOn": "2026-07-21",
-      "location": "Noida"
-    },
-    {
-      "name": "Special Repair/ Maintenance work of Column Plaza and Pathway at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [832/Unit-3/Park Maintenance/RNN/26 Date 20-07-2026][2026_UPRNN_1171144_1]",
-      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
-      "amount": "261629404",
-      "publishedDate": "2026-07-20",
-      "openDate": "2026-08-03",
-      "closeDate": "2026-08-03",
-      "addedOn": "2026-07-21",
-      "location": "Noida"
-    },
-    {
       "name": "Civil works for Construction of 33 KV Bay at 132 KV Substation Sector-62, Noida.] [E-Tender Notice No-20/2026-27 Sl No-34/2026-27][2026_UPCTL_1171119_1]",
       "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
       "amount": "",
@@ -200,16 +160,6 @@
       "publishedDate": "2026-07-21",
       "openDate": "2026-08-07",
       "closeDate": "2026-08-05",
-      "addedOn": "2026-07-22",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of 2000 KL Under Ground Reservoir in Sector-33 (Pi-1 and Pi-2) OHT Campus, Greater Noida] [SM/(E-TENDER CELL)/2026/781 DATED-17.07.2026][2026_GNIDA_1171244_3]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "20974945",
-      "publishedDate": "2026-07-21",
-      "openDate": "2026-08-05",
-      "closeDate": "2026-08-03",
       "addedOn": "2026-07-22",
       "location": "Noida"
     },
@@ -521,36 +471,6 @@
       "openDate": "2026-08-14",
       "closeDate": "2026-08-14",
       "addedOn": "2026-07-24",
-      "location": "Noida"
-    },
-    {
-      "name": "Up gradation of Existing Faulty Master Clock with new state of the  art Mobatime grand master ] [NMRC/TELE/MCLK/2026/003 ][2026_NMRCL_1171847_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "4950100",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-03",
-      "closeDate": "2026-08-03",
-      "addedOn": "2026-07-24",
-      "location": "Noida"
-    },
-    {
-      "name": "Hiring of vehicle on Monthly Rental Basis for One Year] [DMIC IITGNL/2026-27/HR/213   DATED-08.07.2026][2026_DMICG_1168091_1]",
-      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
-      "amount": "2594280",
-      "publishedDate": "2026-07-10",
-      "openDate": "2026-08-04",
-      "closeDate": "2026-08-03",
-      "addedOn": "2026-07-24",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-03/ETCN/2026-27][2026_UPTCL_1154891_2]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "79734",
-      "publishedDate": "2026-07-25",
-      "openDate": "2026-08-04",
-      "closeDate": "2026-08-03",
-      "addedOn": "2026-07-25",
       "location": "Noida"
     },
     {
@@ -1644,16 +1564,6 @@
       "location": "Noida"
     },
     {
-      "name": "C/o Office Building (Maintenance of NOIDA New Administrative Office Building for overall Supply and Operation of Housekeeping services for a period of 03 years) Sector-96, Noida ] [44/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1171769_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "82151320",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-04",
-      "closeDate": "2026-08-03",
-      "addedOn": "2026-07-30",
-      "location": "Noida"
-    },
-    {
       "name": "Rate Contract for Hiring of Vehicles for NMRC ] [NMRC/GM/(GA)/GA/473/2026 ][2026_NMRCL_1169929_1]",
       "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
       "amount": "34118400",
@@ -1991,6 +1901,166 @@
       "openDate": "2026-08-07",
       "closeDate": "2026-08-07",
       "addedOn": "2026-08-03",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (Annual Repairing of PVC Water line, C/o Chamber, Sluice Valve and Reflex Valve Network Village-Shahpur and Sultanpur), Noida.] [28/SM-JAL-III/2026-27][2026_NOIDA_1174493_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "3949728",
+      "publishedDate": "2026-08-04",
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-11",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of road (Resurfacing of 45.00M wide road between Sec-124 and 125) Noida] [54/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1174485_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16334241",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (Mastic work and Maintenance of Chauraha Intersection Connecting to Expressway on 45M wide Road Parallel to Expressway From sec-126 to 128) Noida] [65/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1174490_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "14357052",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (Resurfacing of 30.00M wide road from Charka Golchakkar to Smart work Chauraha Sector-94 and 124) Noida] [45/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1174430_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "13485517",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (C/o Central Verge and Widing of Road and P/L DBM and BC Work at 24.00M Wide Road in Front of Super MIG and Silver City in Sector-93) Noida] [56/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174480_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "25555425",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (P/L BC and Mastic work Internal road swarnim Vihar, HIG Flat, Madhuvan. Udyog Vihar, Green View and Super MIG in Sector-82 and 93) Noida] [55/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174475_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "71446686",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Village (M/o Community Center in Village Ghari Sector 143) Noida] [51/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174437_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "18304948",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (C/o Service Road between Sector-82 and 83 and P/L BC work in both side from Eldeco crossing to Sector-82 Crossing) Noida] [54/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174457_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "15885157",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Village (C/o Hall on Ist Floor and M/o Community Center-II Village Gejha in Sector-93) Noida] [53/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174450_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7081360",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Village(C/o Toilet and Setting Shed other maintenance work Kabrastan Village Gejha in Sector-108) Noida] [52/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174444_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4449471",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "Development Sector -137 (Construction of  Community Center in Sector-137) Noida] [50/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174429_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "33497335",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-17",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (Providing and Laying Thermoplastic compound, P/F Road Stud, Flexible Median Markers, Linear Delinator Systems and other safety related work on 75.00m, 45.00m, 30.00m, 24.00m and 18.00m road in Sector-136, 141, 143, 143A, 143B and 144) Noida] [33/GM(C)/SM/(WC-8)/ET/2026-27][2026_NOIDA_1174414_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "67241259",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "M/O Building (R/o Outer Plaster of Common Area in Sharmika kunj Sec-110) Noida] [39/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1174422_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16229575",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "STRENGTHENING OF ROAD (P/L BC WORK ON INTERNAL ROAD OF SHARMIK KUNJ FLATS IN SECTOR-110) NOIDA] [57/GM(C)/ SM (WC-8)/ET/2025-26][2026_NOIDA_1174409_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4408240",
+      "publishedDate": "2026-08-03",
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-03/ETCN/2026-27][2026_UPTCL_1154891_2]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "79734",
+      "publishedDate": "2026-07-25",
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-11",
+      "addedOn": "2026-08-04",
+      "location": "Noida"
+    },
+    {
+      "name": "Tender for Licensing of Commercial space at Lower Ground Floor at Sec-83 Metro Station in NMRC  Network ] [NMRC/Commercial Space Lower Gr Floor/Sec-83/472/2026][2026_NMRCL_1168841_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "0.00",
+      "publishedDate": "2026-07-13",
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-10",
+      "addedOn": "2026-08-04",
       "location": "Noida"
     }
   ]
