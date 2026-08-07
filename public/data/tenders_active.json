@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-08-06T08:12:09Z",
+  "lastFetched": "2026-08-07T06:54:53Z",
   "location": "Noida",
-  "totalActive": 176,
+  "totalActive": 173,
   "tenders": [
     {
       "name": "RATE CONTRACT FOR CORRECTIVE MAINTENANCE/  ANNUAL MAINTENANCE CONTRACT (AMC) OF HVAC  SYSTEM INSTALLED IN NRS-1 TRAINS  AT GREATER NOIDA DEPOT OF NMRC] [NMRC/RS/HVAC/2026/471][2026_NMRCL_1167397_1]",
@@ -121,86 +121,6 @@
       "openDate": "2026-08-22",
       "closeDate": "2026-08-21",
       "addedOn": "2026-07-22",
-      "location": "Noida"
-    },
-    {
-      "name": "Hire charges for CCTV Camera Survillance Security System for different festival in one year at different location of Noida] [03/GM(Civil)/S M.(E/M)-III/2026-27][2026_NOIDA_1171785_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "4921800",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "P/F of and Repair of Dustbins at Vartious Markets and Toilets in Work Circle 1 to 5 Area, Noida.] [38/E-T/GM/SM/WC-01/2026-27][2026_NOIDA_1171651_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "3438939",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Drain (Re-construction of RCC Drain and Culvert along Sahara Road from C-1 to S-13 Sector-11), Noida] [45/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1171767_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "28432497",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Building (Construction of Community Centre in Sector-11), Noida] [43/ET/DGM/SM/WC-1/2026-27][2026_NOIDA_1171765_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "47280468",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-1 Area, Noida] [47/ET/GM/SM/(WC-1)/2026-27][2026_NOIDA_1171636_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "123897125",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Road (Construction of RCC Footpath Chora More Crossing to Sector-56,12 and 22 T-Point on M.P.-1 Road), Noida] [37/ET/GM/SM/WC-1/2026-27][2026_NOIDA_1171764_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "15443258",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Road (P/L C.C. Paver Block, Road and Drain on Internal and Surrounding Roads in H-Block Market in Sector-63), Noida.] [48/GM(C)/SM(WC-4)/ET/2026-27][2026_NOIDA_1171696_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "16023864",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o Road (P/L Thermoplastic Paint, Road Safety Work and Signage Boards on Internal and External Road in Sector-63, 63A, 64, 65, 69 and FNG Road ), Noida.] [47/GM(C)/SM(WC-4)/ET/2026-27][2026_NOIDA_1171669_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "78702451",
-      "publishedDate": "2026-07-23",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-06",
-      "addedOn": "2026-07-23",
       "location": "Noida"
     },
     {
@@ -1761,6 +1681,56 @@
       "openDate": "2026-08-10",
       "closeDate": "2026-08-10",
       "addedOn": "2026-08-06",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (P/L Thermoplastic Paint, Road Safety Work and Signage Boards on Internal and External Road in Sector-63, 63A, 64, 65, 69 and FNG Road ), Noida.] [47/GM(C)/SM(WC-4)/ET/2026-27][2026_NOIDA_1171669_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "78702451",
+      "publishedDate": "2026-07-23",
+      "openDate": "2026-08-13",
+      "closeDate": "2026-08-12",
+      "addedOn": "2026-08-07",
+      "location": "Noida"
+    },
+    {
+      "name": "Special Repair/Maintenance work of Ambedkar Statue, Central Park Plaza Area and Toilet work located on Gate no. 01 and 02 at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [831/Unit-3/Park Maintenance/RNN/26 Date 20.07.2026][2026_UPRNN_1171140_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "266423133",
+      "publishedDate": "2026-07-20",
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-12",
+      "addedOn": "2026-08-07",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal  for Short-term gap arrangements for Hiring of 07 Mechanical Road  Sweeping Machines on Rent for a period of 180 days for roads  under the jurisdiction of Greater Noida Central ] [SM/(E-TENDER CELL)/WC-7/2026/1191 DATED-08.07.2026][2026_GNIDA_1168027_2]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-07-09",
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-13",
+      "addedOn": "2026-08-07",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal  for  Short-term gap arrangements for Hiring of 09 Mechanical Road  Sweeping Machines on Rent for a period of 180 days for roads  under the jurisdiction of Greater Noida West ] [SM/(E-TENDER CELL)/WC-7/2026/1191 DATED-08.07.2026][2026_GNIDA_1168027_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-07-09",
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-13",
+      "addedOn": "2026-08-07",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal  for Short-term gap arrangements for Hiring of 06 Mechanical Road  Sweeping Machines on Rent for a period of 180 days for roads  under the jurisdiction of Greater Noida East ] [SM/(E-TENDER CELL)/WC-7/2026/1191 DATED-08.07.2026][2026_GNIDA_1168027_3]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "0.00",
+      "publishedDate": "2026-07-09",
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-13",
+      "addedOn": "2026-08-07",
       "location": "Noida"
     }
   ]
