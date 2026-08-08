@@ -1,18 +1,8 @@
 {
-  "lastFetched": "2026-08-07T06:54:53Z",
+  "lastFetched": "2026-08-08T06:15:50Z",
   "location": "Noida",
-  "totalActive": 173,
+  "totalActive": 167,
   "tenders": [
-    {
-      "name": "RATE CONTRACT FOR CORRECTIVE MAINTENANCE/  ANNUAL MAINTENANCE CONTRACT (AMC) OF HVAC  SYSTEM INSTALLED IN NRS-1 TRAINS  AT GREATER NOIDA DEPOT OF NMRC] [NMRC/RS/HVAC/2026/471][2026_NMRCL_1167397_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "5049200",
-      "publishedDate": "2026-07-09",
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-07",
-      "addedOn": "2026-07-10",
-      "location": "Noida"
-    },
     {
       "name": "Request for Proposal for Engaging Coaching Academy/ Agency in Shaheed Vijay Singh Pathik (SVSP) Sports Complex for Operation and Maintenance of International Standard Badminton Academy] [SC/2026/RFP/2540   DATED-01.07.2026][2026_GNIDA_1168336_1]",
       "org": "Greater Noida Industrial Development Authority",
@@ -41,46 +31,6 @@
       "openDate": "2026-08-31",
       "closeDate": "2026-08-27",
       "addedOn": "2026-07-14",
-      "location": "Noida"
-    },
-    {
-      "name": "Procurement of winter uniform fabric for contract staff of Noida Authority] [10/E-TENDER/SPO/2026-27][2026_NOIDA_1170263_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "16914388",
-      "publishedDate": "2026-07-17",
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-07",
-      "addedOn": "2026-07-18",
-      "location": "Noida"
-    },
-    {
-      "name": "Stitching of Summer Uniform (Safari Suit and Suit and Salwar) for Contract Staff of Noida Authority] [07/E-TENDER/SPO/2026-27][2026_NOIDA_1170221_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "11125100",
-      "publishedDate": "2026-07-17",
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-07",
-      "addedOn": "2026-07-18",
-      "location": "Noida"
-    },
-    {
-      "name": "Procurement of summer uniform fabric (Safari Suit) for contract employees of Noida Authority] [09/E-TENDER/SPO/2026-27][2026_NOIDA_1170250_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "9778470",
-      "publishedDate": "2026-07-17",
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-07",
-      "addedOn": "2026-07-18",
-      "location": "Noida"
-    },
-    {
-      "name": "Stitching of Winter Uniform for Contract Staff of Noida Authority] [08/E-TENDER/SPO/2026-27][2026_NOIDA_1170234_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "7645550",
-      "publishedDate": "2026-07-17",
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-07",
-      "addedOn": "2026-07-18",
       "location": "Noida"
     },
     {
@@ -884,16 +834,6 @@
       "location": "Noida"
     },
     {
-      "name": "Rate Contract for Hiring of Vehicles for NMRC ] [NMRC/GM/(GA)/GA/473/2026 ][2026_NMRCL_1169929_1]",
-      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
-      "amount": "34118400",
-      "publishedDate": "2026-07-16",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-07",
-      "addedOn": "2026-07-30",
-      "location": "Noida"
-    },
-    {
       "name": "CAMC of Automatic Fare Collection (AFC) System ] [ NMRC/AFC/2026/01 ][2026_NMRCL_1168445_1]",
       "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
       "amount": "230900000",
@@ -1160,16 +1100,6 @@
       "publishedDate": "2026-08-03",
       "openDate": "2026-08-11",
       "closeDate": "2026-08-10",
-      "addedOn": "2026-08-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Special Repair/Maintenance work of Ambedkar Statue, Central Park Plaza Area and Toilet work located on Gate no. 01 and 02 at Rashtriya Dalit Prerna Sthal and Green Garden, Sector-95, Noida] [831/Unit-3/Park Maintenance/RNN/26 Date 20.07.2026][2026_UPRNN_1171140_1]",
-      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
-      "amount": "266423133",
-      "publishedDate": "2026-07-20",
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-07",
       "addedOn": "2026-08-03",
       "location": "Noida"
     },
@@ -1731,6 +1661,16 @@
       "openDate": "2026-08-17",
       "closeDate": "2026-08-13",
       "addedOn": "2026-08-07",
+      "location": "Noida"
+    },
+    {
+      "name": "RATE CONTRACT FOR CORRECTIVE MAINTENANCE/  ANNUAL MAINTENANCE CONTRACT (AMC) OF HVAC  SYSTEM INSTALLED IN NRS-1 TRAINS  AT GREATER NOIDA DEPOT OF NMRC] [NMRC/RS/HVAC/2026/471][2026_NMRCL_1167397_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "5049200",
+      "publishedDate": "2026-07-09",
+      "openDate": "2026-08-14",
+      "closeDate": "2026-08-13",
+      "addedOn": "2026-08-08",
       "location": "Noida"
     }
   ]
