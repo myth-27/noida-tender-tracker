@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-08-08T06:15:50Z",
+  "lastFetched": "2026-08-10T07:01:19Z",
   "location": "Noida",
-  "totalActive": 167,
+  "totalActive": 168,
   "tenders": [
     {
       "name": "Request for Proposal for Engaging Coaching Academy/ Agency in Shaheed Vijay Singh Pathik (SVSP) Sports Complex for Operation and Maintenance of International Standard Badminton Academy] [SC/2026/RFP/2540   DATED-01.07.2026][2026_GNIDA_1168336_1]",
@@ -1671,6 +1671,16 @@
       "openDate": "2026-08-14",
       "closeDate": "2026-08-13",
       "addedOn": "2026-08-08",
+      "location": "Noida"
+    },
+    {
+      "name": "CAMC of Automatic Fare Collection (AFC) System ] [ NMRC/AFC/2026/01 ][2026_NMRCL_1168445_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "230900000",
+      "publishedDate": "2026-07-10",
+      "openDate": "2026-08-14",
+      "closeDate": "2026-08-14",
+      "addedOn": "2026-08-10",
       "location": "Noida"
     }
   ]
