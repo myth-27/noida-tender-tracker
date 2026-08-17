@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-08-16T06:02:11Z",
+  "lastFetched": "2026-08-17T06:08:54Z",
   "location": "Noida",
-  "totalActive": 141,
+  "totalActive": 147,
   "tenders": [
     {
       "name": "DEVELOPMENT OF GREENFIELD MULTI MODAL LOGISTICS HUB (MMLH) ON DESIGN, BUILD, FINANCE,OPERATE AND TRANSFER (DBFOT) BASIS AT GREATER NOIDA, GAUTAM BUDDH NAGAR, UTTAR PRADESH] [DMIC IITGNL/CIVIL/219   DATED-10.07.2026][2026_DMICG_1168631_1]",
@@ -1411,6 +1411,66 @@
       "openDate": "2026-08-21",
       "closeDate": "2026-08-21",
       "addedOn": "2026-08-15",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o AND M/O Village (Providing and Laying Of CC On Damage Roads and Repair Of Drains at Different Location in Village Nalgarah) Noida] [30/GM/SMWC-10/ET/25-26][2026_NOIDA_1177232_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6299371",
+      "publishedDate": "2026-08-17",
+      "openDate": "2026-09-01",
+      "closeDate": "2026-08-31",
+      "addedOn": "2026-08-17",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Sector-160 (Construction of 45m Wide road from Sector-159 160 T-Point to Sector-160 Pusta Parallel to Railway Corridor in Sector-160) Noida] [68/GM/SM(WC10)/ET/26-27   ][2026_NOIDA_1177230_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "113715739",
+      "publishedDate": "2026-08-17",
+      "openDate": "2026-09-01",
+      "closeDate": "2026-08-31",
+      "addedOn": "2026-08-17",
+      "location": "Noida"
+    },
+    {
+      "name": "C/o Noida International Golf Course Balance work at Sector-151A Noida] [55/GM/SM(WC-10)/ET/26-27][2026_NOIDA_1177229_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "346604974",
+      "publishedDate": "2026-08-17",
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-24",
+      "addedOn": "2026-08-17",
+      "location": "Noida"
+    },
+    {
+      "name": "C/o Caddie Area Workshop Interiors and Building Facade etc of Golf Course in Sector151A] [52/GM/SM(WC-10)/ET/26-27][2026_NOIDA_1177228_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "239076304",
+      "publishedDate": "2026-08-17",
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-24",
+      "addedOn": "2026-08-17",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (Providing and Laying Thermoplastic compound Providing and Fixing Road Stud Flexible Median Markers Linear Delinator Systems and other safety related work on 45m Sector-147 148 ) Noida ] [23/GM/SM(WC10)/ET/26-27][2026_NOIDA_1177227_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7030676",
+      "publishedDate": "2026-08-17",
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-24",
+      "addedOn": "2026-08-17",
+      "location": "Noida"
+    },
+    {
+      "name": "Repair and Maintenance work of Community Center Sector-154 Noida as per Gram Chaupal Request] [20/GM/SM(WC10)/ET/26-27][2026_NOIDA_1177225_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6971140",
+      "publishedDate": "2026-08-17",
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-24",
+      "addedOn": "2026-08-17",
       "location": "Noida"
     }
   ]
