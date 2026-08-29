@@ -1,18 +1,8 @@
 {
-  "lastFetched": "2026-08-27T16:59:26Z",
+  "lastFetched": "2026-08-29T11:56:50Z",
   "location": "Noida",
-  "totalActive": 193,
+  "totalActive": 181,
   "tenders": [
-    {
-      "name": "DEVELOPMENT OF GREENFIELD MULTI MODAL LOGISTICS HUB (MMLH) ON DESIGN, BUILD, FINANCE,OPERATE AND TRANSFER (DBFOT) BASIS AT GREATER NOIDA, GAUTAM BUDDH NAGAR, UTTAR PRADESH] [DMIC IITGNL/CIVIL/219   DATED-10.07.2026][2026_DMICG_1168631_1]",
-      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
-      "amount": "58810000000",
-      "publishedDate": "2026-07-13",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-07-14",
-      "location": "Noida"
-    },
     {
       "name": "Civil Works of 01 No. 33 KV AIS Bay for M/s GYGY Infradesign Pvt. Ltd. at 132 KV Substation Bhangel, Noida.] [E-Tender Notice-23/2026-27 Sl No-38/2026-27][2026_UPCTL_1174204_1]",
       "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle",
@@ -21,26 +11,6 @@
       "openDate": "2026-09-03",
       "closeDate": "2026-09-02",
       "addedOn": "2026-08-02",
-      "location": "Noida"
-    },
-    {
-      "name": "DESIGN AND CONSTRUCTION OF 33/11 KV, 50MVA ELECTRICAL SUB-STATION FOR INTEGRATED INDUSTRIAL TOWNSHIP AT GREATER NOIDA UTTAR PRADESH] [DMIC IITGNL/2026-27/ELECT/273  DATED-31.07.2026][2026_DMICG_1174523_1]",
-      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
-      "amount": "472737039",
-      "publishedDate": "2026-08-04",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-05",
-      "location": "Noida"
-    },
-    {
-      "name": "DESIGN, CONSTRUCTION, TESTING AND COMMISSIONING OF ADDITIONAL INFRASTRUCTURE WORKS FOR INTEGRATED INDUSTRIAL TOWNSHIP, GREATER NOIDA, UTTAR PRADESH ON EPC BASIS] [DMIC IITGNL/2026-27/CIVIL/275 DATED-31.07.2026][2026_DMICG_1174527_1]",
-      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
-      "amount": "586500000",
-      "publishedDate": "2026-08-04",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-05",
       "location": "Noida"
     },
     {
@@ -61,56 +31,6 @@
       "openDate": "2026-09-15",
       "closeDate": "2026-09-14",
       "addedOn": "2026-08-13",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing and Fixing of RCC Precast Hollow Core Slab in XU-III RCC Drain (Dadha Rotary to Haier Rotary), Greater Noida.] [SM/(E-TENDER CELL)/2026/791 DATED-12.08.2026][2026_GNIDA_1176774_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "30049584",
-      "publishedDate": "2026-08-13",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-14",
-      "location": "Noida"
-    },
-    {
-      "name": "Beautification of Green Belt Surrounding area India Expomart in Sector KP-2/3, Greater Noida. ] [SM/(E-TENDER CELL)/2026/791 DATED-12.08.2026][2026_GNIDA_1176774_2]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "81167531",
-      "publishedDate": "2026-08-13",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-14",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing and Laying of MS / GRP Pipe at Sec 88 Junction to UGR A-7 Sec-137/UGR A 8 Sec-132) under 80 Cusec Gangajal Pariyojna Noida] [964/Unit-3/Gangajal (Sec-137/132) /RNN/2026 Date 14-08-2026][2026_UPRNN_1177221_1]",
-      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
-      "amount": "34201252",
-      "publishedDate": "2026-08-15",
-      "openDate": "2026-08-27",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-15",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing and Laying of MS Pipe at UGR M1 Sector 118 to Sector 107 for water supply of UGR Sector 100 Noida under 80 Cusec Gangajal Pariyojna Noida] [963/Unit-3/Gangajal (Sec-118-107/100)/RNN/2026 Date 14-08-2026][2026_UPRNN_1177203_1]",
-      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
-      "amount": "56770279",
-      "publishedDate": "2026-08-14",
-      "openDate": "2026-08-27",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-15",
-      "location": "Noida"
-    },
-    {
-      "name": "Request for Proposal (RFP) for Selection of NGO/AWO for Sterilization of Stray Dogs in Greater Noida ] [HD/2026/1615-1616  DATED-12.08.2026][2026_GNIDA_1177037_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "19200000",
-      "publishedDate": "2026-08-14",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-15",
       "location": "Noida"
     },
     {
@@ -304,16 +224,6 @@
       "location": "Noida"
     },
     {
-      "name": "CONSTRUCTION OF 33 KV UG LINE OF NEW CONNECTION NOIDA DEPOT SEC16 DUAL SOURCE SUPPLY IN 33KV STADIUM] [39/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1177775_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "28418000",
-      "publishedDate": "2026-08-18",
-      "openDate": "2026-08-27",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-19",
-      "location": "Noida"
-    },
-    {
       "name": "To-Let EoI for Available Office Space at 2nd and 6th Floor 4459 Sqft Carpet area (Each Floor) U.P. Rajkiya Nirman Nigam Ltd, Building at Sector 62, Noida, U.P.] [855/Unit-3/To Let Tender/RNN/2026 dt 24-07-2026][2026_UPRNN_1172316_1]",
       "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
       "amount": "0.00",
@@ -420,16 +330,6 @@
       "publishedDate": "2026-08-20",
       "openDate": "2026-09-08",
       "closeDate": "2026-09-07",
-      "addedOn": "2026-08-20",
-      "location": "Noida"
-    },
-    {
-      "name": "M/o RSP with two-year Maintenance Central verge, both side RSP and all Triangulers, MP-II, Sector-16A under the fly over to D.S. Group T. Point. Noida] [49/D(H)/DD(H)-I/2026-27][2026_NOIDA_1178329_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "18326092",
-      "publishedDate": "2026-08-20",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
       "addedOn": "2026-08-20",
       "location": "Noida"
     },
@@ -854,16 +754,6 @@
       "location": "Noida"
     },
     {
-      "name": "D/o Park (C/o Pathway and Gazebo hut in Park, Sector- 156) Noida.] [12/D(H)/DD(H)-III/2026-27][2026_NOIDA_1178066_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "9397292",
-      "publishedDate": "2026-08-20",
-      "openDate": "2026-08-31",
-      "closeDate": "2026-08-27",
-      "addedOn": "2026-08-21",
-      "location": "Noida"
-    },
-    {
       "name": "M/o Green Belt (Fencing Barbed wire for green belt security purpose at different places in horticulture division-III) Noida.] [10/D(H)/DD(H)-III/2026-27][2026_NOIDA_1172426_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "967668",
@@ -920,16 +810,6 @@
       "publishedDate": "2026-08-14",
       "openDate": "2026-09-02",
       "closeDate": "2026-09-01",
-      "addedOn": "2026-08-21",
-      "location": "Noida"
-    },
-    {
-      "name": "Civil works for Construction of 33 KV Bay at 132 KV Substation Sector-62, Noida.] [E-Tender Notice No-20/2026-27 Sl No-34/2026-27][2026_UPCTL_1171119_1]",
-      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
-      "amount": "",
-      "publishedDate": "2026-07-20",
-      "openDate": "2026-08-29",
-      "closeDate": "2026-08-27",
       "addedOn": "2026-08-21",
       "location": "Noida"
     },
@@ -1130,16 +1010,6 @@
       "publishedDate": "2026-08-21",
       "openDate": "2026-09-18",
       "closeDate": "2026-09-18",
-      "addedOn": "2026-08-22",
-      "location": "Noida"
-    },
-    {
-      "name": "SUPPLY INSTALLATION TESTING AND COMMISSIONING OF CONFERENCE ROOM EQUIPMENTS AT CAMP OFFICE SECTOR 14A NOIDA WITH 3 YEAR WARRANTY] [02/Computer Cell/Conference Room/2026-27][2026_NOIDA_1178628_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "0.00",
-      "publishedDate": "2026-08-21",
-      "openDate": "2026-08-28",
-      "closeDate": "2026-08-27",
       "addedOn": "2026-08-22",
       "location": "Noida"
     },
@@ -1931,6 +1801,16 @@
       "openDate": "2026-09-05",
       "closeDate": "2026-09-03",
       "addedOn": "2026-08-27",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of Community center in Village Sirsa, Greater Noida.] [SM/(E-TENDER CELL)/2026/800 DATED-22.08.2026][2026_GNIDA_1179266_9]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "69372725",
+      "publishedDate": "2026-08-27",
+      "openDate": "2026-09-11",
+      "closeDate": "2026-09-09",
+      "addedOn": "2026-08-29",
       "location": "Noida"
     }
   ]
