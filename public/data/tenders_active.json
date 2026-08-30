@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-08-29T11:56:50Z",
+  "lastFetched": "2026-08-30T10:47:38Z",
   "location": "Noida",
-  "totalActive": 181,
+  "totalActive": 184,
   "tenders": [
     {
       "name": "Civil Works of 01 No. 33 KV AIS Bay for M/s GYGY Infradesign Pvt. Ltd. at 132 KV Substation Bhangel, Noida.] [E-Tender Notice-23/2026-27 Sl No-38/2026-27][2026_UPCTL_1174204_1]",
@@ -1811,6 +1811,36 @@
       "openDate": "2026-09-11",
       "closeDate": "2026-09-09",
       "addedOn": "2026-08-29",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Work for Construction of 33 KV  Bay for M/s ATS Reality Pvt. Ltd., M/s Three C Home pvt. Ltd. and M/S Gaursons Realtech pvt. Ltd. at 220 KV AIS sub-station Sector -18, YEIDA. ] [E-Tender Notice No-27/2026-27 Sl No-44/2026-27][2026_UPCTL_1180873_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle",
+      "amount": "",
+      "publishedDate": "2026-08-29",
+      "openDate": "2026-10-06",
+      "closeDate": "2026-10-05",
+      "addedOn": "2026-08-30",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Work for Construction of 33 KV  Bay for M/s Patanjali Ayurveda and M/s Green Bay Infrastructre pvt. Ltd. at  220 KV AIS sub-station Sector -24, YEIDA.  ] [E-Tender Notice No-27/2026-27 Sl No-45/2026-27][2026_UPCTL_1180883_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle",
+      "amount": "",
+      "publishedDate": "2026-08-29",
+      "openDate": "2026-10-06",
+      "closeDate": "2026-10-05",
+      "addedOn": "2026-08-30",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of RCC drain and drain cover work in service road along of S.K. road (LG rotary to Surajpur Entry point), Greater Noida.] [SM/(E-TENDER CELL)/2026/800 DATED-22.08.2026][2026_GNIDA_1179266_19]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "79983097",
+      "publishedDate": "2026-08-27",
+      "openDate": "2026-09-11",
+      "closeDate": "2026-09-09",
+      "addedOn": "2026-08-30",
       "location": "Noida"
     }
   ]
