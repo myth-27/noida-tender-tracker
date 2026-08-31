@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-08-30T10:47:38Z",
+  "lastFetched": "2026-08-31T11:52:36Z",
   "location": "Noida",
-  "totalActive": 184,
+  "totalActive": 189,
   "tenders": [
     {
       "name": "Civil Works of 01 No. 33 KV AIS Bay for M/s GYGY Infradesign Pvt. Ltd. at 132 KV Substation Bhangel, Noida.] [E-Tender Notice-23/2026-27 Sl No-38/2026-27][2026_UPCTL_1174204_1]",
@@ -1841,6 +1841,56 @@
       "openDate": "2026-09-11",
       "closeDate": "2026-09-09",
       "addedOn": "2026-08-30",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of Community center in Village Milak Lachhi (Sector Techzone-7), Greater Noida.] [SM/(E-TENDER CELL)/2026/800 DATED-22.08.2026][2026_GNIDA_1179266_12]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "69372739",
+      "publishedDate": "2026-08-31",
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-14",
+      "addedOn": "2026-08-31",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Building (Repair of  External/Internal Staff Quarter in Pocket  B-1, B-3, B-5, B-10, B-10A, B-12A, B-14, and Neel Giri-I in Sector-34) Noida] [58/GM/SM(WC-05)/2025-26][2026_NOIDA_1179360_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "12405234",
+      "publishedDate": "2026-08-24",
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-08",
+      "addedOn": "2026-08-31",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Road (P/L DBM, BC and Mastic on Road between Sector-66-71 and Sector-67-70 ) Noida] [115/GM/SM(WC-05)/2026-27][2026_NOIDA_1179371_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "31391166",
+      "publishedDate": "2026-08-24",
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-08",
+      "addedOn": "2026-08-31",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Building(Construction of Library Building in Barat Ghar Compound Village-Ghadi Chukhandi at Sector-68) Noida] [98/GM/SM(WC-05)/2026-27][2026_NOIDA_1179365_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8531420",
+      "publishedDate": "2026-08-24",
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-08",
+      "addedOn": "2026-08-31",
+      "location": "Noida"
+    },
+    {
+      "name": "Engagement of Agency for Manual Based Night Sweeping and Housekeeping Services in Commercial Markets in Work Circle-3 Area,  Noida] [34/GM/SM(WC-3)/2026-27][2026_NOIDA_1178735_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "19450609",
+      "publishedDate": "2026-08-24",
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-08",
+      "addedOn": "2026-08-31",
       "location": "Noida"
     }
   ]
