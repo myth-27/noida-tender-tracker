@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-04T10:08:29Z",
+  "lastFetched": "2026-09-05T09:24:11Z",
   "location": "Noida",
   "totalActive": 192,
   "tenders": [
@@ -390,16 +390,6 @@
       "publishedDate": "2026-08-21",
       "openDate": "2026-09-09",
       "closeDate": "2026-09-07",
-      "addedOn": "2026-08-22",
-      "location": "Noida"
-    },
-    {
-      "name": "REQUEST FOR PROPOSAL FOR CIVIL INTERIOR AND MEP SERVICE WORK IN 6TH, 7TH, 8TH, 9TH AND GROUND FLOOR (FOR RECEPTION) IN TOWER-2, OFFICE BUILDING, GREATER NOIDA] [SM/(WC-5)/2026/10253   DATED-17.08.2026][2026_GNIDA_1178782_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "",
-      "publishedDate": "2026-08-21",
-      "openDate": "2026-09-07",
-      "closeDate": "2026-09-04",
       "addedOn": "2026-08-22",
       "location": "Noida"
     },
@@ -1921,6 +1911,16 @@
       "openDate": "2026-09-18",
       "closeDate": "2026-09-16",
       "addedOn": "2026-09-04",
+      "location": "Noida"
+    },
+    {
+      "name": "SHIFTING HEIGHT RAISING OF 220 KV GREATER NOIDA 400  SECTOR-129 AND 220 KV SEC148 400KP5 LINE ON DC TOWER DUE TO CONSTRUCTION OF ELEVATED APPROACH ROAD UNDER ETD I NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-16/2026-27CE(TW)MRT][2026_UPTCL_1178115_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
+      "amount": "12022206",
+      "publishedDate": "2026-08-19",
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-09",
+      "addedOn": "2026-09-05",
       "location": "Noida"
     }
   ]
