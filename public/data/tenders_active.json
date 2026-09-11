@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-09-10T10:05:29Z",
+  "lastFetched": "2026-09-11T10:03:09Z",
   "location": "Noida",
-  "totalActive": 144,
+  "totalActive": 140,
   "tenders": [
     {
       "name": "Civil Works for Construction of Security wall, Main Gate and Security Hut at 132 KV Sub-Station YEIDA, Sector-10 (Gautambuddhnagar).] [E-Tender Notice-24/2026-27 Sl No-39/2026-27][2026_UPCTL_1176657_1]",
@@ -11,16 +11,6 @@
       "openDate": "2026-09-15",
       "closeDate": "2026-09-14",
       "addedOn": "2026-08-13",
-      "location": "Noida"
-    },
-    {
-      "name": "Hiring of vehicle on Monthly Rental Basis for One Year] [DMIC IITGNL/2026-27/HR/331   DATED-20.08.2026][2026_DMICG_1178798_1]",
-      "org": "DMIC Integrated Industrial Township Greater Noida Limited",
-      "amount": "",
-      "publishedDate": "2026-08-21",
-      "openDate": "2026-09-11",
-      "closeDate": "2026-09-10",
-      "addedOn": "2026-08-22",
       "location": "Noida"
     },
     {
@@ -70,36 +60,6 @@
       "publishedDate": "2026-08-27",
       "openDate": "2026-10-03",
       "closeDate": "2026-10-01",
-      "addedOn": "2026-08-27",
-      "location": "Noida"
-    },
-    {
-      "name": "Request for Proposal (RFP)f or Development and Implementation of Land Subdivision Application System for 6 Percent, 8 Percent  and 10 Percent Abadi Plots] [SM/SYSTEM/2026/1318-1319   DATED-24.08.2026][2026_GNIDA_1180141_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "5000000",
-      "publishedDate": "2026-08-27",
-      "openDate": "2026-09-11",
-      "closeDate": "2026-09-10",
-      "addedOn": "2026-08-27",
-      "location": "Noida"
-    },
-    {
-      "name": "Request for Proposal (RFP) for Supply, Installation, Commissioning, Testing, Training, and Operation and Maintenance Support of Autodesk Software for Drafting and Design ] [SM/SYSTEM/2026/1318-1319   DATED-24.08.2026][2026_GNIDA_1180141_2]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "8592000",
-      "publishedDate": "2026-08-27",
-      "openDate": "2026-09-11",
-      "closeDate": "2026-09-10",
-      "addedOn": "2026-08-27",
-      "location": "Noida"
-    },
-    {
-      "name": "REQUEST FOR PROPOSAL (RFP)        FOR HIRING A SERVICE PROVIDER TO SET UP AND SUPPORT A CLOUD-BASED DISASTER RECOVERY CENTRE] [SM/SYSTEM/2026/1318-1319   DATED-24.08.2026][2026_GNIDA_1180141_3]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "11338300",
-      "publishedDate": "2026-08-27",
-      "openDate": "2026-09-11",
-      "closeDate": "2026-09-10",
       "addedOn": "2026-08-27",
       "location": "Noida"
     },
@@ -340,16 +300,6 @@
       "publishedDate": "2026-09-02",
       "openDate": "2026-09-16",
       "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Selection of an event management agency for Conceptualizing, Designing, Fabrication, Installation, Dismantling and Management of IT and Electronics Department Pavilion at UPITS 2026 (25-29 September 2026) and SEMICON 2026 (17-19 September 2026)] [UPLC-EVENT-UPITS-SEMICON-2026][2026_UPECL_1181940_1]",
-      "org": "UP Electronics Corporation Ltd.||UPLC HQ",
-      "amount": "",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-11",
-      "closeDate": "2026-09-10",
       "addedOn": "2026-09-03",
       "location": "Noida"
     },
@@ -1441,6 +1391,16 @@
       "openDate": "2026-09-17",
       "closeDate": "2026-09-16",
       "addedOn": "2026-09-10",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Work for Construction of  01 no. 220 KV Feeder Bay at 220 KV Sub-station Sector-18, YEIDA.] [E-Tender Notice No-28/2026-27 Sl No-46/2026-27][2026_UPCTL_1184330_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle",
+      "amount": "",
+      "publishedDate": "2026-09-10",
+      "openDate": "2026-10-10",
+      "closeDate": "2026-10-09",
+      "addedOn": "2026-09-11",
       "location": "Noida"
     }
   ]
