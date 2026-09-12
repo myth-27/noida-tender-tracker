@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-09-11T10:03:09Z",
+  "lastFetched": "2026-09-12T09:37:50Z",
   "location": "Noida",
-  "totalActive": 140,
+  "totalActive": 143,
   "tenders": [
     {
       "name": "Civil Works for Construction of Security wall, Main Gate and Security Hut at 132 KV Sub-Station YEIDA, Sector-10 (Gautambuddhnagar).] [E-Tender Notice-24/2026-27 Sl No-39/2026-27][2026_UPCTL_1176657_1]",
@@ -1374,16 +1374,6 @@
       "location": "Noida"
     },
     {
-      "name": "Selection of an event management agency for Conceptualizing, Designing, Fabrication, Installation, Dismantling and Management of IT and Electronics Department Pavilion at UPITS 2026 (25-29 September 2026) and SEMICON 2026 (17-19 September 2026)] [UPLC-EVENT-UPITS-SEMICON-2026][2026_UPECL_1181940_1]",
-      "org": "UP Electronics Corporation Ltd.||UPLC HQ",
-      "amount": "",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-12",
-      "closeDate": "2026-09-11",
-      "addedOn": "2026-09-10",
-      "location": "Noida"
-    },
-    {
       "name": "Civil construction work related to the 200 MVA transformer at 400 kV Substation,   Sector-123, Noida.] [Short Term E-Tender Notice 15/2026-27 Sl No 28/2026-27][2026_UPCTL_1163277_1]",
       "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle||Ghaziabad Division",
       "amount": "",
@@ -1401,6 +1391,46 @@
       "openDate": "2026-10-10",
       "closeDate": "2026-10-09",
       "addedOn": "2026-09-11",
+      "location": "Noida"
+    },
+    {
+      "name": "REPAIRING AND OVERHAULING OF 33 KV VCB/CONTROL PANEL WORK ] [43/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1185018_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "500000",
+      "publishedDate": "2026-09-12",
+      "openDate": "2026-09-26",
+      "closeDate": "2026-09-26",
+      "addedOn": "2026-09-12",
+      "location": "Noida"
+    },
+    {
+      "name": "REPAIRING AND OVERHAULING OF 33 KV VCB/CONTROL PANEL WORK UNDER EUDD 33 KV STADIUM ] [44/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1185023_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "635000",
+      "publishedDate": "2026-09-12",
+      "openDate": "2026-09-30",
+      "closeDate": "2026-09-30",
+      "addedOn": "2026-09-12",
+      "location": "Noida"
+    },
+    {
+      "name": "REPAIRING AND OVERHAULING OF 11 KV VCB WORK ] [42/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1185014_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "500000",
+      "publishedDate": "2026-09-12",
+      "openDate": "2026-09-26",
+      "closeDate": "2026-09-26",
+      "addedOn": "2026-09-12",
+      "location": "Noida"
+    },
+    {
+      "name": "REQUEST FOR PROPOSAL  FOR CIVIL INTERIOR AND MEP SERVICE WORK IN 6TH, 7TH, 8TH, 9TH AND GROUND FLOOR (FOR RECEPTION) IN TOWER-2, OFFICE  BUILDING, GREATER NOIDA] [SM/WC-5/2026/10429-10430  DATED-08.09.2026][2026_GNIDA_1184888_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "158786178",
+      "publishedDate": "2026-09-11",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-12",
       "location": "Noida"
     }
   ]
