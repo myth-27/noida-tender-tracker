@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-09-13T10:33:44Z",
+  "lastFetched": "2026-09-14T11:00:58Z",
   "location": "Noida",
-  "totalActive": 143,
+  "totalActive": 164,
   "tenders": [
     {
       "name": "Civil Works for Construction of Security wall, Main Gate and Security Hut at 132 KV Sub-Station YEIDA, Sector-10 (Gautambuddhnagar).] [E-Tender Notice-24/2026-27 Sl No-39/2026-27][2026_UPCTL_1176657_1]",
@@ -1431,6 +1431,216 @@
       "openDate": "2026-09-28",
       "closeDate": "2026-09-25",
       "addedOn": "2026-09-12",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of PAC Items of IXL(Interlocking) and CBTC (Computer Based  Train Control) Sub-System ] [ NMRC/DCOS/Sig./2026/11][2026_NMRCL_1185636_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "40210055",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK OF MAINTAIN 24X7 POWER SUPPLY TRIPPING FREE TREE PRUNNING UNDER EUDD-33 KV YEIDA, NOIDA] [41/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1185521_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "500000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-26",
+      "closeDate": "2026-09-26",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in JUNIOR HIGH SCHOOL, KASNA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_25]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "183000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in SAMVILIYAN VIDHYALYA, GRAM-BIRODA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_26]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "271000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in JUNIOR HIGH SCHOOL, GRAM-TUGALPUR, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_24]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "241000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in PRATHMIK VIDHYALYA, GRAM-ISEPUR, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_23]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "158000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in PRATHMIK VIDHYALYA, GRAM-RAJPUR KALAN, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_22]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "140000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in PRATHMIK VIDHYALYA, GRAM-TUGALPUR, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_21]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "226000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL, GRAM-PEEPALKA SURATPUR, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_6]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "228000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL, GRAM-GHODI BACHHEDA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_4]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "237000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL DABRA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_3]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "240000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL, GRAM-GHAGHOLA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_2]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "215000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in SAMUDAYIK KENDRA, ADARSH GRAM-MAICHA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_1]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "174000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL, GRAM-KULIPURA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_10]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "209000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in UCCH PRATHMIK SCHOOL, GRAM-DALELGARH, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_11]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "193000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in UCCH PRATHMIK SCHOOL, GRAM-BULANDKHERA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_12]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "183000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL, GRAM-RAIPUR BANGAR, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_7]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "216000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in PRATHMIK SCHOOL BULANDKHERA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_9]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "190000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL, GRAM-RITHORI, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_8]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "193000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in PRATHMIK SVASHYA KENDRA, MANDI SHYAM NAGAR, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_19]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "244000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of Printing and Stationary Items] [05/E-TENDER/SPO/2026-27][2026_NOIDA_1184833_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7997200",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-21",
+      "addedOn": "2026-09-14",
       "location": "Noida"
     }
   ]
