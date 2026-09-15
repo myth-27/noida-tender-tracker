@@ -1,18 +1,8 @@
 {
-  "lastFetched": "2026-09-14T11:00:58Z",
+  "lastFetched": "2026-09-15T10:33:27Z",
   "location": "Noida",
-  "totalActive": 164,
+  "totalActive": 189,
   "tenders": [
-    {
-      "name": "Civil Works for Construction of Security wall, Main Gate and Security Hut at 132 KV Sub-Station YEIDA, Sector-10 (Gautambuddhnagar).] [E-Tender Notice-24/2026-27 Sl No-39/2026-27][2026_UPCTL_1176657_1]",
-      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle",
-      "amount": "",
-      "publishedDate": "2026-08-12",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-08-13",
-      "location": "Noida"
-    },
     {
       "name": "Development of NOIDA CONVENTION and HABITAT CENTRE AND ALLIED DEVELOPMENT on Public Private Partnership (PPP) basis at NOIDA, Uttar Pradesh] [01/NCHC/2026-27][2026_NOIDA_1178592_1]",
       "org": "New Okla Industrial Development Authority",
@@ -91,16 +81,6 @@
       "openDate": "2026-10-06",
       "closeDate": "2026-10-05",
       "addedOn": "2026-08-30",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of Community center in Village Milak Lachhi (Sector Techzone-7), Greater Noida.] [SM/(E-TENDER CELL)/2026/800 DATED-22.08.2026][2026_GNIDA_1179266_12]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "69372739",
-      "publishedDate": "2026-08-31",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-08-31",
       "location": "Noida"
     },
     {
@@ -640,96 +620,6 @@
       "publishedDate": "2026-09-08",
       "openDate": "2026-09-18",
       "closeDate": "2026-09-17",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Maintenance of Road (Improvement of MP-3 Road from Sector-71 Underpass to Parthala Flyover), Noida] [46/GM/SM-WC-6/2026-27][2026_NOIDA_1183284_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "89382613",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-06 Area Zone- II Noida.] [38/GM(C)/SM/(WC-06)/2026-27][2026_NOIDA_1183279_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "168787408",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Development of Village (C/o Two Rooms in Baba Bhimrao Ambedkar Ground in Village Sarfabad ), Noida] [31/GM/SM-WC-6/2026-27][2026_NOIDA_1183267_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "3886949",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Maintenance of Road (Mastic Flooing both side slip road of Bisharakh road), Noida] [34/GM/SM-WC-6/2026-27][2026_NOIDA_1183274_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "16516126",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Maintenance of Road (Reconstruction of Footpath And Other misc. work on 24M wide road in front of Mahadev Appartment in Sector-73), Noida] [30/GM/SM-WC-6/2025-26][2026_NOIDA_1183261_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "8221434",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of Road (Resurfacing of 45M wide road from Sector-115 to Sector-76 Metro Station), Noida] [22/GM/SM-WC-6/2026-27][2026_NOIDA_1183203_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "78327182",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Engagement of Agency for Manual Based Night Sweeping and Housekeeping Services in Commercial/Markit/vending zone/public area WC-06, Noida] [25/GM/SM/(WC-06)PH/2026-27][2026_NOIDA_1183256_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "3923267",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Maintenance of Road (Thermoplastic Road marking Paint and Road Safety work on main Roads of Sector-74, 75, 76, 77), Noida ] [24/GM/SM-WC-6/2026-27][2026_NOIDA_1183215_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "8134812",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
-      "addedOn": "2026-09-08",
-      "location": "Noida"
-    },
-    {
-      "name": "Development of Village (P/L CC, RMC, B/W and Other misc work from mini Stadium to Munder Yadav, Radhay Lal Sharma to Mahinder Yadav, Pandit Colony and Other adjoining streets in Village Sarfabad), Noida] [16/GM/SM-WC-6/2026-27][2026_NOIDA_1183190_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "35564593",
-      "publishedDate": "2026-09-07",
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-14",
       "addedOn": "2026-09-08",
       "location": "Noida"
     },
@@ -1641,6 +1531,366 @@
       "openDate": "2026-09-22",
       "closeDate": "2026-09-21",
       "addedOn": "2026-09-14",
+      "location": "Noida"
+    },
+    {
+      "name": "Renovation work of Barat Ghar and Play Ground in Village Chamarawali, Bodaki, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "4509976",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Development and Maintenance of Central Verge and Green belt at city road in Sector Chi-5 for one year, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_25]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "7020643",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and Fixing of LED street light in industrial sector-Ecotech-6,7,8 and Shiffting of 11KV line due to new service road in sector Ecotech-7 Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_24]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "47748824",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance of trees shrubs and lawn with 60m wide road (along Chi-3) including civil work in sector Chi-3  for two years, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_26]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "13897000",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance of trees, shrubs and lawn in Parks and Green Belt including civil work in Sector Swarn Nagri for two years, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_27]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "15299744",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Plantation and maintenance of trees shrubs and lawn on 105m wide road and 60mtr wide road around commercial sector Abadi (Extn.) Jaitpur with Amaltas road for two years, Greater Noida. ] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_28]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "16109218",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance of trees, shurbs and lawn on Central verge, Park, Green belt and RSP  balance Plantation at Expressway for one years, Greater Noida] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_29]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "16458618",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Plantation and Maintenance on Central Verge From S.K Road Junction to Aamka Rotary at 130M and Holy Public Rotary to Naton ki Madhiya, Sector - 36 and Sigma -II Junction to Ecotech - I (EXTN.) Rotary and Ecotech - I (EXTN.) to Dadha Rotary for Two ye] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_30]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "16246370",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Sweeping and Cleaning work in SC/ST Hostel, Sector Chi-4 in Greater Noida for Two Years.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_31]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "8903415",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing Street Light with Chonical Arch Pole from Greater Noida Entry Point Near Chaar Murty Rotary to Ek Murti Rotary on 130 Meter wide Road, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_23]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "31529572",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "S/I/T/C of LED Lighting fixtures in indoor Stadium, Cricket pavilion, Football Pavilion at Shaheed Vijay Singh Pathik Sports Complex, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_22]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "29284566",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing LED street light on Industrial Sector Ecotech-11, Ecotech-2, Ecotech-1 Extn-1, Ecotech-1 Extn., Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_21]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "29177078",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Annual Maintenance contract for Transformer, VCB, L.T. Panel and D.G. Set in Multi Storey Building, Omicron-1A, Greater Noida] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_20]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "22612881",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Re-Arrangement of Existing Street Light Network due to road widening and Providing Street Light on 24 Meter and 30 Meter wide Road in Sector - Techzone-IV, Sector-16C and Sector-04, Greater Noida West, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_19]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "20986008",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply Fixing and Maintenance of street light including 03 Years Operation and Maintenance in Sectror Omega-1 golf link society Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_18]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "16084917",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing LED street light on S.K. road from Pari Chowk to Kasna, Greater Noida] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_16]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "12968332",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Repairing and maintenance of electrical work of affordable houses (four storyed G 3) on 120.78 Sqm area in Sector Omicron-I, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_15]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "12444570",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "CAMC For 3 Years of 1000 KVA Dry Type Transformer,11 KV HT/LT Panel and D.G Set at Lohiya Enclave Sector-12, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_17]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "14900440",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Preventing lives from mishappening fencing of High Mast light in various village in Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_12]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "7063310",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and Fixing of LED street light on PWD link road in Various villages in Greater Noida. (Package-2)] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_11]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "6948675",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Electrification work of Gaushala in village Powari (Phase-2), Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_10]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "6736442",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Non-Comprehensive AMC for 03 years  H.T. and L.T. network and Electrical Material Supply in GNIDA Office Building Sector KP-IV, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_9]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "6661100",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing LED High Mast on Chhapraula ROB and Link Road NH-91, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_8]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "5700556",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and Fixing of LED street light on PWD link road in Various villages in Greater Noida. (Package-1)] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_14]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "11887477",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing LED Street lights on Central Verge from Expo mart Rotary to Sharda Rotary and High Mast at different location around Expo Mart Exhibition centre Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_13]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "10455529",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of 33KV supply of GNIDA Office Building at Sector KP-IV, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_7]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "4916583",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "R/I/T/C of 2 MVA 33/0.415 KV dry type transformer at GNIDA Office Building, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_6]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "3285700",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance work of DSC road from Kachchi Sadak to Noida Entry point for three years, Greater Noida.  ] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_4]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "12611291",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance work (Surface Dressing, Jungle Cleaning, Drain Cleaning, Painting and other Miscellaneous work) for three years of Village Jaitpur Vaishpur and Junpat, Greater Noida. ] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_5]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "15239137",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Repairing of CC Road, Drain and Construction of RCC Drain work in Village Rampur Fatehpur, Greater Noida. ] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_3]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "12583391",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of RCC drain from Dumping ground Entrance to Barsati Nala, Greater Noida.] [SM/(E-TENDER CELL)/2026/811 DATED-10.09.2026][2026_GNIDA_1185538_2]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "14336537",
+      "publishedDate": "2026-09-15",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-25",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK OF FENCING OF ST DOUBLE POLES UNDER EUDD 11 KV STADIUM] [40/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1185854_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "301000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-26",
+      "closeDate": "2026-09-26",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "Civil Work for Construction of Store room at 220 KV Sub-station Metro Depot, Greater Noida.] [E-Tender Notice No-29/2026-27 Sl No-47/2026-27][2026_UPCTL_1185673_1]",
+      "org": "UP Power Transmission Corp.Ltd (Works and Projects))||Chief Engineer (Civil-1)||Noida Circle",
+      "amount": "",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-14",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in UCCH PRATHMIK SCHOOL, GRAM-DEVTA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_14]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "193000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in PRATHMIK SVASTHYA KENDRA, BILASPUR, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_17]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "252000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "CONSTRUCTION OF RTRWH in COMPOSITE SCHOOL, GRAM-NAWADA, GREATER NOIDA, DISTRICT-GAUTAMBUDDNAGAR] [702/MI/E-TENDER/RTRWH/26-27 DT 07.09.2026][2026_UPMID_1184904_13]",
+      "org": "Minor Irrigation Department||Circle Meerut||DivisionGhaziabad",
+      "amount": "224000",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-28",
+      "addedOn": "2026-09-15",
       "location": "Noida"
     }
   ]
