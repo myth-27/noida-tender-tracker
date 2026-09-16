@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-09-15T10:33:27Z",
+  "lastFetched": "2026-09-16T10:20:20Z",
   "location": "Noida",
-  "totalActive": 189,
+  "totalActive": 192,
   "tenders": [
     {
       "name": "Development of NOIDA CONVENTION and HABITAT CENTRE AND ALLIED DEVELOPMENT on Public Private Partnership (PPP) basis at NOIDA, Uttar Pradesh] [01/NCHC/2026-27][2026_NOIDA_1178592_1]",
@@ -214,192 +214,12 @@
       "location": "Noida"
     },
     {
-      "name": "M/o W/s Labour/Operation (Operation of pumping plant, D.G. Set at WWC and Tubewells for Network Sector-85 and Village Illabans) Noida. (For Two Years)] [ 36/SM-JAL-III/2026-27][2026_NOIDA_1182039_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "3656256",
-      "publishedDate": "2026-09-03",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
       "name": "Design, Supply, Install, Implement and Maintenance of ICT Components for Noida Safe City Project] [01/GM(NTC)/SM (E and M)-III/2025-26][2026_NOIDA_1181774_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "2084717319",
       "publishedDate": "2026-09-03",
       "openDate": "2026-10-07",
       "closeDate": "2026-10-05",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Shifting of Jal and Sewer Line for Underpass (Strengthenig Storm Water Drain Waterlogging  at  for Mahamaya flyover Sec-94), Noida.] [ 34/SM-JAL-III/2026-27][2026_NOIDA_1182029_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "2622696",
-      "publishedDate": "2026-09-03",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of Water Supply (Reboring of Tube Well No.-28/80, 29/80, 30/80 and 3/80), Noida. (Erection of New Boring, S/F Pumping Plant, Making Foundation, Chain Pulley Stand and Connection for Tube Well)] [ 35/SM-JAL-III/2026-27][2026_NOIDA_1182034_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "13589124",
-      "publishedDate": "2026-09-03",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Village Labour/Operation (Operation of pumping plant, D.G. Set at WWC and Tubewells for Network Village-Gejha, 92, 93, 93A, 93B, Sector-82) Noida. (For Two Years)] [ 37/SM-JAL-III/2026-27][2026_NOIDA_1182042_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "5484384",
-      "publishedDate": "2026-09-03",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Annual Maint. of Fountain Sector-23, Sector-54 (Wetland) and Sector -57 Crossing (06 Nos Fountain)] [43 /GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181955_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "1903014",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Annual Maintenance of R.O. System Installed in Staff Quarter Sector-14A, Noida.] [42 /GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181927_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "2528288",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of 33/11 KV Sub-Station in Sector-68, Noida] [38 /GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181845_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "111041678",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "D/o Villages Providing Street light work and Renovation of Community Center Vill-Harola, Sec-5, Noida.] [36 /GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181814_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "1937904",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Construction of 33/11 KV Sub-Station in Sector-121, Noida] [37/GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181823_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "123823986",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Annual Maintenance of Staff Quarter Type-I,II, III and IV in Sector-27, Noida] [35/GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181795_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "4144269",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Repair And Renovation of Electrical works in ATS office and Fire Station Compound and Staff Quarter Sector-58, Noida] [41/GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181915_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "2848413",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing of lighting work in Sector-19, NOIDA] [40 /GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181901_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "1785601",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Providing Park lighting work in Sector-20, NOIDA] [ 39 /GM/AO/ Sr M.(E/M)-II 2026-27/ET ][2026_NOIDA_1181855_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "3883871",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening  of Gangajal (Supply and Fixing of 220 HP Submersible Motor Pumps, Starters and Panel at Master UGR in Sector-65) Noida] [14/SM(GANGAJAL)/ET/2026-27][2026_NOIDA_1181614_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "11947553",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of Gangajal (Supply and Erection of 400 KVA, 250 KVA and 63 KVA Transformers in standby provision at different Gangajal UGRs and Fixing High Mast light and LED Lights at Gangajal UGRs in Sector-65, 47, 83, 35.... CONTINUE ON TENDER DOCS] [16/SM(GANGAJAL)/ET/2026-27][2026_NOIDA_1181622_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "11288639",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "Strengthening of Gangajal (Construction of  Utility rooms, Toilet rooms, Painting, Repairing, M.S., Aluminum, S.S. Work and Other Misc. Civil Work at different Gangajal of UGRs in 20 Cusec Network) Noida] [15/SM(GANGAJAL)/ET/2026-27][2026_NOIDA_1181620_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "14131533",
-      "publishedDate": "2026-09-02",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_3]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "227808",
-      "publishedDate": "2026-08-14",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-03",
-      "location": "Noida"
-    },
-    {
-      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_4]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "20190",
-      "publishedDate": "2026-08-14",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
       "addedOn": "2026-09-03",
       "location": "Noida"
     },
@@ -1144,16 +964,6 @@
       "location": "Noida"
     },
     {
-      "name": "WORK] [E-VST-14/ETCN/2026-27][2026_UPTCL_1184383_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
-      "amount": "118000",
-      "publishedDate": "2026-09-10",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-15",
-      "addedOn": "2026-09-10",
-      "location": "Noida"
-    },
-    {
       "name": "M/o Park (Annual Maintenance of Medicinal Park, Sector-91) Noida (Two Year Maintenance Civil Work)] [42/D(H)/DD(H)-III/2026-27][2026_NOIDA_1182977_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "19091540",
@@ -1891,6 +1701,226 @@
       "openDate": "2026-09-28",
       "closeDate": "2026-09-28",
       "addedOn": "2026-09-15",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (Replacement of Damaged, Chocked and small diameter size sewer line with big size diameter sewer line in Jeet Ram Colony Village Bhangel) Noida] [78/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186567_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "11298856",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-30",
+      "closeDate": "2026-09-29",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Village Development and Maintenance (Construction of R.C.C. Under Ground Reservoir capacity of 1500 KL in Village-Bishanpura) Noida] [75/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186516_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "28004691",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Supply of Mustard Oil and Soap for Two Years in Jal Division-I, Sector-5) Noida] [74/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186465_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "3768900",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Water Supply (P/L PVC and M. S. Water Lines from B-1 to A-11, Secor-27 and along with Nala and Near City Magistrate Office in Scctor-19) Noida.] [73/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186461_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "3069704",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "O/M of Sewer line and MSPS/SPS at Expressway (Two Year Repairing of damage rising main pressure PSC/DI MS pipe line LHS Ch-0 to 10.00 Km of green belt along alied N.Gr. N.Expressway) NOIDA] [15/SM(JAL-OA)/26-27][2026_NOIDA_1186236_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6007389",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewer line and MSPS/SPS at Expressway (R/o Damaged manhole, chambers and related work in Green belt LHS alongNoida Gr. Noida Expressway and MSPS-2 to STP-168) Noida (For Two Year)] [17/SM(JAL-OA)/26-27][2026_NOIDA_1186256_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "6819701",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "O/M  of Sewer line and MSPS/SPS at Expressway (Two Year Repairing of Transformer and Diesel Generator Set with other related Electrical works at IPS-5,6,7,8 and MSPS-2 along N.G.N. Expressway) Noida] [14/SM(JAL-OA)/26-27][2026_NOIDA_1186210_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5008774",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o STP Treated Water Line in Sewerage Distric - C (Two Year Annual Repairing, Maintenance of PVC, M.S., C.I./D.I. Treated Water Lines and R/o Sluice Valve, Reflex Valve and C/o Chamber in Network Sector-75, 76, 77, 78, 79, 112, 113, 115, 116, 117 an] [18/SM(JAL-OA)/26-27][2026_NOIDA_1186263_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8028815",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Water Supply (Supply of different Items as V.T. Motor, Non Clog Pump, Control Panel, Cable, Sewer Cleaning related Items and other Electrical Items in Divisional Store of Jal Division-I, Sector-05) Noida] [69/SM(JAL)-I/ET/2026-27][2026_NOIDA_1186421_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8953434",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Replacement of Damaged 400 mm dia M.S. Line at SPS-2/5) Noida.] [66/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186375_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4374232",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Equipment and Machinery (Two Years Annual Repairing of Sewer Cleaning Machines in Jal Division-I, Sector-05) Noida.] [65/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186374_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4109184",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Equipment and Machinery (Two Years Annual Repairing of Tractor, Tractor Trolley and Water Tanker in Jal Division-I) Noida] [42/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186371_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2309017",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Two year cleaning of Internal Sewer line by Portable Re-Cycle Jetting Machine in Village-Nagla Nagli, Nagli Sakhpur, Rohillapur and Sector-130 and 132) Noida (Total 3 Villages Cleaning work for Two Year)] [41/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186357_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2724360",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Strengthening of Sewerage (Strengthening of SPS by Supply of Non Clog Pump with Allied Electrical Works in SPS Compound, Sector-55) Noida] [68/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186378_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "4836051",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o W/s (Two year Annual maintenance of water supply with some Allied electrical work at Gaushala in Sector-135) Noida] [08/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186343_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "1589292",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Sewerage (Cleaning and Desilting of Deep Sewer Line by Super Sucker Machine in Sewerage Network Sector-130, 132 and 135 Noida) Noida.] [10/SM(Jal)-I/ET/2026-27][2026_NOIDA_1186353_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2515056",
+      "publishedDate": "2026-09-16",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-22",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-VST-14/ETCN/2026-27][2026_UPTCL_1184383_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "118000",
+      "publishedDate": "2026-09-10",
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-21",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Park (Development of park at Sector-15A, Noida One Year Maintenance (Hort. Work)] [79/D(H)/DD(H)-I/2026-27][2026_NOIDA_1182109_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "17934006",
+      "publishedDate": "2026-09-03",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-24",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Park (Development of park at sector-15A, Noida with One year Maintenance) (Civil Work) Noida] [78/D(H)/DD(H)-I/2026-27][2026_NOIDA_1182098_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "29086598",
+      "publishedDate": "2026-09-03",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-24",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "SHIFTING HEIGHT RAISING OF 220 KV GREATER NOIDA 400  SECTOR-129 AND 220 KV SEC148 400KP5 LINE ON DC TOWER DUE TO CONSTRUCTION OF ELEVATED APPROACH ROAD UNDER ETD I NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-16/2026-27CE(TW)MRT][2026_UPTCL_1178115_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC Muzaffarnagar",
+      "amount": "12022206",
+      "publishedDate": "2026-08-19",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-23",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-T-07/ETCN/2026-27][2026_UPTCL_1157744_3]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "227808",
+      "publishedDate": "2026-08-14",
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-21",
+      "addedOn": "2026-09-16",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK] [E-VST-06/ETCN/2026-27][2026_UPTCL_1156983_4]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "20190",
+      "publishedDate": "2026-08-14",
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-21",
+      "addedOn": "2026-09-16",
       "location": "Noida"
     }
   ]
