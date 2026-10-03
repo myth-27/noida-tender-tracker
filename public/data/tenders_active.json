@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-10-02T11:30:51Z",
+  "lastFetched": "2026-10-03T10:48:52Z",
   "location": "Noida",
-  "totalActive": 307,
+  "totalActive": 311,
   "tenders": [
     {
       "name": "Civil Work for Construction of 33 KV  Bay for M/s ATS Reality Pvt. Ltd., M/s Three C Home pvt. Ltd. and M/S Gaursons Realtech pvt. Ltd. at 220 KV AIS sub-station Sector -18, YEIDA. ] [E-Tender Notice No-27/2026-27 Sl No-44/2026-27][2026_UPCTL_1180873_1]",
@@ -3071,6 +3071,46 @@
       "openDate": "2026-10-06",
       "closeDate": "2026-10-06",
       "addedOn": "2026-10-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Park, Green Belt and RSP Sector-40 for two year maintenance.] [49/D(H)/DD(H)-II/2026-27][2026_NOIDA_1182965_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "11629358",
+      "publishedDate": "2026-10-01",
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-14",
+      "addedOn": "2026-10-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Park (Annual civil maintenance work of Meghdutam Park in Sector-50) Noida.] [73/D(H)/DD(H)-II/2026-27][2026_NOIDA_1191397_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "15666959",
+      "publishedDate": "2026-10-01",
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-14",
+      "addedOn": "2026-10-03",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Park, Green Belt and RSP Sector-99 for two year maintenance.] [51/D(H)/DD(H)-II/2026-27][2026_NOIDA_1182953_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "11252457",
+      "publishedDate": "2026-10-01",
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-14",
+      "addedOn": "2026-10-03",
+      "location": "Noida"
+    },
+    {
+      "name": "O/M of Sewer line and MSPS/SPS at Expressway (Two Year Repairing  of Transformer and Diesel Generator Set with other related Electrical  works at IPS-5,6,7,8 and MSPS-2 along N.G.N. Expressway) Noida ] [14/SM(JAL-OA)/26-27][2026_NOIDA_1191022_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5008774",
+      "publishedDate": "2026-09-30",
+      "openDate": "2026-10-07",
+      "closeDate": "2026-10-06",
+      "addedOn": "2026-10-03",
       "location": "Noida"
     }
   ]
