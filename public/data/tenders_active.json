@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-10-03T10:48:52Z",
+  "lastFetched": "2026-10-04T11:29:59Z",
   "location": "Noida",
-  "totalActive": 311,
+  "totalActive": 312,
   "tenders": [
     {
       "name": "Civil Work for Construction of 33 KV  Bay for M/s ATS Reality Pvt. Ltd., M/s Three C Home pvt. Ltd. and M/S Gaursons Realtech pvt. Ltd. at 220 KV AIS sub-station Sector -18, YEIDA. ] [E-Tender Notice No-27/2026-27 Sl No-44/2026-27][2026_UPCTL_1180873_1]",
@@ -1784,16 +1784,6 @@
       "location": "Noida"
     },
     {
-      "name": "WORK OF MAINTAIN 24X7 POWER SUPPLY TRIPPING FREE TREE PRUNNING UNDER EUDD-33 KV YEIDA, NOIDA] [41/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1185521_1]",
-      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
-      "amount": "500000",
-      "publishedDate": "2026-09-14",
-      "openDate": "2026-10-03",
-      "closeDate": "2026-10-03",
-      "addedOn": "2026-09-29",
-      "location": "Noida"
-    },
-    {
       "name": "Development of  Village (P/L C.C. RMC and Drain Repairing work Dhan Singh market Near  ATM to Kalu Yadav, Yashodha School, Ghajender Yadav, Raghuveer Yadav and Other Adjoining streets in Village Sarfabad), Noida] [48/GM/SM-WC-6/2026-27][2026_NOIDA_1183393_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "16011289",
@@ -2674,16 +2664,6 @@
       "location": "Noida"
     },
     {
-      "name": "Procurement of Biometric attendance system with Face recognition including biometric device, power supply, LAN Cable and all required accessories along with required software up to 100 persons minimum at various substations under ETD-II, Noida] [VST-E-T-03/ETD-II/N/W][2026_UPTCL_1187228_1]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD II NOIDA",
-      "amount": "100000",
-      "publishedDate": "2026-09-18",
-      "openDate": "2026-10-03",
-      "closeDate": "2026-10-03",
-      "addedOn": "2026-10-01",
-      "location": "Noida"
-    },
-    {
       "name": "WORK] [E-VST-14/ETCN/2026-27][2026_UPTCL_1184383_1]",
       "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
       "amount": "118000",
@@ -3111,6 +3091,36 @@
       "openDate": "2026-10-07",
       "closeDate": "2026-10-06",
       "addedOn": "2026-10-03",
+      "location": "Noida"
+    },
+    {
+      "name": "FOR SHIFTING OF 220 KV MC SECTOR-24 YEIDA LINE (KRR DESIGN) UNDER ELECTRICITY 400 KV SUB STATION DIVISION, GREATER NOIDA UNDER ELECTRICITY TRANSMISSION CIRCLE, UPPTCL, GREATER NOIDA. ] [T-11/2026-27ETC/GN][2026_UPTCL_1192593_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
+      "amount": "9521518",
+      "publishedDate": "2026-10-03",
+      "openDate": "2026-10-22",
+      "closeDate": "2026-10-21",
+      "addedOn": "2026-10-04",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK OF THE INSTALLATION OF 43 NOS. ADDITIONAL 16 KVA CAPACITY TRANSFORMERS UNDER 11 KV YEDA] [51/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1192562_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "701300",
+      "publishedDate": "2026-10-03",
+      "openDate": "2026-10-09",
+      "closeDate": "2026-10-09",
+      "addedOn": "2026-10-04",
+      "location": "Noida"
+    },
+    {
+      "name": "Re Grassing Of Park A,B and C Block Sector -49 and C Block and Janta Flat Sec-31, Noida] [50/D(H)/DD(H)-II/2026-27][2026_NOIDA_1182962_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5183946",
+      "publishedDate": "2026-10-01",
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-14",
+      "addedOn": "2026-10-04",
       "location": "Noida"
     }
   ]
