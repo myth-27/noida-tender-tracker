@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-10-18T09:53:03Z",
+  "lastFetched": "2026-10-19T11:11:37Z",
   "location": "Noida",
-  "totalActive": 175,
+  "totalActive": 184,
   "tenders": [
     {
       "name": "SITC of 30 KVA Modular UPS System at One Station of NMRC] [NMRC/TELE/UPS/2026/12][2026_NMRCL_1189140_1]",
@@ -1751,6 +1751,96 @@
       "openDate": "2026-10-30",
       "closeDate": "2026-10-28",
       "addedOn": "2026-10-18",
+      "location": "Noida"
+    },
+    {
+      "name": "Annual 2-Year Engagement of Agency for Manual Based Sweeping and Housekeeping Service in commercial Bus Depot sector -90 Noida.] [06/GM(C)/SM(Pz.Parking)/26-27][2026_NOIDA_1198046_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "15664173",
+      "publishedDate": "2026-10-19",
+      "openDate": "2026-11-03",
+      "closeDate": "2026-11-02",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (C/o RCC Drain, RCC Box Culvert and Cover at Drain From Sector-44 Police Chowki to Mahamaya Flyover MP-III) Noida] [36/NOIDA/GM/SM-WC-03/2026-27][2026_NOIDA_1198657_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "34408394",
+      "publishedDate": "2026-10-19",
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-26",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance of Old Bus Shelter at Route Number-1, 2, 3 and 4, Noida.] [07/GM(C)/SM(Pz.Parking)/26-27][2026_NOIDA_1198048_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "15832914",
+      "publishedDate": "2026-10-19",
+      "openDate": "2026-11-03",
+      "closeDate": "2026-11-02",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance of D park for two years including civil work in Sector KP-V, Greater Noida. ] [SM/(E-TENDER CELL)/2026/817 DATED-30.09.2026][2026_GNIDA_1192803_54]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "7051741",
+      "publishedDate": "2026-10-08",
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-22",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Annual Maintenance contract for Transformer, VCB, L.T. Panel and D.G. Set in Multi Storey Building, Omicron-1A, Greater Noida.] [SM/(E-TENDER CELL)/2026/817 DATED-30.09.2026][2026_GNIDA_1192803_53]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "22612881",
+      "publishedDate": "2026-10-08",
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-22",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Maintenance work (Surface Dressing, Jungle Cleaning, Drain Cleaning, Painting and other Miscellaneous work) for three years of Village Jaitpur Vaishpur and Junpat, Greater Noida. ] [SM/(E-TENDER CELL)/2026/817 DATED-30.09.2026][2026_GNIDA_1192803_40]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "15239137",
+      "publishedDate": "2026-10-08",
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-22",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Development of 6 Percent abadi plots in Village-Ghanghola (Part-2), Greater Noida] [SM/(E-TENDER CELL)/2026/817 DATED-30.09.2026][2026_GNIDA_1192803_28]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "107739110",
+      "publishedDate": "2026-10-07",
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-22",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and Fixing of RCC Precast Hollow Core Slab in XU-III RCC Drain (Dadha Rotary to Haier Rotary), Greater Noida.] [SM/(E-TENDER CELL)/2026/817 DATED-30.09.2026][2026_GNIDA_1192803_35]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "30049584",
+      "publishedDate": "2026-10-07",
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-22",
+      "addedOn": "2026-10-19",
+      "location": "Noida"
+    },
+    {
+      "name": "Providing and laying Balance Sewer Line Connecting to Main Line at Village Rithori, Junpat, Dadha, Ghori Bachera, Ajaybpur, Greater Noida.] [SM/(E-TENDER CELL)/2026/817 DATED-30.09.2026][2026_GNIDA_1192803_2]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "23259647",
+      "publishedDate": "2026-10-06",
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-22",
+      "addedOn": "2026-10-19",
       "location": "Noida"
     }
   ]
