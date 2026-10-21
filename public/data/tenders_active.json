@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-10-20T10:23:18Z",
+  "lastFetched": "2026-10-21T10:39:55Z",
   "location": "Noida",
-  "totalActive": 153,
+  "totalActive": 156,
   "tenders": [
     {
       "name": "SITC of 30 KVA Modular UPS System at One Station of NMRC] [NMRC/TELE/UPS/2026/12][2026_NMRCL_1189140_1]",
@@ -1531,6 +1531,36 @@
       "openDate": "2026-10-26",
       "closeDate": "2026-10-22",
       "addedOn": "2026-10-20",
+      "location": "Noida"
+    },
+    {
+      "name": "Construction of Law Department at Govt. Degree College, Noida, Distt. Gautam Buddh Nagar (U.P.)] [1236/Unit 3/ Higher Education (Vidhi)/RNN/26 Date 19/10/2026][2026_UPRNN_1199127_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "109040000",
+      "publishedDate": "2026-10-21",
+      "openDate": "2026-11-12",
+      "closeDate": "2026-11-12",
+      "addedOn": "2026-10-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of PAC Items of IXL(Interlocking) and CBTC (Computer Based  Train Control) Sub-System ] [ NMRC/DCOS/Sig./2026/11][2026_NMRCL_1185636_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "40210055",
+      "publishedDate": "2026-09-14",
+      "openDate": "2026-11-05",
+      "closeDate": "2026-11-05",
+      "addedOn": "2026-10-21",
+      "location": "Noida"
+    },
+    {
+      "name": "Design, Supply, Install, Implement and Maintenance of ICT Components for Noida Safe City Project] [01/GM(NTC)/SM (E and M)-III/2025-26][2026_NOIDA_1181774_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2084717319",
+      "publishedDate": "2026-09-03",
+      "openDate": "2026-11-12",
+      "closeDate": "2026-11-06",
+      "addedOn": "2026-10-21",
       "location": "Noida"
     }
   ]
