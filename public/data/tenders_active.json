@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-10-25T10:03:41Z",
+  "lastFetched": "2026-10-26T11:36:19Z",
   "location": "Noida",
-  "totalActive": 78,
+  "totalActive": 84,
   "tenders": [
     {
       "name": "Supply of Spares for PSD Sub System] [NMRC/DCOS/Sig./2026/006][2026_NMRCL_1191865_1]",
@@ -781,6 +781,66 @@
       "openDate": "2026-10-30",
       "closeDate": "2026-10-29",
       "addedOn": "2026-10-24",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (P/F Reflective Signage Boards and Repair of parapit wall in Sector 125, 126 and 127) Noida] [85/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1200256_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "8842617",
+      "publishedDate": "2026-10-26",
+      "openDate": "2026-11-13",
+      "closeDate": "2026-11-12",
+      "addedOn": "2026-10-26",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (M/o Community Center in Gali No. 44 in Village Chhaproli) Noida] [83/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1200217_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7921416",
+      "publishedDate": "2026-10-26",
+      "openDate": "2026-11-03",
+      "closeDate": "2026-11-02",
+      "addedOn": "2026-10-26",
+      "location": "Noida"
+    },
+    {
+      "name": "Emergency work (P/F Barricading at Vulnerable Land of Plot No. 4 and 5 Proposed Noida Convention and Habitat Center in Sector-94) Noida] [82/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1200240_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "1036527",
+      "publishedDate": "2026-10-26",
+      "openDate": "2026-11-13",
+      "closeDate": "2026-11-12",
+      "addedOn": "2026-10-26",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (Improvement work on Black spot at Charkha Rotary Scetor -94) Noida.] [68/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1200196_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2548438",
+      "publishedDate": "2026-10-26",
+      "openDate": "2026-11-03",
+      "closeDate": "2026-11-02",
+      "addedOn": "2026-10-26",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (R/o Community center, Boundary wall and other maintenance work in village Nagli wazidpur and P/L direction board in Sector-130) Noida] [81/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1200209_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7826898",
+      "publishedDate": "2026-10-26",
+      "openDate": "2026-11-03",
+      "closeDate": "2026-11-02",
+      "addedOn": "2026-10-26",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (P/F Reflective Signage Boards in Village Internal Gali in Village Bakhtwarpur) Noida] [53/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1200166_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "2222240",
+      "publishedDate": "2026-10-26",
+      "openDate": "2026-11-03",
+      "closeDate": "2026-11-02",
+      "addedOn": "2026-10-26",
       "location": "Noida"
     }
   ]
