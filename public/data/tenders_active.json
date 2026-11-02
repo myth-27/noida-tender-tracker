@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-11-01T12:07:35Z",
+  "lastFetched": "2026-11-02T13:53:53Z",
   "location": "Noida",
-  "totalActive": 196,
+  "totalActive": 201,
   "tenders": [
     {
       "name": "Supply of Interlocking (IXL) Subsystem Spares for Signalling Department] [ NMRC/DCOS/Sig./2026/14][2026_NMRCL_1193381_1]",
@@ -1961,6 +1961,56 @@
       "openDate": "2026-11-06",
       "closeDate": "2026-11-05",
       "addedOn": "2026-11-01",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal (RFP)  Construction, Operation and Maintenance Of Public Toilets in  Greater Noida Through Public Private Partnership (PPP) On  Build, Operate and Transfer (BOT) basis   (Package A)] [HD/2026/2189  DATED-30.10.2026][2026_GNIDA_1203872_3]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "50701239",
+      "publishedDate": "2026-11-02",
+      "openDate": "2026-11-18",
+      "closeDate": "2026-11-16",
+      "addedOn": "2026-11-02",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal (RFP)   Construction, Operation and Maintenance Of Public Toilets in  Greater Noida Through Public Private Partnership (PPP) On  Build, Operate and Transfer (BOT) basis   (Package B)] [HD/2026/2189  DATED-30.10.2026][2026_GNIDA_1203872_4]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "50701239",
+      "publishedDate": "2026-11-02",
+      "openDate": "2026-11-18",
+      "closeDate": "2026-11-16",
+      "addedOn": "2026-11-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Village(C/o Cultural Stage P/L Paver Block Tiles on Sports Ground in Govt. Primary  School Village Gejha in Sector-93) Noida] [95/GM(C)/SM(WC-8)/ET/2026-27][2026_NOIDA_1204460_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "13086364",
+      "publishedDate": "2026-11-02",
+      "openDate": "2026-11-17",
+      "closeDate": "2026-11-16",
+      "addedOn": "2026-11-02",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Road (Traffic Management Plan For Near Sector-76 Nala to DSC road) Noida] [39/NOIDA/GM/SM-WC-03/2026-27][2026_NOIDA_1204247_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "41702027",
+      "publishedDate": "2026-11-02",
+      "openDate": "2026-11-17",
+      "closeDate": "2026-11-16",
+      "addedOn": "2026-11-02",
+      "location": "Noida"
+    },
+    {
+      "name": "D/o Village (C/o C.C. Road and Repair of Drain in Sadarpur Colony in Village Sadarpur) Noida] [38/GM/SM-WC-03/2026-27][2026_NOIDA_1204230_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "24322784",
+      "publishedDate": "2026-11-02",
+      "openDate": "2026-11-17",
+      "closeDate": "2026-11-16",
+      "addedOn": "2026-11-02",
       "location": "Noida"
     }
   ]
