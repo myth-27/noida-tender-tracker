@@ -1,7 +1,7 @@
 {
-  "lastFetched": "2026-11-15T13:01:09Z",
+  "lastFetched": "2026-11-16T13:59:13Z",
   "location": "Noida",
-  "totalActive": 139,
+  "totalActive": 147,
   "tenders": [
     {
       "name": "Supply of Various Lubricants (Greases AND Oils) for Rolling Stock Department] [NMRC/DCOS/RS/2026/17][2026_NMRCL_1197303_1]",
@@ -1391,6 +1391,86 @@
       "openDate": "2026-11-26",
       "closeDate": "2026-11-25",
       "addedOn": "2026-11-15",
+      "location": "Noida"
+    },
+    {
+      "name": "RFP FOR SELECTION OF SERVICE PROVIDER FOR DESIGN DEVELOPMENT CUSTOMIZATION, IMPLEMENTATION AND CONDUCT OF COMPUTER BASED EXAMINATION, PSYHCOMETRIC TEST AND RELATED ACTIVITIES FOR DIRECT RECRUITMENT OF STAFF IN NMRC ON REGULAR BASIS] [NMRC/GM/HR/2026/009][2026_NMRCL_1209207_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "49200000",
+      "publishedDate": "2026-11-16",
+      "openDate": "2026-12-15",
+      "closeDate": "2026-12-15",
+      "addedOn": "2026-11-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Procurement of Biometric attendance system with Face recognition ] [VST-E-T-03/ETD-II/N/W][2026_UPTCL_1187228_3]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD II NOIDA",
+      "amount": "100000",
+      "publishedDate": "2026-11-16",
+      "openDate": "2026-11-23",
+      "closeDate": "2026-11-23",
+      "addedOn": "2026-11-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of Wheat Husk for Gaushala in Village Jalpura for One Year in  Greater Noida.] [HD/2026/2289 DATED-13.11.2026][2026_GNIDA_1209082_3]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "82125000",
+      "publishedDate": "2026-11-16",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of Green Fodder for Gaushala in Village Jalpura for One Year in Greater Noida.] [HD/2026/2289 DATED-13.11.2026][2026_GNIDA_1209082_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "65700000",
+      "publishedDate": "2026-11-16",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-16",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of Green Fodder for Gaushala in Village Powari for One Year in Greater Noida.] [HD/2026/2289 DATED-13.11.2026][2026_GNIDA_1209082_2]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "10512000",
+      "publishedDate": "2026-11-16",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-16",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK OF MAINTAIN 24X7 POWER SUPPLY TRIPPING FREE TREE PRUNNING UNDER EUDD-11 KV STADIUM, NOIDA] [55/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1209047_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "500000",
+      "publishedDate": "2026-11-16",
+      "openDate": "2026-11-30",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-16",
+      "location": "Noida"
+    },
+    {
+      "name": "WORK OF MAINTAIN 24X7 POWER SUPPLY TRIPPING FREE TREE PRUNNING UNDER EUDD-11 KV EXPRESSWAY, NOIDA] [54/EUDC-T/2026-27/NOIDA (WORKS)][2026_PVVNL_1209020_1]",
+      "org": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "amount": "500000",
+      "publishedDate": "2026-11-16",
+      "openDate": "2026-11-30",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-16",
+      "location": "Noida"
+    },
+    {
+      "name": "CAMC of 82 Escalators of Schindler make installed at the stations of N-GN corridor] [NMRC/L-E/Escalator CAMC/ Schindler /2026/483][2026_NMRCL_1199213_1]",
+      "org": "Noida Metro Rail Corporation Ltd.||Noida Metro Rail Corporation Ltd. HQ",
+      "amount": "103500000",
+      "publishedDate": "2026-10-21",
+      "openDate": "2026-11-30",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-16",
       "location": "Noida"
     }
   ]
