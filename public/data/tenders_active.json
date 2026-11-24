@@ -1,18 +1,8 @@
 {
-  "lastFetched": "2026-11-22T13:39:19Z",
+  "lastFetched": "2026-11-24T16:13:10Z",
   "location": "Noida",
-  "totalActive": 130,
+  "totalActive": 139,
   "tenders": [
-    {
-      "name": "Expression of Interest (EOI) for development and operation of health, Ayurveda, medicinal and holistic health facilities in the Medicinal Park located at Sector-91, Noida.] [44/D(H)/DD(H)-III/2026-27][2026_NOIDA_1201788_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "",
-      "publishedDate": "2026-10-28",
-      "openDate": "2026-11-24",
-      "closeDate": "2026-11-23",
-      "addedOn": "2026-10-28",
-      "location": "Noida"
-    },
     {
       "name": "WORK] [E-T-21/ETCN/2026-27][2026_UPTCL_1205366_1]",
       "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA",
@@ -494,16 +484,6 @@
       "location": "Noida"
     },
     {
-      "name": "Request for Proposal  for Selection of Project Management Unit to support GNIDA  ] [GRENO/HRD/2026/599 DATED-12.11.2026][2026_GNIDA_1208242_1]",
-      "org": "Greater Noida Industrial Development Authority",
-      "amount": "",
-      "publishedDate": "2026-11-13",
-      "openDate": "2026-11-25",
-      "closeDate": "2026-11-23",
-      "addedOn": "2026-11-13",
-      "location": "Noida"
-    },
-    {
       "name": "Stitching of Winter Uniform of regular class four employees of Noida Authority for the year 2025-2026.] [11/E-TENDER/SPO/2026-27][2026_NOIDA_1207849_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "965100",
@@ -530,16 +510,6 @@
       "publishedDate": "2026-11-16",
       "openDate": "2026-12-15",
       "closeDate": "2026-12-15",
-      "addedOn": "2026-11-16",
-      "location": "Noida"
-    },
-    {
-      "name": "Procurement of Biometric attendance system with Face recognition ] [VST-E-T-03/ETD-II/N/W][2026_UPTCL_1187228_3]",
-      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||SE ETC NOIDA||EE ETD II NOIDA",
-      "amount": "100000",
-      "publishedDate": "2026-11-16",
-      "openDate": "2026-11-23",
-      "closeDate": "2026-11-23",
       "addedOn": "2026-11-16",
       "location": "Noida"
     },
@@ -1174,26 +1144,6 @@
       "location": "Noida"
     },
     {
-      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-10 Area Zone- I Noida.] [32/GM/SM/(WC-10)PH-II/2026-27][2026_NOIDA_1208407_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "115289722",
-      "publishedDate": "2026-11-13",
-      "openDate": "2026-11-25",
-      "closeDate": "2026-11-23",
-      "addedOn": "2026-11-19",
-      "location": "Noida"
-    },
-    {
-      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors/Villages of WC-10 Area Zone- II Noida.] [31/GM/SM/(WC-10)PH-II/2026-27][2026_NOIDA_1208184_1]",
-      "org": "New Okla Industrial Development Authority",
-      "amount": "89213573",
-      "publishedDate": "2026-11-13",
-      "openDate": "2026-11-25",
-      "closeDate": "2026-11-23",
-      "addedOn": "2026-11-19",
-      "location": "Noida"
-    },
-    {
       "name": "Proposal for Empanelment of Agencies/NGO/Trust for Carrying Out Sterilization and Immunization of Stray Dogs in NOIDA.] [43/GM(C)/SM-WC-09/ET/2026-27][2026_NOIDA_1210566_1]",
       "org": "New Okla Industrial Development Authority",
       "amount": "18669750",
@@ -1301,6 +1251,146 @@
       "openDate": "2026-12-03",
       "closeDate": "2026-12-02",
       "addedOn": "2026-11-22",
+      "location": "Noida"
+    },
+    {
+      "name": "Cleaning and Sweeping of all roads and drains Including disposal of Solid Waste of various Sectors and Villages of WC-7 Area Zone- II) Noida] [20/GM/SM/WC-7/PH/ET/2026-27][2026_NOIDA_1211652_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "147562881",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "FOR CONSTRUCTION OF 0.5 KM OF 220 KV DC MONOPOLE LINE FOR OVERHEAD PORTION OF 220 KV SC GREATER NOIDA 765 KV WUPPTCL MS SAEL LINE UNDER ETD II NOIDA UNDER TRANSMISSION WEST ZONE MEERUT] [T-20/2026-27CE(TW)MRT][2026_UPTCL_1211639_1]",
+      "org": "UP Power Transmission Corp.Ltd (Operation)||Chief Engineer (TW) West  Meerut||S.E. ETC  Meerut",
+      "amount": "22817897",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-15",
+      "closeDate": "2026-12-14",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal  for Invitation for Selection of contractors to construct, install, maintain  and manage Unipoles at selected locations at  Greater Noida (Package-8) ] [US/2026/1126 DATED-20.11.2026][2026_GNIDA_1211597_4]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-09",
+      "closeDate": "2026-12-07",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "Supply of JCB Dumper/Tipper Tractor Trolley for  Encroachment Removal Drive work in Urban Service,  GNIDA.  ] [US/2026/1129    DATED-20.11.2026][2026_GNIDA_1211591_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "13390025",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-02",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal  for Invitation for Selection of contractors to construct, install, maintain and manage Unipoles at selected locations at  Greater Noida (Package-5) ] [US/2026/1126 DATED-20.11.2026][2026_GNIDA_1211597_2]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "0.00",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-09",
+      "closeDate": "2026-12-07",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal  for Invitation for Selection of contractors to construct, install, maintain and manage Unipoles at selected locations at  Greater Noida (Package-4) ] [US/2026/1126 DATED-20.11.2026][2026_GNIDA_1211597_1]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-09",
+      "closeDate": "2026-12-07",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "Request for Proposal  for Invitation for Selection of contractors to construct, install, maintain  and manage Unipoles at selected locations at  Greater Noida (Package-6)] [US/2026/1126 DATED-20.11.2026][2026_GNIDA_1211597_3]",
+      "org": "Greater Noida Industrial Development Authority",
+      "amount": "",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-09",
+      "closeDate": "2026-12-07",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Village(Revitalizing and Redevelopment of Pond of its Culture Heritage with Modern recreational facilities of Brahma Sarovar at Village Gejha, Sector-93) Noida] [98/GM(C)/SM(WC-8)/ET/2026-27][2026_NOIDA_1211509_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "59968462",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Village(Reconstruction of RCC Drain Village Hazipur in Sector-104) Noida] [93/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1211491_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "16528631",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "Engagement of Agency for Manual Based Night Sweeping and Housekeeping Services in Commercial/Markit/vending zone/public area WC-08, Noida] [65/GM(C)/SM(WC-8)/ET/2026-27][2026_NOIDA_1211456_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "5499911",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "M/o Village (M/o Drain and CC Road front of Mr. Bhatura To Jagresh and Toni House To Shri Nager Market Village Shahdra in Sector-141)Noida] [67/GM(C)/ SM (WC-8)/ET/2026-27][2026_NOIDA_1211475_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "9829534",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-11-30",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "Stitching of Winter Uniform for Contract Staff of Noida Authority.] [12/E-TENDER/SPO/2026-27][2026_NOIDA_1210397_1]",
+      "org": "New Okla Industrial Development Authority",
+      "amount": "7676025",
+      "publishedDate": "2026-11-23",
+      "openDate": "2026-12-08",
+      "closeDate": "2026-12-07",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "80 Cusec Gangajal Pariyojna, Noida (Laying of Addl. Pipe Line from UGR A-9) Sector-143 to Green Belt of Sector-141 Metro.] [1351/Unit-3/Gangajal (Sec-143/141) /RNN/2026 Date 19-11-2026][2026_UPRNN_1210432_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "47569241",
+      "publishedDate": "2026-11-20",
+      "openDate": "2026-11-30",
+      "closeDate": "2026-11-28",
+      "addedOn": "2026-11-24",
+      "location": "Noida"
+    },
+    {
+      "name": "80 Cusec Gangajal Pariyojna, Noida (Laying of MS Pipe at UGR (M-1) Sector-118 to Sector- 107 for water supply of UGRSector-100, Noida.] [1349/Unit-3/Gangajal (Sec-118-107/100) /RNN/2026 Date 19-11-2026][2026_UPRNN_1210425_1]",
+      "org": "UP Rajkiya Nirman Nigam Ltd||G M - Electrical Zone - 2 Delhi||Electrical Unit-3 Noida",
+      "amount": "56770279",
+      "publishedDate": "2026-11-19",
+      "openDate": "2026-11-30",
+      "closeDate": "2026-11-28",
+      "addedOn": "2026-11-24",
       "location": "Noida"
     }
   ]
